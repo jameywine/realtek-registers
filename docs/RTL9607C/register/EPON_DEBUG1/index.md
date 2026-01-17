@@ -1,0 +1,23 @@
+
+
+
+# EPON_DEBUG1 Details
+
+*Offset:* 0x36014
+
+*Feature:* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+
+## Fields
+
+
+|Bit(s)|Field Name|Description|
+| :--- | :--- | :--- |
+|31:17|RESERVED||
+|16|MODE0_7FFF_HANDLE||
+|15|CHURN_MODE||
+|14|IGNORE_MPCP_CRC||
+|13|DIS_RANDOM_DELAY_EN||
+|12|MODE0_INVALID_HDL||
+|11|MODE1_INVALID_HDL||
+|10|RESERVED||
+|9:0|DBG_SEL||

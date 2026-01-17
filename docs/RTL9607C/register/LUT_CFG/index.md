@@ -1,0 +1,23 @@
+
+
+
+# LUT_CFG Details
+
+*Offset:* 0x17000
+
+*Feature:* [ADDRESS_TABLE_LOOKUP](../../feature/ADDRESS_TABLE_LOOKUP)
+
+## Fields
+
+
+|Bit(s)|Field Name|Description|
+| :--- | :--- | :--- |
+|31:30|LUT_IPMC_VLAN_MODE||
+|29|L34_L2_LOOKUP_MISS_ACT||
+|28:27|LUT_L2UC_ACT||
+|26|LUT_ENTRY_FULL_ACT||
+|25|LUT_L34_ARP_USAGE_AS_KNOWN||
+|24:23|LUT_IPMC_HASH||
+|22|LINKDOWN_AGEOUT||
+|21|BCAM_DIS||
+|20:0|AGE_SPD||

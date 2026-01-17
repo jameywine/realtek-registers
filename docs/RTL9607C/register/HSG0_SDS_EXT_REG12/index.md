@@ -1,0 +1,27 @@
+
+
+
+# HSG0_SDS_EXT_REG12 Details
+
+*Offset:* 0x41A30
+
+*Feature:* [HIGH_SG_SERDES](../../feature/HIGH_SG_SERDES)
+
+## Fields
+
+
+|Bit(s)|Field Name|Description|
+| :--- | :--- | :--- |
+|31:16|RESERVED||
+|15:13|SEP_CFG_PRBS_SEED||
+|12|SEP_CFG_FEC_PRBS_MD||
+|11|SEP_CFG_PRBS_ON||
+|10|SEP_CFG_FIFO_RESTORE||
+|9|SEP_CFG_ASDS_RST||
+|8|SEP_CFG_NEG_CLKRD_D2A||
+|7|SEP_CFG_FIFO_ORG||
+|6|SEP_CFG_FRXNRZI_SEL||
+|5|SEP_CFG_SCR_SEED_SEL||
+|4|SEP_CFG_XSG257_NO_CLKGAT||
+|3|SEP_CFG_XSG_OFF_AFE1||
+|2:0|SEP_CFG_IPG_CNT||

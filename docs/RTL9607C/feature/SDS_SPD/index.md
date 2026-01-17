@@ -1,0 +1,25 @@
+
+
+
+# RTL9607C Feature: SDS_SPD
+
+
+|Offset|Name|Description|
+| :--- | :--- | :--- |
+|0x40600|[SDS_ANA_SPD_REG32](../../register/SDS_ANA_SPD_REG32)||
+|0x40604|[SDS_ANA_SPD_REG33](../../register/SDS_ANA_SPD_REG33)||
+|0x40608|[SDS_ANA_SPD_REG34](../../register/SDS_ANA_SPD_REG34)||
+|0x4060C|[SDS_ANA_SPD_REG35](../../register/SDS_ANA_SPD_REG35)||
+|0x40610|[SDS_ANA_SPD_REG36](../../register/SDS_ANA_SPD_REG36)||
+|0x40614|[SDS_ANA_SPD_REG37](../../register/SDS_ANA_SPD_REG37)||
+|0x40618|[SDS_ANA_SPD_REG38](../../register/SDS_ANA_SPD_REG38)||
+|0x4061C|[SDS_ANA_SPD_REG39](../../register/SDS_ANA_SPD_REG39)||
+|0x40620|[SDS_ANA_SPD_REG40](../../register/SDS_ANA_SPD_REG40)||
+|0x40624|[SDS_ANA_SPD_REG41](../../register/SDS_ANA_SPD_REG41)||
+|0x40628|[SDS_ANA_SPD_REG42](../../register/SDS_ANA_SPD_REG42)||
+|0x4062C|[SDS_ANA_SPD_REG43](../../register/SDS_ANA_SPD_REG43)||
+|0x40630|[SDS_ANA_SPD_REG44](../../register/SDS_ANA_SPD_REG44)||
+|0x40634|[SDS_ANA_SPD_REG45](../../register/SDS_ANA_SPD_REG45)||
+|0x40638|[SDS_ANA_SPD_REG46](../../register/SDS_ANA_SPD_REG46)||
+|0x4063C|[SDS_ANA_SPD_REG47](../../register/SDS_ANA_SPD_REG47)||
+|0x40640|[SDS_ANA_SPD_REG48](../../register/SDS_ANA_SPD_REG48)||

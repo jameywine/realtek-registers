@@ -1,0 +1,19 @@
+
+
+
+# SDS_WDIG_REG16 Details
+
+*Offset:* 0x404C0
+
+*Feature:* [SDS_WDIG](../../feature/SDS_WDIG)
+
+## Fields
+
+
+|Bit(s)|Field Name|Description|
+| :--- | :--- | :--- |
+|31:16|RESERVED||
+|15:9|WDIG_REG16_0||
+|8|FRC_SDS_MODE_ON||
+|7:5|WDIG_REG16_1||
+|4:0|FRC_SDS_MODE_VAL||

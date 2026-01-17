@@ -1,0 +1,25 @@
+
+
+
+# SDS_REG7 Details
+
+*Offset:* 0x4081C
+
+*Feature:* [PHY_SERDES](../../feature/PHY_SERDES)
+
+## Fields
+
+
+|Bit(s)|Field Name|Description|
+| :--- | :--- | :--- |
+|31:16|RESERVED||
+|15|SP_CFG_8B10B_NO_CREXT||
+|14|SP_CFG_NEG_CLKWR_A2D||
+|13|SP_CFG_MIIXF_TS1K||
+|12|SP_CFG_DLY_PRE8||
+|11|SP_CFG_GRXD_SEL||
+|10|SP_CFG_LPI_CMD_MII||
+|9|SP_CFG_MARK_RXSCR_ERR||
+|8|SP_CFG_MARK_TXSCR_ERR||
+|7:4|SP_BYP_START||
+|3:0|SP_BYP_END||

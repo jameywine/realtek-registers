@@ -1,0 +1,27 @@
+
+
+
+# SDS_REG14 Details
+
+*Offset:* 0x40838
+
+*Feature:* [PHY_SERDES](../../feature/PHY_SERDES)
+
+## Fields
+
+
+|Bit(s)|Field Name|Description|
+| :--- | :--- | :--- |
+|31:16|RESERVED||
+|15|SP_CFG_SPDUP||
+|14|SP_CFG_SPDUP_FIB100||
+|13|SP_CFG_RXSLEEP_TMROUT||
+|12|SP_SEL_CALIBOK||
+|11|SP_SEL_SDET||
+|10|SP_SEL_ANOK||
+|9|SP_CFG_SEL_ODD_BIT||
+|8|SP_CFG_FRC_LD_VALUE||
+|7|SP_CFG_FRC_LD||
+|6|SP_CFG_SGMI_CK1MS_EN||
+|5:3|SP_CFG_LINK_TMR_SGMII_SEL||
+|2:0|SP_CFG_LINK_TMR_NORM_SEL||

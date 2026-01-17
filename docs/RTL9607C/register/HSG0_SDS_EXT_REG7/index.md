@@ -1,0 +1,24 @@
+
+
+
+# HSG0_SDS_EXT_REG7 Details
+
+*Offset:* 0x41A1C
+
+*Feature:* [HIGH_SG_SERDES](../../feature/HIGH_SG_SERDES)
+
+## Fields
+
+
+|Bit(s)|Field Name|Description|
+| :--- | :--- | :--- |
+|31:16|RESERVED||
+|15|SEP_CFG_FRC_HSO_INV_EN||
+|14|SEP_CFG_FRC_HSO_INV_VAL||
+|13|SEP_CFG_SDS_BERCHK_FIB100||
+|12|SEP_CFG_LCH_RDS||
+|11:4|SEP_CFG_SDS_BCHK_PMSK||
+|3|SEP_CFG_SDS_BCHK_PMSK_FRC||
+|2|SEP_CFG_FEC_MD_ON||
+|1|SEP_CFG_KEEP_IPG_CNT||
+|0|SEP_CFG_EPON_ENABLE||

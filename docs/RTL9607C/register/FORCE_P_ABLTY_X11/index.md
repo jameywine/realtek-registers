@@ -1,0 +1,29 @@
+
+
+
+# FORCE_P_ABLTY_X11 Details
+
+*Offset:* 0x2F4
+
+*Feature:* [OTHER](../../feature/OTHER)
+
+## Fields
+
+
+|Bit(s)|Field Name|Description|
+| :--- | :--- | :--- |
+|31:16|RESERVED||
+|15|EEE_ABLTY_X11||
+|14|RESERVED||
+|13:12|SPEED23_ABLTY_X11||
+|11|LPI_1000_ABLTY_X11||
+|10|LPI_100_ABLTY_X11||
+|9|MST_FAULT_ABLTY_X11||
+|8|MST_MOD_ABLTY_X11||
+|7|NWAY_ABLTY_X11||
+|6|TXPAUSE_ABLTY_X11||
+|5|RXPAUSE_ABLTY_X11||
+|4|LINK_ABLTY_X11||
+|3|FIB1G_ABLTY_X11||
+|2|DUPLEX_ABLTY_X11||
+|1:0|SPEED01_ABLTY_X11||

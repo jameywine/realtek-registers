@@ -1,0 +1,25 @@
+
+
+
+# GPON_GEM_US_INTR_STS Details
+
+*Offset:* 0x706008
+
+*Feature:* [GEM_UPSTREAM](../../feature/GEM_UPSTREAM)
+
+## Fields
+
+
+|Bit(s)|Field Name|Description|
+| :--- | :--- | :--- |
+|31:10|RESERVED||
+|9|SD_VALID_LONG_IND||
+|8|SD_DIFF_HUGE_IND||
+|7|REQUEST_DELAY_IND||
+|6|BC_LESS6_IND||
+|5|ERR_PLI_IND||
+|4|BURST_TM_LARGER_GTC_IND||
+|3|BANK_TOO_INDUCH_AT_END_IND||
+|2|BANK_REMAIN_AFRD_IND||
+|1|BANK_OVERFL_IND||
+|0|BANK_UNDERFL_IND||

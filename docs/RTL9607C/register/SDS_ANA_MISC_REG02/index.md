@@ -1,0 +1,31 @@
+
+
+
+# SDS_ANA_MISC_REG02 Details
+
+*Offset:* 0x40508
+
+*Feature:* [SDS_MISC](../../feature/SDS_MISC)
+
+## Fields
+
+
+|Bit(s)|Field Name|Description|
+| :--- | :--- | :--- |
+|31:16|RESERVED||
+|15|FRC_RXIDLE_VAL||
+|14|FRC_RXIDLE_ON||
+|13|FRC_BER_NOTIFY_VAL||
+|12|FRC_BER_NOTIFY_ON||
+|11|FRC_CKRDY_VAL||
+|10|FRC_CKRDY_ON||
+|9|FRC_OOBS_EN_VAL||
+|8|FRC_OOBS_EN_ON||
+|7|FRC_RX_DATA_EN_VAL||
+|6|FRC_RX_DATA_EN_ON||
+|5|FRC_RX_CLKWR_EN_VAL||
+|4|FRC_RX_CLKWR_EN_ON||
+|3|FRC_CLK156_EN_VAL||
+|2|FRC_CLK156_EN_ON||
+|1|FRC_RXAUI_VAL||
+|0|FRC_RXAUI_ON||

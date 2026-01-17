@@ -1,0 +1,25 @@
+
+
+
+# GPON_GEM_DS_MC_CFG Details
+
+*Offset:* 0x704080
+
+*Feature:* [GEM_PORT_DOWNSTREAM](../../feature/GEM_PORT_DOWNSTREAM)
+
+## Fields
+
+
+|Bit(s)|Field Name|Description|
+| :--- | :--- | :--- |
+|31:11|RESERVED||
+|10|IPV6_MC_FORCE_PASS||
+|9|IPV6_MC_FORCE_DROP||
+|8:7|RESERVED||
+|6|BROADCAST_PASS||
+|5|RESERVED||
+|4|NON_MULTICAST_PASS||
+|3|FCS_CHK_EN||
+|2|IPV4_MC_FORCE_PASS||
+|1|IPV4_MC_FORCE_DROP||
+|0|MC_EXCL_MODE||

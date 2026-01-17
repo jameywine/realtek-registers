@@ -1,0 +1,24 @@
+
+
+
+# SDS_ANA_COM_REG30 Details
+
+*Offset:* 0x405F8
+
+*Feature:* [SDS_COM](../../feature/SDS_COM)
+
+## Fields
+
+
+|Bit(s)|Field Name|Description|
+| :--- | :--- | :--- |
+|31:16|RESERVED||
+|15:12|REG_CMU_CP_I_GPHY||
+|11|REG_CMU_DUMMY_MOMCAP_GPHY||
+|10|REG_CMU_ICP_SEL_LBW_GPHY||
+|9|REG_CMU_LCBIAS_LPF_EN_GPHY||
+|8|REG_CMU_PFD_SEL_GPHY||
+|7:5|REG_CMU_LDO_SEL_GPHY||
+|4:2|REG_CMU_LPF_CP_GPHY||
+|1|REG_CMU_LPF_EN_LOWR_GPHY||
+|0|REG_CMU_BYPASS_PI_GPHY||

@@ -1,0 +1,11 @@
+
+
+
+# RTL9607C Feature: PONIP_SCHEDULING_DOWNSTREAM
+
+
+|Offset|Name|Description|
+| :--- | :--- | :--- |
+|0xF0A118|[PONIP_DBG_CTRL_DS](../../register/PONIP_DBG_CTRL_DS)||
+|0xF0A11C|[PONIP_TOTAL_PAGE_CNT_DS](../../register/PONIP_TOTAL_PAGE_CNT_DS)||
+|0xF0A120|[PONIP_SID_USED_PAGE_CNT_DS](../../register/PONIP_SID_USED_PAGE_CNT_DS)||

@@ -1,0 +1,23 @@
+
+
+
+# PON_DBGO_CFG_DS Details
+
+*Offset:* 0xF0A0E0
+
+*Feature:* [INTERFACE](../../feature/INTERFACE)
+
+## Fields
+
+
+|Bit(s)|Field Name|Description|
+| :--- | :--- | :--- |
+|31:30|RESERVED||
+|29:28|CFG_PON_DBGO_TEST||
+|27:26|CFG_PON_DBGO_SHIFT_H||
+|25:24|CFG_PON_DBGO_SHIFT_L||
+|23:20|CFG_PON_DBGO_TOPSEL_H||
+|19:16|CFG_PON_DBGO_TOPSEL_L||
+|15:8|CFG_PON_DBGO_MODSEL||
+|7:4|RESERVED||
+|3:0|CFG_PON_DBGO_GRPSEL||

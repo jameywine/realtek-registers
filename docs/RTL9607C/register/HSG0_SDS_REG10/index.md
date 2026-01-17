@@ -1,0 +1,27 @@
+
+
+
+# HSG0_SDS_REG10 Details
+
+*Offset:* 0x41828
+
+*Feature:* [HIGH_SG_SERDES](../../feature/HIGH_SG_SERDES)
+
+## Fields
+
+
+|Bit(s)|Field Name|Description|
+| :--- | :--- | :--- |
+|31:16|RESERVED||
+|15|SP_CFG_EEE_NEW||
+|14|SP_CFG_ICG_GTCK||
+|13|SP_CFG_ICG_GRCK||
+|12|SP_CFG_SEL2_CALIBOK||
+|11|SP_QSGMII_NO_DILE2||
+|10|SP_QSGMII_EEE_SEL||
+|9|SP_QSGMII_LPI_TX_EN||
+|8|SP_QSGMII_LPI_RX_EN||
+|7|SP_QSGMII_INB_EN||
+|6|SP_QSGMII_RXER_SEL||
+|5:4|SP_CFG_FAST_TIMER||
+|3:0|SP_EEE_LINK_FASTER||

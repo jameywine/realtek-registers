@@ -1,0 +1,28 @@
+
+
+
+# WSDS_DIG_18 Details
+
+*Offset:* 0x40090
+
+*Feature:* [PHY_SERDES](../../feature/PHY_SERDES)
+
+## Fields
+
+
+|Bit(s)|Field Name|Description|
+| :--- | :--- | :--- |
+|31:16|RESERVED||
+|15|CFG_OPTIC_LOS_SEL_EPON||
+|14|CFG_FRC_OPTIC_LOS||
+|13|CFG_FRCV_OPTIC_LOS||
+|12|BEN_OE||
+|11|TX_DISABLE_OPTIC_OE||
+|10|CFG_FRC_OPTIC_LOS_INV||
+|9|CFG_FRC_CDR_LOS_INV||
+|8|CFG_FRC_TX_DISABLE_OPTIC_INV||
+|7:6|CFG_FRC_TX_DISABLE_OPTIC||
+|5|CFG_FRC_TX_OPTIC_SD_INV||
+|4:3|CFG_FRC_TX_OPTIC_SD||
+|2|CFG_FRC_BEN_INV||
+|1:0|RESERVED||

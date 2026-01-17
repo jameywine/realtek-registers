@@ -1,0 +1,30 @@
+
+
+
+# FIB_REG16 Details
+
+*Offset:* 0x40C40
+
+*Feature:* [PHY_SERDES](../../feature/PHY_SERDES)
+
+## Fields
+
+
+|Bit(s)|Field Name|Description|
+| :--- | :--- | :--- |
+|31:16|RESERVED||
+|15|FP_CFG_ENLONGERR||
+|14|FP_CFG_ENPMEERR||
+|13:12|FP_CFG_IPG_BYTE||
+|11|FP_CFG_FLINKOK||
+|10|FP_CFG_FRC_SD||
+|9|FP_CFG_FRC_TX||
+|8|FP_CFG_DIS_CLKWR_GATING||
+|7|FP_CFG_DFULLDUO100||
+|6|FP_FIB_REG_16_06||
+|5|FP_CFG_REMO100LBK||
+|4|FP_CFG_DIS_RX_FEFI||
+|3|FP_CFG_DIS_TX_FEFI||
+|2|FP_CFG_SEL_RX_SD||
+|1|FP_CFG_SEL_TX_SD||
+|0|FP_CFG_SEL_SD||

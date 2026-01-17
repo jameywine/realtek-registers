@@ -1,0 +1,18 @@
+
+
+
+# EEE_TX_TIMER_GIGA_CTRL Details
+
+*Offset:* 0x23144
+
+*Feature:* [POWER_SAVING](../../feature/POWER_SAVING)
+
+## Fields
+
+
+|Bit(s)|Field Name|Description|
+| :--- | :--- | :--- |
+|31:28|RESERVED||
+|27:20|EEE_TX_PAUSE_WAKE_TIMER_GE||
+|19:8|EEE_LOW_Q_TX_DELAY_GE||
+|7:0|EEE_TX_WAKE_TIMER_GE||

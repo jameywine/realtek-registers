@@ -1,0 +1,31 @@
+
+
+
+# SDS_ANA_MISC_REG00 Details
+
+*Offset:* 0x40500
+
+*Feature:* [SDS_MISC](../../feature/SDS_MISC)
+
+## Fields
+
+
+|Bit(s)|Field Name|Description|
+| :--- | :--- | :--- |
+|31:16|RESERVED||
+|15|FRC_PWR_ISO_VAL||
+|14|FRC_PWR_ISO_ON||
+|13|FRC_NO_SDS_VAL||
+|12|FRC_NO_SDS_ON||
+|11|FRC_CMU_EN_VAL||
+|10|FRC_CMU_EN_ON||
+|9|FRC_CLKREQB_VAL||
+|8|FRC_CLKREQB_ON||
+|7|FRC_PDOWN_VAL||
+|6|FRC_PDOWN_ON||
+|5|FRC_RX_EN_VAL||
+|4|FRC_RX_EN_ON||
+|3|FRC_RSTB_BITERR_VAL||
+|2|FRC_RSTB_BITERR_ON||
+|1|FRC_V2ANALOG_VAL||
+|0|FRC_V2ANALOG_ON||

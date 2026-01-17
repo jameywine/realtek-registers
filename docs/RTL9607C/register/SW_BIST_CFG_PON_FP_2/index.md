@@ -1,0 +1,21 @@
+
+
+
+# SW_BIST_CFG_PON_FP_2 Details
+
+*Offset:* 0x310E8
+
+*Feature:* [BIST_BISR](../../feature/BIST_BISR)
+
+## Fields
+
+
+|Bit(s)|Field Name|Description|
+| :--- | :--- | :--- |
+|31:24|RESERVED||
+|23:18|SRAM_PBODS_2_BISR_OUT_XXX||
+|17|SRAM_PBODS_2_BISR_REPAIR_XXX||
+|16|SRAM_PBODS_2_PWR_RSTN_XXX||
+|15|SRAM_PBODS_2_HOLD_REMAP_XXX||
+|14:10|SRAM_PBODS_2_BIST_RSLT||
+|9:0|SRAM_PBODS_2_BIST_CTRL||
