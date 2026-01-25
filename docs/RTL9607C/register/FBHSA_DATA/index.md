@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: FBHSA_DATA
 
+## Details
 
-# FBHSA_DATA Details
+*Name* FBHSA_DATA
 
-*Offset:* 0x281D4
+*Offset* 0x281D4
 
-*Feature:* [MODIFIER_HSA](../../feature/MODIFIER_HSA)
+*Feature* [MODIFIER_HSA](../../feature/MODIFIER_HSA)
 
 *Bit Offset:* 32
 
 *Array Range:* 0-22
+
+## Description
 
 ## Fields
 

@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: LUT_SA_TRF
 
+## Details
 
-# LUT_SA_TRF Details
+*Name* LUT_SA_TRF
 
-*Offset:* 0x1710C
+*Offset* 0x1710C
 
-*Feature:* [OTHER](../../feature/OTHER)
+*Feature* [OTHER](../../feature/OTHER)
 
 *Bit Offset:* 32
 
 *Array Range:* 0-65
+
+## Description
 
 ## Fields
 

@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: FORCE_BEN
 
+## Details
 
-# FORCE_BEN Details
+*Name* FORCE_BEN
 
-*Offset:* 0x400E4
+*Offset* 0x400E4
 
-*Feature:* [PHY_SERDES](../../feature/PHY_SERDES)
+*Feature* [PHY_SERDES](../../feature/PHY_SERDES)
+
+## Description
 
 ## Fields
 

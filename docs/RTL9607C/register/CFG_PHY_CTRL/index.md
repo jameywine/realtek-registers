@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: CFG_PHY_CTRL
 
+## Details
 
-# CFG_PHY_CTRL Details
+*Name* CFG_PHY_CTRL
 
-*Offset:* 0x48
+*Offset* 0x48
 
-*Feature:* [INTERFACE](../../feature/INTERFACE)
+*Feature* [INTERFACE](../../feature/INTERFACE)
+
+## Description
 
 ## Fields
 

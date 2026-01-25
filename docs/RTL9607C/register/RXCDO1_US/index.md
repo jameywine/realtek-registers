@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: RXCDO1_US
 
+## Details
 
-# RXCDO1_US Details
+*Name* RXCDO1_US
 
-*Offset:* 0xF053F4
+*Offset* 0xF053F4
 
-*Feature:* [CPU_IF](../../feature/CPU_IF)
+*Feature* [CPU_IF](../../feature/CPU_IF)
+
+## Description
 
 ## Fields
 

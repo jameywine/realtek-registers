@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: L2_CFG
 
+## Details
 
-# L2_CFG Details
+*Name* L2_CFG
 
-*Offset:* 0x17078
+*Offset* 0x17078
 
-*Feature:* [L2_MISC_](../../feature/L2_MISC_)
+*Feature* [L2_MISC_](../../feature/L2_MISC_)
+
+## Description
 
 ## Fields
 

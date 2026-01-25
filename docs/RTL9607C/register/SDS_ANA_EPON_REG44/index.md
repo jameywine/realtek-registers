@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SDS_ANA_EPON_REG44
 
+## Details
 
-# SDS_ANA_EPON_REG44 Details
+*Name* SDS_ANA_EPON_REG44
 
-*Offset:* 0x407B0
+*Offset* 0x407B0
 
-*Feature:* [SDS_SPD_EPON](../../feature/SDS_SPD_EPON)
+*Feature* [SDS_SPD_EPON](../../feature/SDS_SPD_EPON)
+
+## Description
 
 ## Fields
 

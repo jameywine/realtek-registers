@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SW_BIST_CFG_PON_FP_1
 
+## Details
 
-# SW_BIST_CFG_PON_FP_1 Details
+*Name* SW_BIST_CFG_PON_FP_1
 
-*Offset:* 0x310E4
+*Offset* 0x310E4
 
-*Feature:* [BIST_BISR](../../feature/BIST_BISR)
+*Feature* [BIST_BISR](../../feature/BIST_BISR)
+
+## Description
 
 ## Fields
 

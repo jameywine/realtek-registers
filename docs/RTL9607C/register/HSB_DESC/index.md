@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: HSB_DESC
 
+## Details
 
-# HSB_DESC Details
+*Name* HSB_DESC
 
-*Offset:* 0x801210
+*Offset* 0x801210
 
-*Feature:* [FB_HSBA](../../feature/FB_HSBA)
+*Feature* [FB_HSBA](../../feature/FB_HSBA)
 
 *Bit Offset:* 32
 
 *Array Range:* 0-12
+
+## Description
 
 ## Fields
 

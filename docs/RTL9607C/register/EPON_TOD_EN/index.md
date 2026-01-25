@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: EPON_TOD_EN
 
+## Details
 
-# EPON_TOD_EN Details
+*Name* EPON_TOD_EN
 
-*Offset:* 0x36170
+*Offset* 0x36170
 
-*Feature:* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+*Feature* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+
+## Description
 
 ## Fields
 

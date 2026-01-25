@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: FORCE_P_ABLTY
 
+## Details
 
-# FORCE_P_ABLTY Details
+*Name* FORCE_P_ABLTY
 
-*Offset:* 0x1CC
+*Offset* 0x1CC
 
-*Feature:* [CHP_INFORMATION](../../feature/CHP_INFORMATION)
+*Feature* [CHP_INFORMATION](../../feature/CHP_INFORMATION)
 
 *Bit Offset:* 32
 
 *Port Range:* 0-10
+
+## Description
 
 ## Fields
 

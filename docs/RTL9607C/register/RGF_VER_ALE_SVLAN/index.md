@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: RGF_VER_ALE_SVLAN
 
+## Details
 
-# RGF_VER_ALE_SVLAN Details
+*Name* RGF_VER_ALE_SVLAN
 
-*Offset:* 0x14040
+*Offset* 0x14040
 
-*Feature:* [TEMP_REGISTER](../../feature/TEMP_REGISTER)
+*Feature* [TEMP_REGISTER](../../feature/TEMP_REGISTER)
+
+## Description
 
 ## Fields
 

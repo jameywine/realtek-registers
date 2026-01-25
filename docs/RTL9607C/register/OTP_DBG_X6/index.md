@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: OTP_DBG_X6
 
+## Details
 
-# OTP_DBG_X6 Details
+*Name* OTP_DBG_X6
 
-*Offset:* 0x344
+*Offset* 0x344
 
-*Feature:* [OTHER](../../feature/OTHER)
+*Feature* [OTHER](../../feature/OTHER)
+
+## Description
 
 ## Fields
 

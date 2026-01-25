@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: EEE_MISC_CTRL0
 
+## Details
 
-# EEE_MISC_CTRL0 Details
+*Name* EEE_MISC_CTRL0
 
-*Offset:* 0x2312C
+*Offset* 0x2312C
 
-*Feature:* [POWER_SAVING](../../feature/POWER_SAVING)
+*Feature* [POWER_SAVING](../../feature/POWER_SAVING)
+
+## Description
 
 ## Fields
 

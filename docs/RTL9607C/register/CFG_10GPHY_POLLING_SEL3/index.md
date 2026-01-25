@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: CFG_10GPHY_POLLING_SEL3
 
+## Details
 
-# CFG_10GPHY_POLLING_SEL3 Details
+*Name* CFG_10GPHY_POLLING_SEL3
 
-*Offset:* 0x23054
+*Offset* 0x23054
 
-*Feature:* [INTERFACE](../../feature/INTERFACE)
+*Feature* [INTERFACE](../../feature/INTERFACE)
+
+## Description
 
 ## Fields
 

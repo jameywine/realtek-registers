@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: OTP_DBG_CUR_VAL
 
+## Details
 
-# OTP_DBG_CUR_VAL Details
+*Name* OTP_DBG_CUR_VAL
 
-*Offset:* 0x34C
+*Offset* 0x34C
 
-*Feature:* [OTHER](../../feature/OTHER)
+*Feature* [OTHER](../../feature/OTHER)
+
+## Description
 
 ## Fields
 

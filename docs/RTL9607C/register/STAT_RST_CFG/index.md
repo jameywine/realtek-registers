@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: STAT_RST_CFG
 
+## Details
 
-# STAT_RST_CFG Details
+*Name* STAT_RST_CFG
 
-*Offset:* 0x3401C
+*Offset* 0x3401C
 
-*Feature:* [STATISTIC_COUNTERS](../../feature/STATISTIC_COUNTERS)
+*Feature* [STATISTIC_COUNTERS](../../feature/STATISTIC_COUNTERS)
+
+## Description
 
 ## Fields
 

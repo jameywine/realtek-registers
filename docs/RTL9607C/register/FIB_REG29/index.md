@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: FIB_REG29
 
+## Details
 
-# FIB_REG29 Details
+*Name* FIB_REG29
 
-*Offset:* 0x40C74
+*Offset* 0x40C74
 
-*Feature:* [PHY_SERDES](../../feature/PHY_SERDES)
+*Feature* [PHY_SERDES](../../feature/PHY_SERDES)
+
+## Description
 
 ## Fields
 

@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: FC_P_USED_PAGE_CNT_X11
 
+## Details
 
-# FC_P_USED_PAGE_CNT_X11 Details
+*Name* FC_P_USED_PAGE_CNT_X11
 
-*Offset:* 0x23280
+*Offset* 0x23280
 
-*Feature:* [OTHER](../../feature/OTHER)
+*Feature* [OTHER](../../feature/OTHER)
+
+## Description
 
 ## Fields
 

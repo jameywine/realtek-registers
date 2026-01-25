@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: CC_BAB
 
+## Details
 
-# CC_BAB Details
+*Name* CC_BAB
 
-*Offset:* 0x801304
+*Offset* 0x801304
 
-*Feature:* [CC_CTRL](../../feature/CC_CTRL)
+*Feature* [CC_CTRL](../../feature/CC_CTRL)
+
+## Description
 
 ## Fields
 

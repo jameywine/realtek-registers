@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: LOW_QUEUE_TH
 
+## Details
 
-# LOW_QUEUE_TH Details
+*Name* LOW_QUEUE_TH
 
-*Offset:* 0x2D000
+*Offset* 0x2D000
 
-*Feature:* [POWER_SAVING](../../feature/POWER_SAVING)
+*Feature* [POWER_SAVING](../../feature/POWER_SAVING)
+
+## Description
 
 ## Fields
 

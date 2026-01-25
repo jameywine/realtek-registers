@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: EFUSE_BOND_RSLT
 
+## Details
 
-# EFUSE_BOND_RSLT Details
+*Name* EFUSE_BOND_RSLT
 
-*Offset:* 0x23024
+*Offset* 0x23024
 
-*Feature:* [INTERFACE](../../feature/INTERFACE)
+*Feature* [INTERFACE](../../feature/INTERFACE)
 
 *Bit Offset:* 16
 
 *Port Range:* 0-1
+
+## Description
 
 ## Fields
 

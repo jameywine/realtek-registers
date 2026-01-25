@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: FC_DROP_CTRL
 
+## Details
 
-# FC_DROP_CTRL Details
+*Name* FC_DROP_CTRL
 
-*Offset:* 0x2002C
+*Offset* 0x2002C
 
-*Feature:* [TEMP_REGISTER](../../feature/TEMP_REGISTER)
+*Feature* [TEMP_REGISTER](../../feature/TEMP_REGISTER)
 
 *Bit Offset:* 32
 
 *Port Range:* 0-10
+
+## Description
 
 ## Fields
 

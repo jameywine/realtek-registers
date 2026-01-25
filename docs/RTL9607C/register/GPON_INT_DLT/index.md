@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: GPON_INT_DLT
 
+## Details
 
-# GPON_INT_DLT Details
+*Name* GPON_INT_DLT
 
-*Offset:* 0x700000
+*Offset* 0x700000
 
-*Feature:* [GPON_MAC_GENERAL_CONFIG](../../feature/GPON_MAC_GENERAL_CONFIG)
+*Feature* [GPON_MAC_GENERAL_CONFIG](../../feature/GPON_MAC_GENERAL_CONFIG)
+
+## Description
 
 ## Fields
 

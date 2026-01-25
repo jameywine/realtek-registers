@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SWPBO_IO_CMD_0
 
+## Details
 
-# SWPBO_IO_CMD_0 Details
+*Name* SWPBO_IO_CMD_0
 
-*Offset:* 0xF15434
+*Offset* 0xF15434
 
-*Feature:* [SWPBO_NIC_CPU_IF](../../feature/SWPBO_NIC_CPU_IF)
+*Feature* [SWPBO_NIC_CPU_IF](../../feature/SWPBO_NIC_CPU_IF)
+
+## Description
 
 ## Fields
 

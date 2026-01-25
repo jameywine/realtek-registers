@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: METER_GLB_CTRL
 
+## Details
 
-# METER_GLB_CTRL Details
+*Name* METER_GLB_CTRL
 
-*Offset:* 0x25004
+*Offset* 0x25004
 
-*Feature:* [METER_MARKER](../../feature/METER_MARKER)
+*Feature* [METER_MARKER](../../feature/METER_MARKER)
 
 *Bit Offset:* 64
 
 *Array Range:* 0-47
+
+## Description
 
 ## Fields
 

@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SDS_REG23
 
+## Details
 
-# SDS_REG23 Details
+*Name* SDS_REG23
 
-*Offset:* 0x4085C
+*Offset* 0x4085C
 
-*Feature:* [PHY_SERDES](../../feature/PHY_SERDES)
+*Feature* [PHY_SERDES](../../feature/PHY_SERDES)
+
+## Description
 
 ## Fields
 

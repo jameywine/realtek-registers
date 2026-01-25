@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: EPON_ERR_INTR2
 
+## Details
 
-# EPON_ERR_INTR2 Details
+*Name* EPON_ERR_INTR2
 
-*Offset:* 0x36144
+*Offset* 0x36144
 
-*Feature:* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+*Feature* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+
+## Description
 
 ## Fields
 

@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: GLB_MAC_MISC
 
+## Details
 
-# GLB_MAC_MISC Details
+*Name* GLB_MAC_MISC
 
-*Offset:* 0x230EC
+*Offset* 0x230EC
 
-*Feature:* [HW_MISC_](../../feature/HW_MISC_)
+*Feature* [HW_MISC_](../../feature/HW_MISC_)
+
+## Description
 
 ## Fields
 

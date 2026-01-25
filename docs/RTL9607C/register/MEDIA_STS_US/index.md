@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: MEDIA_STS_US
 
+## Details
 
-# MEDIA_STS_US Details
+*Name* MEDIA_STS_US
 
-*Offset:* 0xF04058
+*Offset* 0xF04058
 
-*Feature:* [PONNIC_CTRL](../../feature/PONNIC_CTRL)
+*Feature* [PONNIC_CTRL](../../feature/PONNIC_CTRL)
+
+## Description
 
 ## Fields
 

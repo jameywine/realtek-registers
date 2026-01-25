@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: CTL_DATA
 
+## Details
 
-# CTL_DATA Details
+*Name* CTL_DATA
 
-*Offset:* 0x703284
+*Offset* 0x703284
 
-*Feature:* [AES_DECRYPT](../../feature/AES_DECRYPT)
+*Feature* [AES_DECRYPT](../../feature/AES_DECRYPT)
+
+## Description
 
 ## Fields
 

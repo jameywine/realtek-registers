@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: RSVD_ALE_L2
 
+## Details
 
-# RSVD_ALE_L2 Details
+*Name* RSVD_ALE_L2
 
-*Offset:* 0x170FC
+*Offset* 0x170FC
 
-*Feature:* [TEMP_REGISTER](../../feature/TEMP_REGISTER)
+*Feature* [TEMP_REGISTER](../../feature/TEMP_REGISTER)
 
 *Bit Offset:* 32
 
 *Array Range:* 0-3
+
+## Description
 
 ## Fields
 

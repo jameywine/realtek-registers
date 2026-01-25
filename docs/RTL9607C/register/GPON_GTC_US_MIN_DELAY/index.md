@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: GPON_GTC_US_MIN_DELAY
 
+## Details
 
-# GPON_GTC_US_MIN_DELAY Details
+*Name* GPON_GTC_US_MIN_DELAY
 
-*Offset:* 0x705040
+*Offset* 0x705040
 
-*Feature:* [GTC_UPSTREAM](../../feature/GTC_UPSTREAM)
+*Feature* [GTC_UPSTREAM](../../feature/GTC_UPSTREAM)
+
+## Description
 
 ## Fields
 

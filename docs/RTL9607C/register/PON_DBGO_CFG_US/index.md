@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: PON_DBGO_CFG_US
 
+## Details
 
-# PON_DBGO_CFG_US Details
+*Name* PON_DBGO_CFG_US
 
-*Offset:* 0xF021AC
+*Offset* 0xF021AC
 
-*Feature:* [INTERFACE](../../feature/INTERFACE)
+*Feature* [INTERFACE](../../feature/INTERFACE)
+
+## Description
 
 ## Fields
 

@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: PONIP_DBG_CTRL_DS
 
+## Details
 
-# PONIP_DBG_CTRL_DS Details
+*Name* PONIP_DBG_CTRL_DS
 
-*Offset:* 0xF0A118
+*Offset* 0xF0A118
 
-*Feature:* [PONIP_SCHEDULING_DOWNSTREAM](../../feature/PONIP_SCHEDULING_DOWNSTREAM)
+*Feature* [PONIP_SCHEDULING_DOWNSTREAM](../../feature/PONIP_SCHEDULING_DOWNSTREAM)
+
+## Description
 
 ## Fields
 

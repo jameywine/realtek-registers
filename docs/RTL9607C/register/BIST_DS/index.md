@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: BIST_DS
 
+## Details
 
-# BIST_DS Details
+*Name* BIST_DS
 
-*Offset:* 0xF0C080
+*Offset* 0xF0C080
 
-*Feature:* [PONNIC_CTRL](../../feature/PONNIC_CTRL)
+*Feature* [PONNIC_CTRL](../../feature/PONNIC_CTRL)
+
+## Description
 
 ## Fields
 

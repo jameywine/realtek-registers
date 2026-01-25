@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: STAT_PORT_TX_MIB
 
+## Details
 
-# STAT_PORT_TX_MIB Details
+*Name* STAT_PORT_TX_MIB
 
-*Offset:* 0x32000
+*Offset* 0x32000
 
-*Feature:* [STATISTIC_COUNTERS](../../feature/STATISTIC_COUNTERS)
+*Feature* [STATISTIC_COUNTERS](../../feature/STATISTIC_COUNTERS)
 
 *Bit Offset:* 1024
 
 *Port Range:* 0-11
+
+## Description
 
 ## Fields
 

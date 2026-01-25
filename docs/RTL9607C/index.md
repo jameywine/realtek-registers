@@ -1,3 +1,8 @@
+---
+tags:
+  - RTL9607C
+  - Register List
+---
 
 # RTL9607C Registers
 

@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: EPON_GATE_ANA
 
+## Details
 
-# EPON_GATE_ANA Details
+*Name* EPON_GATE_ANA
 
-*Offset:* 0x36100
+*Offset* 0x36100
 
-*Feature:* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+*Feature* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+
+## Description
 
 ## Fields
 

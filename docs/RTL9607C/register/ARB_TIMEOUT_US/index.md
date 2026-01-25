@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: ARB_TIMEOUT_US
 
+## Details
 
-# ARB_TIMEOUT_US Details
+*Name* ARB_TIMEOUT_US
 
-*Offset:* 0xF020EC
+*Offset* 0xF020EC
 
-*Feature:* [INTERFACE](../../feature/INTERFACE)
+*Feature* [INTERFACE](../../feature/INTERFACE)
+
+## Description
 
 ## Fields
 

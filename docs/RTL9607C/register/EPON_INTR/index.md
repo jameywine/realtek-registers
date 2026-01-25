@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: EPON_INTR
 
+## Details
 
-# EPON_INTR Details
+*Name* EPON_INTR
 
-*Offset:* 0x36020
+*Offset* 0x36020
 
-*Feature:* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+*Feature* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+
+## Description
 
 ## Fields
 

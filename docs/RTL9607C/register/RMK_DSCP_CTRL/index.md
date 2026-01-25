@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: RMK_DSCP_CTRL
 
+## Details
 
-# RMK_DSCP_CTRL Details
+*Name* RMK_DSCP_CTRL
 
-*Offset:* 0x11054
+*Offset* 0x11054
 
-*Feature:* [REMARKING](../../feature/REMARKING)
+*Feature* [REMARKING](../../feature/REMARKING)
 
 *Bit Offset:* 6
 
 *Array Range:* 0-63
+
+## Description
 
 ## Fields
 

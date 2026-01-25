@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: LINE_RATE_500M
 
+## Details
 
-# LINE_RATE_500M Details
+*Name* LINE_RATE_500M
 
-*Offset:* 0x2D834
+*Offset* 0x2D834
 
-*Feature:* [SCHEDULING](../../feature/SCHEDULING)
+*Feature* [SCHEDULING](../../feature/SCHEDULING)
+
+## Description
 
 ## Fields
 

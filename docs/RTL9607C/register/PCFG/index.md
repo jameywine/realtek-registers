@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: PCFG
 
+## Details
 
-# PCFG Details
+*Name* PCFG
 
-*Offset:* 0x706280
+*Offset* 0x706280
 
-*Feature:* [GEM_UPSTREAM](../../feature/GEM_UPSTREAM)
+*Feature* [GEM_UPSTREAM](../../feature/GEM_UPSTREAM)
+
+## Description
 
 ## Fields
 

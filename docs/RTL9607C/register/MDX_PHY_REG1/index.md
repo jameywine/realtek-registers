@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: MDX_PHY_REG1
 
+## Details
 
-# MDX_PHY_REG1 Details
+*Name* MDX_PHY_REG1
 
-*Offset:* 0x1F8
+*Offset* 0x1F8
 
-*Feature:* [CHP_INFORMATION](../../feature/CHP_INFORMATION)
+*Feature* [CHP_INFORMATION](../../feature/CHP_INFORMATION)
+
+## Description
 
 ## Fields
 

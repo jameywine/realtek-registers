@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: CPU_TAG_AWARE_CTRL
 
+## Details
 
-# CPU_TAG_AWARE_CTRL Details
+*Name* CPU_TAG_AWARE_CTRL
 
-*Offset:* 0x230F8
+*Offset* 0x230F8
 
-*Feature:* [MAC_CONTROL](../../feature/MAC_CONTROL)
+*Feature* [MAC_CONTROL](../../feature/MAC_CONTROL)
 
 *Bit Offset:* 1
 
 *Port Range:* 0-2
+
+## Description
 
 ## Fields
 

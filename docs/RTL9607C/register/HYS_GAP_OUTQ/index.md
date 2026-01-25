@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: HYS_GAP_OUTQ
 
+## Details
 
-# HYS_GAP_OUTQ Details
+*Name* HYS_GAP_OUTQ
 
-*Offset:* 0x2D1D4
+*Offset* 0x2D1D4
 
-*Feature:* [SCHEDULING](../../feature/SCHEDULING)
+*Feature* [SCHEDULING](../../feature/SCHEDULING)
+
+## Description
 
 ## Fields
 

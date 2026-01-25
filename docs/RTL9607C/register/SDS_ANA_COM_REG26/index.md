@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SDS_ANA_COM_REG26
 
+## Details
 
-# SDS_ANA_COM_REG26 Details
+*Name* SDS_ANA_COM_REG26
 
-*Offset:* 0x405E8
+*Offset* 0x405E8
 
-*Feature:* [SDS_COM](../../feature/SDS_COM)
+*Feature* [SDS_COM](../../feature/SDS_COM)
+
+## Description
 
 ## Fields
 

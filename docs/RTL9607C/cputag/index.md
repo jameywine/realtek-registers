@@ -1,5 +1,8 @@
-
-
+---
+tags:
+  - RTL9607C
+  - CPU Tags
+---
 
 # RTL9607C CPU tags
 

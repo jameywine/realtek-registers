@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: GPON_GEM_US_PTN_CTRL
 
+## Details
 
-# GPON_GEM_US_PTN_CTRL Details
+*Name* GPON_GEM_US_PTN_CTRL
 
-*Offset:* 0x706054
+*Offset* 0x706054
 
-*Feature:* [GEM_UPSTREAM](../../feature/GEM_UPSTREAM)
+*Feature* [GEM_UPSTREAM](../../feature/GEM_UPSTREAM)
+
+## Description
 
 ## Fields
 

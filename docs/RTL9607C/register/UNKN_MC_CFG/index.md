@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: UNKN_MC_CFG
 
+## Details
 
-# UNKN_MC_CFG Details
+*Name* UNKN_MC_CFG
 
-*Offset:* 0x1C024
+*Offset* 0x1C024
 
-*Feature:* [ADDRESS_TABLE_LOOKUP](../../feature/ADDRESS_TABLE_LOOKUP)
+*Feature* [ADDRESS_TABLE_LOOKUP](../../feature/ADDRESS_TABLE_LOOKUP)
+
+## Description
 
 ## Fields
 

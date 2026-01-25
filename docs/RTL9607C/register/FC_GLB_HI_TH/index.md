@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: FC_GLB_HI_TH
 
+## Details
 
-# FC_GLB_HI_TH Details
+*Name* FC_GLB_HI_TH
 
-*Offset:* 0x231AC
+*Offset* 0x231AC
 
-*Feature:* [FLOWCONTROL_BACKPRESSURE_THRESHOLD](../../feature/FLOWCONTROL_BACKPRESSURE_THRESHOLD)
+*Feature* [FLOWCONTROL_BACKPRESSURE_THRESHOLD](../../feature/FLOWCONTROL_BACKPRESSURE_THRESHOLD)
+
+## Description
 
 ## Fields
 

@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: EPON_MSK_NXT_CNT
 
+## Details
 
-# EPON_MSK_NXT_CNT Details
+*Name* EPON_MSK_NXT_CNT
 
-*Offset:* 0x36158
+*Offset* 0x36158
 
-*Feature:* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+*Feature* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+
+## Description
 
 ## Fields
 

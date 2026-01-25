@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SWPBO_TXCD01
 
+## Details
 
-# SWPBO_TXCD01 Details
+*Name* SWPBO_TXCD01
 
-*Offset:* 0xF15304
+*Offset* 0xF15304
 
-*Feature:* [SWPBO_NIC_CPU_IF](../../feature/SWPBO_NIC_CPU_IF)
+*Feature* [SWPBO_NIC_CPU_IF](../../feature/SWPBO_NIC_CPU_IF)
+
+## Description
 
 ## Fields
 

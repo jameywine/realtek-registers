@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: ARB_TIMEOUT
 
+## Details
 
-# ARB_TIMEOUT Details
+*Name* ARB_TIMEOUT
 
-*Offset:* 0xF120FC
+*Offset* 0xF120FC
 
-*Feature:* [SWPBO](../../feature/SWPBO)
+*Feature* [SWPBO](../../feature/SWPBO)
+
+## Description
 
 ## Fields
 

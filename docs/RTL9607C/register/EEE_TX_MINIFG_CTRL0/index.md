@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: EEE_TX_MINIFG_CTRL0
 
+## Details
 
-# EEE_TX_MINIFG_CTRL0 Details
+*Name* EEE_TX_MINIFG_CTRL0
 
-*Offset:* 0x23130
+*Offset* 0x23130
 
-*Feature:* [POWER_SAVING](../../feature/POWER_SAVING)
+*Feature* [POWER_SAVING](../../feature/POWER_SAVING)
+
+## Description
 
 ## Fields
 

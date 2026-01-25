@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: EPON_SCB_DECRYP_KEY0
 
+## Details
 
-# EPON_SCB_DECRYP_KEY0 Details
+*Name* EPON_SCB_DECRYP_KEY0
 
-*Offset:* 0x360E8
+*Offset* 0x360E8
 
-*Feature:* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+*Feature* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+
+## Description
 
 ## Fields
 

@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: GPON_GTC_DS_MISC_CNTR_FEC_CORRECT_BIT
 
+## Details
 
-# GPON_GTC_DS_MISC_CNTR_FEC_CORRECT_BIT Details
+*Name* GPON_GTC_DS_MISC_CNTR_FEC_CORRECT_BIT
 
-*Offset:* 0x701188
+*Offset* 0x701188
 
-*Feature:* [GTC_DOWNSTREAM](../../feature/GTC_DOWNSTREAM)
+*Feature* [GTC_DOWNSTREAM](../../feature/GTC_DOWNSTREAM)
+
+## Description
 
 ## Fields
 

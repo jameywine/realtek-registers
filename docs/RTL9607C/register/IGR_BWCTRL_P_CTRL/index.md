@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: IGR_BWCTRL_P_CTRL
 
+## Details
 
-# IGR_BWCTRL_P_CTRL Details
+*Name* IGR_BWCTRL_P_CTRL
 
-*Offset:* 0x20010
+*Offset* 0x20010
 
-*Feature:* [BANDWIDTH_CONTROL_INGRESS_EGRESS_](../../feature/BANDWIDTH_CONTROL_INGRESS_EGRESS_)
+*Feature* [BANDWIDTH_CONTROL_INGRESS_EGRESS_](../../feature/BANDWIDTH_CONTROL_INGRESS_EGRESS_)
 
 *Bit Offset:* 32
 
 *Port Range:* 0-10
+
+## Description
 
 ## Fields
 

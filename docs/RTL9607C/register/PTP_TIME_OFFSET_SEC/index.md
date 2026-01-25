@@ -1,13 +1,23 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: PTP_TIME_OFFSET_SEC
 
+## Details
 
-# PTP_TIME_OFFSET_SEC Details
+*Name* PTP_TIME_OFFSET_SEC
 
-*Offset:* 0x1B00C
+*Offset* 0x1B00C
 
-*Feature:* [PTP_PRECISION_TIME_PROTOCOL_](../../feature/PTP_PRECISION_TIME_PROTOCOL_)
+*Feature* [PTP_PRECISION_TIME_PROTOCOL_](../../feature/PTP_PRECISION_TIME_PROTOCOL_)
 
 *Bit Offset:* 64
+
+## Description
 
 ## Fields
 

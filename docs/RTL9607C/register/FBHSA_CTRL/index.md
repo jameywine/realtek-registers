@@ -1,13 +1,23 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: FBHSA_CTRL
 
+## Details
 
-# FBHSA_CTRL Details
+*Name* FBHSA_CTRL
 
-*Offset:* 0x28230
+*Offset* 0x28230
 
-*Feature:* [MODIFIER_HSA](../../feature/MODIFIER_HSA)
+*Feature* [MODIFIER_HSA](../../feature/MODIFIER_HSA)
 
 *Bit Offset:* 64
+
+## Description
 
 ## Fields
 

@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: OMCI_DROP_PKT_CNT
 
+## Details
 
-# OMCI_DROP_PKT_CNT Details
+*Name* OMCI_DROP_PKT_CNT
 
-*Offset:* 0x32F38
+*Offset* 0x32F38
 
-*Feature:* [STATISTIC_COUNTERS](../../feature/STATISTIC_COUNTERS)
+*Feature* [STATISTIC_COUNTERS](../../feature/STATISTIC_COUNTERS)
+
+## Description
 
 ## Fields
 

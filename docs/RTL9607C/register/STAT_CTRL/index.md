@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: STAT_CTRL
 
+## Details
 
-# STAT_CTRL Details
+*Name* STAT_CTRL
 
-*Offset:* 0x34000
+*Offset* 0x34000
 
-*Feature:* [STATISTIC_COUNTERS](../../feature/STATISTIC_COUNTERS)
+*Feature* [STATISTIC_COUNTERS](../../feature/STATISTIC_COUNTERS)
+
+## Description
 
 ## Fields
 

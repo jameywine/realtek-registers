@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: CONFIG_CLK_DS
 
+## Details
 
-# CONFIG_CLK_DS Details
+*Name* CONFIG_CLK_DS
 
-*Offset:* 0xF0D42C
+*Offset* 0xF0D42C
 
-*Feature:* [CPU_IF](../../feature/CPU_IF)
+*Feature* [CPU_IF](../../feature/CPU_IF)
+
+## Description
 
 ## Fields
 

@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: STAT_L34_MIB_UC
 
+## Details
 
-# STAT_L34_MIB_UC Details
+*Name* STAT_L34_MIB_UC
 
-*Offset:* 0x32F80
+*Offset* 0x32F80
 
-*Feature:* [STATISTIC_COUNTERS](../../feature/STATISTIC_COUNTERS)
+*Feature* [STATISTIC_COUNTERS](../../feature/STATISTIC_COUNTERS)
 
 *Bit Offset:* 192
 
 *Array Range:* 0-15
+
+## Description
 
 ## Fields
 

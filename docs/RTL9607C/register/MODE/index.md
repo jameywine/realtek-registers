@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: MODE
 
+## Details
 
-# MODE Details
+*Name* MODE
 
-*Offset:* 0x801000
+*Offset* 0x801000
 
-*Feature:* [FB_CTRL](../../feature/FB_CTRL)
+*Feature* [FB_CTRL](../../feature/FB_CTRL)
+
+## Description
 
 ## Fields
 

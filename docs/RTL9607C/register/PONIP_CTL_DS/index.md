@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: PONIP_CTL_DS
 
+## Details
 
-# PONIP_CTL_DS Details
+*Name* PONIP_CTL_DS
 
-*Offset:* 0xF0A0BC
+*Offset* 0xF0A0BC
 
-*Feature:* [INTERFACE](../../feature/INTERFACE)
+*Feature* [INTERFACE](../../feature/INTERFACE)
+
+## Description
 
 ## Fields
 

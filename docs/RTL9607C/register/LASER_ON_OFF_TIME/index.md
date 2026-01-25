@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: LASER_ON_OFF_TIME
 
+## Details
 
-# LASER_ON_OFF_TIME Details
+*Name* LASER_ON_OFF_TIME
 
-*Offset:* 0x36028
+*Offset* 0x36028
 
-*Feature:* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+*Feature* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+
+## Description
 
 ## Fields
 

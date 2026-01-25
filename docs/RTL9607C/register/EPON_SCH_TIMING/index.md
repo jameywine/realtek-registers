@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: EPON_SCH_TIMING
 
+## Details
 
-# EPON_SCH_TIMING Details
+*Name* EPON_SCH_TIMING
 
-*Offset:* 0x36120
+*Offset* 0x36120
 
-*Feature:* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+*Feature* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+
+## Description
 
 ## Fields
 

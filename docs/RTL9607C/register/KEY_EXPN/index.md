@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: KEY_EXPN
 
+## Details
 
-# KEY_EXPN Details
+*Name* KEY_EXPN
 
-*Offset:* 0x703290
+*Offset* 0x703290
 
-*Feature:* [AES_DECRYPT](../../feature/AES_DECRYPT)
+*Feature* [AES_DECRYPT](../../feature/AES_DECRYPT)
+
+## Description
 
 ## Fields
 

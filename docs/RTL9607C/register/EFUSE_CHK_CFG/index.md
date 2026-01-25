@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: EFUSE_CHK_CFG
 
+## Details
 
-# EFUSE_CHK_CFG Details
+*Name* EFUSE_CHK_CFG
 
-*Offset:* 0xC
+*Offset* 0xC
 
-*Feature:* [INTERFACE](../../feature/INTERFACE)
+*Feature* [INTERFACE](../../feature/INTERFACE)
+
+## Description
 
 ## Fields
 

@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: PTP_TIME_CTRL
 
+## Details
 
-# PTP_TIME_CTRL Details
+*Name* PTP_TIME_CTRL
 
-*Offset:* 0x1B01C
+*Offset* 0x1B01C
 
-*Feature:* [PTP_PRECISION_TIME_PROTOCOL_](../../feature/PTP_PRECISION_TIME_PROTOCOL_)
+*Feature* [PTP_PRECISION_TIME_PROTOCOL_](../../feature/PTP_PRECISION_TIME_PROTOCOL_)
+
+## Description
 
 ## Fields
 

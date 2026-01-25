@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: GPON_FRAME_PULSE_CFG
 
+## Details
 
-# GPON_FRAME_PULSE_CFG Details
+*Name* GPON_FRAME_PULSE_CFG
 
-*Offset:* 0x700024
+*Offset* 0x700024
 
-*Feature:* [GPON_MAC_GENERAL_CONFIG](../../feature/GPON_MAC_GENERAL_CONFIG)
+*Feature* [GPON_MAC_GENERAL_CONFIG](../../feature/GPON_MAC_GENERAL_CONFIG)
+
+## Description
 
 ## Fields
 

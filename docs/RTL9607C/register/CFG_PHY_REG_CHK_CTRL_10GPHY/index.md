@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: CFG_PHY_REG_CHK_CTRL_10GPHY
 
+## Details
 
-# CFG_PHY_REG_CHK_CTRL_10GPHY Details
+*Name* CFG_PHY_REG_CHK_CTRL_10GPHY
 
-*Offset:* 0x23090
+*Offset* 0x23090
 
-*Feature:* [INTERFACE](../../feature/INTERFACE)
+*Feature* [INTERFACE](../../feature/INTERFACE)
 
 *Bit Offset:* 32
 
 *Port Range:* 0-4
+
+## Description
 
 ## Fields
 

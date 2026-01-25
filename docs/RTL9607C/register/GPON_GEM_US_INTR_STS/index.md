@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: GPON_GEM_US_INTR_STS
 
+## Details
 
-# GPON_GEM_US_INTR_STS Details
+*Name* GPON_GEM_US_INTR_STS
 
-*Offset:* 0x706008
+*Offset* 0x706008
 
-*Feature:* [GEM_UPSTREAM](../../feature/GEM_UPSTREAM)
+*Feature* [GEM_UPSTREAM](../../feature/GEM_UPSTREAM)
+
+## Description
 
 ## Fields
 

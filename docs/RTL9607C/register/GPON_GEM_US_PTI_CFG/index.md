@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: GPON_GEM_US_PTI_CFG
 
+## Details
 
-# GPON_GEM_US_PTI_CFG Details
+*Name* GPON_GEM_US_PTI_CFG
 
-*Offset:* 0x706020
+*Offset* 0x706020
 
-*Feature:* [GEM_UPSTREAM](../../feature/GEM_UPSTREAM)
+*Feature* [GEM_UPSTREAM](../../feature/GEM_UPSTREAM)
+
+## Description
 
 ## Fields
 

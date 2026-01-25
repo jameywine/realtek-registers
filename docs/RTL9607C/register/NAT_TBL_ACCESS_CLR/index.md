@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: NAT_TBL_ACCESS_CLR
 
+## Details
 
-# NAT_TBL_ACCESS_CLR Details
+*Name* NAT_TBL_ACCESS_CLR
 
-*Offset:* 0x801104
+*Offset* 0x801104
 
-*Feature:* [TABLE_ACCESS](../../feature/TABLE_ACCESS)
+*Feature* [TABLE_ACCESS](../../feature/TABLE_ACCESS)
+
+## Description
 
 ## Fields
 

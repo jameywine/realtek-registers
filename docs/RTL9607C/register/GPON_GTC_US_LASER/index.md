@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: GPON_GTC_US_LASER
 
+## Details
 
-# GPON_GTC_US_LASER Details
+*Name* GPON_GTC_US_LASER
 
-*Offset:* 0x70504C
+*Offset* 0x70504C
 
-*Feature:* [GTC_UPSTREAM](../../feature/GTC_UPSTREAM)
+*Feature* [GTC_UPSTREAM](../../feature/GTC_UPSTREAM)
+
+## Description
 
 ## Fields
 

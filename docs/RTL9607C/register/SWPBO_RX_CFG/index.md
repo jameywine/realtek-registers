@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SWPBO_RX_CFG
 
+## Details
 
-# SWPBO_RX_CFG Details
+*Name* SWPBO_RX_CFG
 
-*Offset:* 0xF14044
+*Offset* 0xF14044
 
-*Feature:* [SWPBO_NIC_CTRL](../../feature/SWPBO_NIC_CTRL)
+*Feature* [SWPBO_NIC_CTRL](../../feature/SWPBO_NIC_CTRL)
+
+## Description
 
 ## Fields
 

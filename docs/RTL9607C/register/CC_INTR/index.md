@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: CC_INTR
 
+## Details
 
-# CC_INTR Details
+*Name* CC_INTR
 
-*Offset:* 0x801308
+*Offset* 0x801308
 
-*Feature:* [CC_CTRL](../../feature/CC_CTRL)
+*Feature* [CC_CTRL](../../feature/CC_CTRL)
+
+## Description
 
 ## Fields
 

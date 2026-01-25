@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: RGF_VER_ALE_GLB
 
+## Details
 
-# RGF_VER_ALE_GLB Details
+*Name* RGF_VER_ALE_GLB
 
-*Offset:* 0x11148
+*Offset* 0x11148
 
-*Feature:* [TEMP_REGISTER](../../feature/TEMP_REGISTER)
+*Feature* [TEMP_REGISTER](../../feature/TEMP_REGISTER)
+
+## Description
 
 ## Fields
 

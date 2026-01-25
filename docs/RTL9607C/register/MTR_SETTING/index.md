@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: MTR_SETTING
 
+## Details
 
-# MTR_SETTING Details
+*Name* MTR_SETTING
 
-*Offset:* 0x801400
+*Offset* 0x801400
 
-*Feature:* [FB_MTR](../../feature/FB_MTR)
+*Feature* [FB_MTR](../../feature/FB_MTR)
 
 *Bit Offset:* 64
 
 *Array Range:* 0-31
+
+## Description
 
 ## Fields
 

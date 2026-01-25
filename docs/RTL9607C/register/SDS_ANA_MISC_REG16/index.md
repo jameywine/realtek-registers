@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SDS_ANA_MISC_REG16
 
+## Details
 
-# SDS_ANA_MISC_REG16 Details
+*Name* SDS_ANA_MISC_REG16
 
-*Offset:* 0x40540
+*Offset* 0x40540
 
-*Feature:* [SDS_MISC](../../feature/SDS_MISC)
+*Feature* [SDS_MISC](../../feature/SDS_MISC)
+
+## Description
 
 ## Fields
 

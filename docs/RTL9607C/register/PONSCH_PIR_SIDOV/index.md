@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: PONSCH_PIR_SIDOV
 
+## Details
 
-# PONSCH_PIR_SIDOV Details
+*Name* PONSCH_PIR_SIDOV
 
-*Offset:* 0xF02A3C
+*Offset* 0xF02A3C
 
-*Feature:* [OTHER](../../feature/OTHER)
+*Feature* [OTHER](../../feature/OTHER)
+
+## Description
 
 ## Fields
 

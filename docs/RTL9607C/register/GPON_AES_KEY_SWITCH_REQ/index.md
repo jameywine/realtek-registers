@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: GPON_AES_KEY_SWITCH_REQ
 
+## Details
 
-# GPON_AES_KEY_SWITCH_REQ Details
+*Name* GPON_AES_KEY_SWITCH_REQ
 
-*Offset:* 0x703010
+*Offset* 0x703010
 
-*Feature:* [AES_DECRYPT](../../feature/AES_DECRYPT)
+*Feature* [AES_DECRYPT](../../feature/AES_DECRYPT)
+
+## Description
 
 ## Fields
 

@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SFP_IND_ACCESS
 
+## Details
 
-# SFP_IND_ACCESS Details
+*Name* SFP_IND_ACCESS
 
-*Offset:* 0xE8
+*Offset* 0xE8
 
-*Feature:* [INTERFACE](../../feature/INTERFACE)
+*Feature* [INTERFACE](../../feature/INTERFACE)
+
+## Description
 
 ## Fields
 

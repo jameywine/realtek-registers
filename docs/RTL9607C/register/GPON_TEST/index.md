@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: GPON_TEST
 
+## Details
 
-# GPON_TEST Details
+*Name* GPON_TEST
 
-*Offset:* 0x700014
+*Offset* 0x700014
 
-*Feature:* [GPON_MAC_GENERAL_CONFIG](../../feature/GPON_MAC_GENERAL_CONFIG)
+*Feature* [GPON_MAC_GENERAL_CONFIG](../../feature/GPON_MAC_GENERAL_CONFIG)
+
+## Description
 
 ## Fields
 

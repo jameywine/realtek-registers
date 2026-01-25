@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: BYTE_TOKEN_METER
 
+## Details
 
-# BYTE_TOKEN_METER Details
+*Name* BYTE_TOKEN_METER
 
-*Offset:* 0x2D964
+*Offset* 0x2D964
 
-*Feature:* [SCHEDULING](../../feature/SCHEDULING)
+*Feature* [SCHEDULING](../../feature/SCHEDULING)
+
+## Description
 
 ## Fields
 

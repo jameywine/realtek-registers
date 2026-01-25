@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: GPON_GTC_US_PLOAM_DATA
 
+## Details
 
-# GPON_GTC_US_PLOAM_DATA Details
+*Name* GPON_GTC_US_PLOAM_DATA
 
-*Offset:* 0x7050E0
+*Offset* 0x7050E0
 
-*Feature:* [GTC_UPSTREAM](../../feature/GTC_UPSTREAM)
+*Feature* [GTC_UPSTREAM](../../feature/GTC_UPSTREAM)
 
 *Bit Offset:* 32
 
 *Array Range:* 0-7
+
+## Description
 
 ## Fields
 

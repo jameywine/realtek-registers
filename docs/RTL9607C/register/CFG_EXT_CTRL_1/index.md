@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: CFG_EXT_CTRL_1
 
+## Details
 
-# CFG_EXT_CTRL_1 Details
+*Name* CFG_EXT_CTRL_1
 
-*Offset:* 0x2EC
+*Offset* 0x2EC
 
-*Feature:* [OTHER](../../feature/OTHER)
+*Feature* [OTHER](../../feature/OTHER)
+
+## Description
 
 ## Fields
 

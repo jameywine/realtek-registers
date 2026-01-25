@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: EPON_Q_RPT_LVL2
 
+## Details
 
-# EPON_Q_RPT_LVL2 Details
+*Name* EPON_Q_RPT_LVL2
 
-*Offset:* 0xF02A18
+*Offset* 0xF02A18
 
-*Feature:* [OTHER](../../feature/OTHER)
+*Feature* [OTHER](../../feature/OTHER)
 
 *Bit Offset:* 16
 
 *Array Range:* 0-7
+
+## Description
 
 ## Fields
 

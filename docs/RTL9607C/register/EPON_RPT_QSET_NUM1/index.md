@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: EPON_RPT_QSET_NUM1
 
+## Details
 
-# EPON_RPT_QSET_NUM1 Details
+*Name* EPON_RPT_QSET_NUM1
 
-*Offset:* 0x36114
+*Offset* 0x36114
 
-*Feature:* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+*Feature* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
 
 *Bit Offset:* 3
 
 *Array Range:* 0-7
+
+## Description
 
 ## Fields
 

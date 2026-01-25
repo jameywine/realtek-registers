@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: GPON_GTC_US_BOH_CFG
 
+## Details
 
-# GPON_GTC_US_BOH_CFG Details
+*Name* GPON_GTC_US_BOH_CFG
 
-*Offset:* 0x705054
+*Offset* 0x705054
 
-*Feature:* [GTC_UPSTREAM](../../feature/GTC_UPSTREAM)
+*Feature* [GTC_UPSTREAM](../../feature/GTC_UPSTREAM)
+
+## Description
 
 ## Fields
 

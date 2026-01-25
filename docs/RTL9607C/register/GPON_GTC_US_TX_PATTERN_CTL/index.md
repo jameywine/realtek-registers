@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: GPON_GTC_US_TX_PATTERN_CTL
 
+## Details
 
-# GPON_GTC_US_TX_PATTERN_CTL Details
+*Name* GPON_GTC_US_TX_PATTERN_CTL
 
-*Offset:* 0x705020
+*Offset* 0x705020
 
-*Feature:* [GTC_UPSTREAM](../../feature/GTC_UPSTREAM)
+*Feature* [GTC_UPSTREAM](../../feature/GTC_UPSTREAM)
+
+## Description
 
 ## Fields
 

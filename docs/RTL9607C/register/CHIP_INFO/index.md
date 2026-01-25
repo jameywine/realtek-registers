@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: CHIP_INFO
 
+## Details
 
-# CHIP_INFO Details
+*Name* CHIP_INFO
 
-*Offset:* 0x10004
+*Offset* 0x10004
 
-*Feature:* [CHP_INFORMATION](../../feature/CHP_INFORMATION)
+*Feature* [CHP_INFORMATION](../../feature/CHP_INFORMATION)
+
+## Description
 
 ## Fields
 

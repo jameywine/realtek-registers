@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: EPON_GRANT_INDACS_CMD
 
+## Details
 
-# EPON_GRANT_INDACS_CMD Details
+*Name* EPON_GRANT_INDACS_CMD
 
-*Offset:* 0x3615C
+*Offset* 0x3615C
 
-*Feature:* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+*Feature* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+
+## Description
 
 ## Fields
 

@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: RST_SYNC_FIFO
 
+## Details
 
-# RST_SYNC_FIFO Details
+*Name* RST_SYNC_FIFO
 
-*Offset:* 0x26C
+*Offset* 0x26C
 
-*Feature:* [CHP_INFORMATION](../../feature/CHP_INFORMATION)
+*Feature* [CHP_INFORMATION](../../feature/CHP_INFORMATION)
+
+## Description
 
 ## Fields
 

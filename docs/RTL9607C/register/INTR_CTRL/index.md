@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: INTR_CTRL
 
+## Details
 
-# INTR_CTRL Details
+*Name* INTR_CTRL
 
-*Offset:* 0x1D000
+*Offset* 0x1D000
 
-*Feature:* [INTERRUPT](../../feature/INTERRUPT)
+*Feature* [INTERRUPT](../../feature/INTERRUPT)
+
+## Description
 
 ## Fields
 

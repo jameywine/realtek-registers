@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: MOCIR_TH_H
 
+## Details
 
-# MOCIR_TH_H Details
+*Name* MOCIR_TH_H
 
-*Offset:* 0xF021D0
+*Offset* 0xF021D0
 
-*Feature:* [PONIP_SCHEDULING_UPSTREAM](../../feature/PONIP_SCHEDULING_UPSTREAM)
+*Feature* [PONIP_SCHEDULING_UPSTREAM](../../feature/PONIP_SCHEDULING_UPSTREAM)
+
+## Description
 
 ## Fields
 

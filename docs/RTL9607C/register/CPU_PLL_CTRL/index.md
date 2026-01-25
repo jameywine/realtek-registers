@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: CPU_PLL_CTRL
 
+## Details
 
-# CPU_PLL_CTRL Details
+*Name* CPU_PLL_CTRL
 
-*Offset:* 0x350
+*Offset* 0x350
 
-*Feature:* [OTHER](../../feature/OTHER)
+*Feature* [OTHER](../../feature/OTHER)
+
+## Description
 
 ## Fields
 

@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: FIFO_BANK0
 
+## Details
 
-# FIFO_BANK0 Details
+*Name* FIFO_BANK0
 
-*Offset:* 0x706288
+*Offset* 0x706288
 
-*Feature:* [GEM_UPSTREAM](../../feature/GEM_UPSTREAM)
+*Feature* [GEM_UPSTREAM](../../feature/GEM_UPSTREAM)
+
+## Description
 
 ## Fields
 

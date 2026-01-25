@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: GPON_MAC_BIST_RSLT
 
+## Details
 
-# GPON_MAC_BIST_RSLT Details
+*Name* GPON_MAC_BIST_RSLT
 
-*Offset:* 0x700280
+*Offset* 0x700280
 
-*Feature:* [GPON_MAC_GENERAL_CONFIG](../../feature/GPON_MAC_GENERAL_CONFIG)
+*Feature* [GPON_MAC_GENERAL_CONFIG](../../feature/GPON_MAC_GENERAL_CONFIG)
+
+## Description
 
 ## Fields
 

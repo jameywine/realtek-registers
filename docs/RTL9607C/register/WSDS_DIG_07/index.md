@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: WSDS_DIG_07
 
+## Details
 
-# WSDS_DIG_07 Details
+*Name* WSDS_DIG_07
 
-*Offset:* 0x4004C
+*Offset* 0x4004C
 
-*Feature:* [PHY_SERDES](../../feature/PHY_SERDES)
+*Feature* [PHY_SERDES](../../feature/PHY_SERDES)
+
+## Description
 
 ## Fields
 

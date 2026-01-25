@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: BWM_TBL
 
+## Details
 
-# BWM_TBL Details
+*Name* BWM_TBL
 
-*Offset:* 0x705280
+*Offset* 0x705280
 
-*Feature:* [GTC_UPSTREAM](../../feature/GTC_UPSTREAM)
+*Feature* [GTC_UPSTREAM](../../feature/GTC_UPSTREAM)
+
+## Description
 
 ## Fields
 

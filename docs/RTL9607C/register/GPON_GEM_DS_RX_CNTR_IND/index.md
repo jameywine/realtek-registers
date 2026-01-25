@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: GPON_GEM_DS_RX_CNTR_IND
 
+## Details
 
-# GPON_GEM_DS_RX_CNTR_IND Details
+*Name* GPON_GEM_DS_RX_CNTR_IND
 
-*Offset:* 0x704040
+*Offset* 0x704040
 
-*Feature:* [GEM_PORT_DOWNSTREAM](../../feature/GEM_PORT_DOWNSTREAM)
+*Feature* [GEM_PORT_DOWNSTREAM](../../feature/GEM_PORT_DOWNSTREAM)
+
+## Description
 
 ## Fields
 

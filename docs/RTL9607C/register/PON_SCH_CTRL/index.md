@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: PON_SCH_CTRL
 
+## Details
 
-# PON_SCH_CTRL Details
+*Name* PON_SCH_CTRL
 
-*Offset:* 0xF021E0
+*Offset* 0xF021E0
 
-*Feature:* [PONIP_SCHEDULING_UPSTREAM](../../feature/PONIP_SCHEDULING_UPSTREAM)
+*Feature* [PONIP_SCHEDULING_UPSTREAM](../../feature/PONIP_SCHEDULING_UPSTREAM)
+
+## Description
 
 ## Fields
 

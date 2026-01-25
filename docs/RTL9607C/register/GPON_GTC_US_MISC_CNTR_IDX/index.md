@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: GPON_GTC_US_MISC_CNTR_IDX
 
+## Details
 
-# GPON_GTC_US_MISC_CNTR_IDX Details
+*Name* GPON_GTC_US_MISC_CNTR_IDX
 
-*Offset:* 0x705140
+*Offset* 0x705140
 
-*Feature:* [GTC_UPSTREAM](../../feature/GTC_UPSTREAM)
+*Feature* [GTC_UPSTREAM](../../feature/GTC_UPSTREAM)
+
+## Description
 
 ## Fields
 

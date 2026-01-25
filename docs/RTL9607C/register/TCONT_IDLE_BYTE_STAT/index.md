@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: TCONT_IDLE_BYTE_STAT
 
+## Details
 
-# TCONT_IDLE_BYTE_STAT Details
+*Name* TCONT_IDLE_BYTE_STAT
 
-*Offset:* 0x706C00
+*Offset* 0x706C00
 
-*Feature:* [GEM_UPSTREAM](../../feature/GEM_UPSTREAM)
+*Feature* [GEM_UPSTREAM](../../feature/GEM_UPSTREAM)
 
 *Bit Offset:* 64
 
 *Array Range:* 0-31
+
+## Description
 
 ## Fields
 

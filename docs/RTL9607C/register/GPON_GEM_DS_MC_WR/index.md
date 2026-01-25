@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: GPON_GEM_DS_MC_WR
 
+## Details
 
-# GPON_GEM_DS_MC_WR Details
+*Name* GPON_GEM_DS_MC_WR
 
-*Offset:* 0x704088
+*Offset* 0x704088
 
-*Feature:* [GEM_PORT_DOWNSTREAM](../../feature/GEM_PORT_DOWNSTREAM)
+*Feature* [GEM_PORT_DOWNSTREAM](../../feature/GEM_PORT_DOWNSTREAM)
+
+## Description
 
 ## Fields
 

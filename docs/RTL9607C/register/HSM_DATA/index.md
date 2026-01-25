@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: HSM_DATA
 
+## Details
 
-# HSM_DATA Details
+*Name* HSM_DATA
 
-*Offset:* 0x2815C
+*Offset* 0x2815C
 
-*Feature:* [MODIFIER_HSA](../../feature/MODIFIER_HSA)
+*Feature* [MODIFIER_HSA](../../feature/MODIFIER_HSA)
 
 *Bit Offset:* 32
 
 *Array Range:* 0-29
+
+## Description
 
 ## Fields
 

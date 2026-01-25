@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: DS_BIST_CFG_6
 
+## Details
 
-# DS_BIST_CFG_6 Details
+*Name* DS_BIST_CFG_6
 
-*Offset:* 0xF0A010
+*Offset* 0xF0A010
 
-*Feature:* [BIST_BISR](../../feature/BIST_BISR)
+*Feature* [BIST_BISR](../../feature/BIST_BISR)
+
+## Description
 
 ## Fields
 

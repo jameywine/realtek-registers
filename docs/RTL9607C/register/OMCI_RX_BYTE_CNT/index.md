@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: OMCI_RX_BYTE_CNT
 
+## Details
 
-# OMCI_RX_BYTE_CNT Details
+*Name* OMCI_RX_BYTE_CNT
 
-*Offset:* 0x32F48
+*Offset* 0x32F48
 
-*Feature:* [STATISTIC_COUNTERS](../../feature/STATISTIC_COUNTERS)
+*Feature* [STATISTIC_COUNTERS](../../feature/STATISTIC_COUNTERS)
+
+## Description
 
 ## Fields
 

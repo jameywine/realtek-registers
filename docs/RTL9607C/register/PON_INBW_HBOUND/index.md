@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: PON_INBW_HBOUND
 
+## Details
 
-# PON_INBW_HBOUND Details
+*Name* PON_INBW_HBOUND
 
-*Offset:* 0x23284
+*Offset* 0x23284
 
-*Feature:* [OTHER](../../feature/OTHER)
+*Feature* [OTHER](../../feature/OTHER)
+
+## Description
 
 ## Fields
 

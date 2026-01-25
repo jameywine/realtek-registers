@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: GPON_GTC_DS_ONU_ID_STATUS
 
+## Details
 
-# GPON_GTC_DS_ONU_ID_STATUS Details
+*Name* GPON_GTC_DS_ONU_ID_STATUS
 
-*Offset:* 0x701010
+*Offset* 0x701010
 
-*Feature:* [GTC_DOWNSTREAM](../../feature/GTC_DOWNSTREAM)
+*Feature* [GTC_DOWNSTREAM](../../feature/GTC_DOWNSTREAM)
+
+## Description
 
 ## Fields
 

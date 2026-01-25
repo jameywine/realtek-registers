@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: DOS_CFG
 
+## Details
 
-# DOS_CFG Details
+*Name* DOS_CFG
 
-*Offset:* 0x26004
+*Offset* 0x26004
 
-*Feature:* [DENIAL_OF_SERVICE_ATTACK_PREVENTION](../../feature/DENIAL_OF_SERVICE_ATTACK_PREVENTION)
+*Feature* [DENIAL_OF_SERVICE_ATTACK_PREVENTION](../../feature/DENIAL_OF_SERVICE_ATTACK_PREVENTION)
+
+## Description
 
 ## Fields
 

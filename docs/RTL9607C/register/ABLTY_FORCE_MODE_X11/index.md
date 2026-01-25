@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: ABLTY_FORCE_MODE_X11
 
+## Details
 
-# ABLTY_FORCE_MODE_X11 Details
+*Name* ABLTY_FORCE_MODE_X11
 
-*Offset:* 0x2FC
+*Offset* 0x2FC
 
-*Feature:* [OTHER](../../feature/OTHER)
+*Feature* [OTHER](../../feature/OTHER)
+
+## Description
 
 ## Fields
 

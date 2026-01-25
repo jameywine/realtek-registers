@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: EPON_TBL_ACCESS_STS
 
+## Details
 
-# EPON_TBL_ACCESS_STS Details
+*Name* EPON_TBL_ACCESS_STS
 
-*Offset:* 0x36108
+*Offset* 0x36108
 
-*Feature:* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+*Feature* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+
+## Description
 
 ## Fields
 

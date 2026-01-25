@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: NAT_TBL_ACCESS_WRDATA
 
+## Details
 
-# NAT_TBL_ACCESS_WRDATA Details
+*Name* NAT_TBL_ACCESS_WRDATA
 
-*Offset:* 0x801180
+*Offset* 0x801180
 
-*Feature:* [TABLE_ACCESS](../../feature/TABLE_ACCESS)
+*Feature* [TABLE_ACCESS](../../feature/TABLE_ACCESS)
 
 *Bit Offset:* 32
 
 *Array Range:* 0-7
+
+## Description
 
 ## Fields
 

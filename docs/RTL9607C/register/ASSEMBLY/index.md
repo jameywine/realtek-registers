@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: ASSEMBLY
 
+## Details
 
-# ASSEMBLY Details
+*Name* ASSEMBLY
 
-*Offset:* 0x704288
+*Offset* 0x704288
 
-*Feature:* [GEM_PORT_DOWNSTREAM](../../feature/GEM_PORT_DOWNSTREAM)
+*Feature* [GEM_PORT_DOWNSTREAM](../../feature/GEM_PORT_DOWNSTREAM)
+
+## Description
 
 ## Fields
 

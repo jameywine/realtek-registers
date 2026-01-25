@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: EPON_KT_REPORT_CTRL
 
+## Details
 
-# EPON_KT_REPORT_CTRL Details
+*Name* EPON_KT_REPORT_CTRL
 
-*Offset:* 0xF02A38
+*Offset* 0xF02A38
 
-*Feature:* [OTHER](../../feature/OTHER)
+*Feature* [OTHER](../../feature/OTHER)
+
+## Description
 
 ## Fields
 

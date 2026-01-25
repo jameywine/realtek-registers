@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: FC_PUB_FCOFF_USED_PAGE_CNT
 
+## Details
 
-# FC_PUB_FCOFF_USED_PAGE_CNT Details
+*Name* FC_PUB_FCOFF_USED_PAGE_CNT
 
-*Offset:* 0x231D0
+*Offset* 0x231D0
 
-*Feature:* [FLOWCONTROL_BACKPRESSURE_THRESHOLD](../../feature/FLOWCONTROL_BACKPRESSURE_THRESHOLD)
+*Feature* [FLOWCONTROL_BACKPRESSURE_THRESHOLD](../../feature/FLOWCONTROL_BACKPRESSURE_THRESHOLD)
+
+## Description
 
 ## Fields
 

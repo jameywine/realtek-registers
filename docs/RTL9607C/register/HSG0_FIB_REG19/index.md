@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: HSG0_FIB_REG19
 
+## Details
 
-# HSG0_FIB_REG19 Details
+*Name* HSG0_FIB_REG19
 
-*Offset:* 0x41C4C
+*Offset* 0x41C4C
 
-*Feature:* [HIGH_SG_SERDES](../../feature/HIGH_SG_SERDES)
+*Feature* [HIGH_SG_SERDES](../../feature/HIGH_SG_SERDES)
+
+## Description
 
 ## Fields
 

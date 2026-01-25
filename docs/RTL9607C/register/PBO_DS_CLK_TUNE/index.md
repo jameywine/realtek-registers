@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: PBO_DS_CLK_TUNE
 
+## Details
 
-# PBO_DS_CLK_TUNE Details
+*Name* PBO_DS_CLK_TUNE
 
-*Offset:* 0xF00070
+*Offset* 0xF00070
 
-*Feature:* [TEMP_REGISTER](../../feature/TEMP_REGISTER)
+*Feature* [TEMP_REGISTER](../../feature/TEMP_REGISTER)
+
+## Description
 
 ## Fields
 

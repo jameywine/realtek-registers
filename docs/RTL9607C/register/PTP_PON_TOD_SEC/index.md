@@ -1,13 +1,23 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: PTP_PON_TOD_SEC
 
+## Details
 
-# PTP_PON_TOD_SEC Details
+*Name* PTP_PON_TOD_SEC
 
-*Offset:* 0x1B024
+*Offset* 0x1B024
 
-*Feature:* [PTP_PRECISION_TIME_PROTOCOL_](../../feature/PTP_PRECISION_TIME_PROTOCOL_)
+*Feature* [PTP_PRECISION_TIME_PROTOCOL_](../../feature/PTP_PRECISION_TIME_PROTOCOL_)
 
 *Bit Offset:* 64
+
+## Description
 
 ## Fields
 

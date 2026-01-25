@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: I2C_IND_RD
 
+## Details
 
-# I2C_IND_RD Details
+*Name* I2C_IND_RD
 
-*Offset:* 0xCC
+*Offset* 0xCC
 
-*Feature:* [INTERFACE](../../feature/INTERFACE)
+*Feature* [INTERFACE](../../feature/INTERFACE)
 
 *Bit Offset:* 32
 
 *Array Range:* 0-1
+
+## Description
 
 ## Fields
 

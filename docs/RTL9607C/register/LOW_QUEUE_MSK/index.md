@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: LOW_QUEUE_MSK
 
+## Details
 
-# LOW_QUEUE_MSK Details
+*Name* LOW_QUEUE_MSK
 
-*Offset:* 0x2D010
+*Offset* 0x2D010
 
-*Feature:* [POWER_SAVING](../../feature/POWER_SAVING)
+*Feature* [POWER_SAVING](../../feature/POWER_SAVING)
 
 *Bit Offset:* 8
 
 *Port Range:* 0-10
+
+## Description
 
 ## Fields
 

@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: CFG_POLL_MDX_DBG
 
+## Details
 
-# CFG_POLL_MDX_DBG Details
+*Name* CFG_POLL_MDX_DBG
 
-*Offset:* 0x2304C
+*Offset* 0x2304C
 
-*Feature:* [INTERFACE](../../feature/INTERFACE)
+*Feature* [INTERFACE](../../feature/INTERFACE)
+
+## Description
 
 ## Fields
 

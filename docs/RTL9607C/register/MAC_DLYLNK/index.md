@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: MAC_DLYLNK
 
+## Details
 
-# MAC_DLYLNK Details
+*Name* MAC_DLYLNK
 
-*Offset:* 0x2B4
+*Offset* 0x2B4
 
-*Feature:* [CHP_INFORMATION](../../feature/CHP_INFORMATION)
+*Feature* [CHP_INFORMATION](../../feature/CHP_INFORMATION)
+
+## Description
 
 ## Fields
 

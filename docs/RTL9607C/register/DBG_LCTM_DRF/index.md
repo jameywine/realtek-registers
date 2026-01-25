@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: DBG_LCTM_DRF
 
+## Details
 
-# DBG_LCTM_DRF Details
+*Name* DBG_LCTM_DRF
 
-*Offset:* 0x36138
+*Offset* 0x36138
 
-*Feature:* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+*Feature* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+
+## Description
 
 ## Fields
 

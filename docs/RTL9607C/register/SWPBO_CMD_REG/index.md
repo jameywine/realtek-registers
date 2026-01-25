@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SWPBO_CMD_REG
 
+## Details
 
-# SWPBO_CMD_REG Details
+*Name* SWPBO_CMD_REG
 
-*Offset:* 0xF14038
+*Offset* 0xF14038
 
-*Feature:* [SWPBO_NIC_CTRL](../../feature/SWPBO_NIC_CTRL)
+*Feature* [SWPBO_NIC_CTRL](../../feature/SWPBO_NIC_CTRL)
+
+## Description
 
 ## Fields
 

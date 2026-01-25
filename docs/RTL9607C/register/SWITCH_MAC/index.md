@@ -1,13 +1,23 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SWITCH_MAC
 
+## Details
 
-# SWITCH_MAC Details
+*Name* SWITCH_MAC
 
-*Offset:* 0x23108
+*Offset* 0x23108
 
-*Feature:* [MAC_CONTROL](../../feature/MAC_CONTROL)
+*Feature* [MAC_CONTROL](../../feature/MAC_CONTROL)
 
 *Bit Offset:* 64
+
+## Description
 
 ## Fields
 

@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SFP_REG_CTRL3
 
+## Details
 
-# SFP_REG_CTRL3 Details
+*Name* SFP_REG_CTRL3
 
-*Offset:* 0xE0
+*Offset* 0xE0
 
-*Feature:* [INTERFACE](../../feature/INTERFACE)
+*Feature* [INTERFACE](../../feature/INTERFACE)
+
+## Description
 
 ## Fields
 

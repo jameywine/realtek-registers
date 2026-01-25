@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SMI_INDRT_ACCESS_MMD_CTRL
 
+## Details
 
-# SMI_INDRT_ACCESS_MMD_CTRL Details
+*Name* SMI_INDRT_ACCESS_MMD_CTRL
 
-*Offset:* 0x230CC
+*Offset* 0x230CC
 
-*Feature:* [INTERFACE](../../feature/INTERFACE)
+*Feature* [INTERFACE](../../feature/INTERFACE)
+
+## Description
 
 ## Fields
 

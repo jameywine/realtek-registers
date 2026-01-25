@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: RSVD_SWPBO
 
+## Details
 
-# RSVD_SWPBO Details
+*Name* RSVD_SWPBO
 
-*Offset:* 0xF12170
+*Offset* 0xF12170
 
-*Feature:* [TEMP_REGISTER](../../feature/TEMP_REGISTER)
+*Feature* [TEMP_REGISTER](../../feature/TEMP_REGISTER)
 
 *Bit Offset:* 32
 
 *Array Range:* 0-3
+
+## Description
 
 ## Fields
 

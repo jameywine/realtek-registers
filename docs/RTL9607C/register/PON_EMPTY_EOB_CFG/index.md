@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: PON_EMPTY_EOB_CFG
 
+## Details
 
-# PON_EMPTY_EOB_CFG Details
+*Name* PON_EMPTY_EOB_CFG
 
-*Offset:* 0xF021B0
+*Offset* 0xF021B0
 
-*Feature:* [INTERFACE](../../feature/INTERFACE)
+*Feature* [INTERFACE](../../feature/INTERFACE)
+
+## Description
 
 ## Fields
 

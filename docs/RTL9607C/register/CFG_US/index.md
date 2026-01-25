@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: CFG_US
 
+## Details
 
-# CFG_US Details
+*Name* CFG_US
 
-*Offset:* 0xF0404C
+*Offset* 0xF0404C
 
-*Feature:* [PONNIC_CTRL](../../feature/PONNIC_CTRL)
+*Feature* [PONNIC_CTRL](../../feature/PONNIC_CTRL)
+
+## Description
 
 ## Fields
 

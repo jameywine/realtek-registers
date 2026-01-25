@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: PON_DSCCTRL
 
+## Details
 
-# PON_DSCCTRL Details
+*Name* PON_DSCCTRL
 
-*Offset:* 0xF02198
+*Offset* 0xF02198
 
-*Feature:* [INTERFACE](../../feature/INTERFACE)
+*Feature* [INTERFACE](../../feature/INTERFACE)
+
+## Description
 
 ## Fields
 

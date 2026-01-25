@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: HOST_POLICE_CTRL
 
+## Details
 
-# HOST_POLICE_CTRL Details
+*Name* HOST_POLICE_CTRL
 
-*Offset:* 0x1C11C
+*Offset* 0x1C11C
 
-*Feature:* [STORM_CONTROL_B_M_UM_DLF_](../../feature/STORM_CONTROL_B_M_UM_DLF_)
+*Feature* [STORM_CONTROL_B_M_UM_DLF_](../../feature/STORM_CONTROL_B_M_UM_DLF_)
 
 *Bit Offset:* 64
 
 *Array Range:* 0-31
+
+## Description
 
 ## Fields
 

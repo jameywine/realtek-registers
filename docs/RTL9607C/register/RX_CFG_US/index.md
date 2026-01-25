@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: RX_CFG_US
 
+## Details
 
-# RX_CFG_US Details
+*Name* RX_CFG_US
 
-*Offset:* 0xF04044
+*Offset* 0xF04044
 
-*Feature:* [PONNIC_CTRL](../../feature/PONNIC_CTRL)
+*Feature* [PONNIC_CTRL](../../feature/PONNIC_CTRL)
+
+## Description
 
 ## Fields
 

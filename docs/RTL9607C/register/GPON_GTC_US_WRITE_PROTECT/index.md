@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: GPON_GTC_US_WRITE_PROTECT
 
+## Details
 
-# GPON_GTC_US_WRITE_PROTECT Details
+*Name* GPON_GTC_US_WRITE_PROTECT
 
-*Offset:* 0x705018
+*Offset* 0x705018
 
-*Feature:* [GTC_UPSTREAM](../../feature/GTC_UPSTREAM)
+*Feature* [GTC_UPSTREAM](../../feature/GTC_UPSTREAM)
+
+## Description
 
 ## Fields
 

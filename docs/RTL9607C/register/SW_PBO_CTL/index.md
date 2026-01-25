@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SW_PBO_CTL
 
+## Details
 
-# SW_PBO_CTL Details
+*Name* SW_PBO_CTL
 
-*Offset:* 0xF12044
+*Offset* 0xF12044
 
-*Feature:* [SWPBO](../../feature/SWPBO)
+*Feature* [SWPBO](../../feature/SWPBO)
+
+## Description
 
 ## Fields
 

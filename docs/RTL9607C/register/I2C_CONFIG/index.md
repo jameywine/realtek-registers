@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: I2C_CONFIG
 
+## Details
 
-# I2C_CONFIG Details
+*Name* I2C_CONFIG
 
-*Offset:* 0x23004
+*Offset* 0x23004
 
-*Feature:* [INTERFACE](../../feature/INTERFACE)
+*Feature* [INTERFACE](../../feature/INTERFACE)
 
 *Bit Offset:* 32
 
 *Array Range:* 0-1
+
+## Description
 
 ## Fields
 

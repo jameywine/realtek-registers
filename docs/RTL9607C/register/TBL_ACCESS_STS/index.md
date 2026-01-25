@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: TBL_ACCESS_STS
 
+## Details
 
-# TBL_ACCESS_STS Details
+*Name* TBL_ACCESS_STS
 
-*Offset:* 0x12004
+*Offset* 0x12004
 
-*Feature:* [TABLE_ACCESS](../../feature/TABLE_ACCESS)
+*Feature* [TABLE_ACCESS](../../feature/TABLE_ACCESS)
+
+## Description
 
 ## Fields
 

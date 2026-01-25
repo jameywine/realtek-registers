@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: MISCELLANEOUS_BONDING
 
+## Details
 
-# MISCELLANEOUS_BONDING Details
+*Name* MISCELLANEOUS_BONDING
 
-*Offset:* 0x2AC
+*Offset* 0x2AC
 
-*Feature:* [CHP_INFORMATION](../../feature/CHP_INFORMATION)
+*Feature* [CHP_INFORMATION](../../feature/CHP_INFORMATION)
+
+## Description
 
 ## Fields
 

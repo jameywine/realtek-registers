@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SOFTWARE_RST
 
+## Details
 
-# SOFTWARE_RST Details
+*Name* SOFTWARE_RST
 
-*Offset:* 0x108
+*Offset* 0x108
 
-*Feature:* [RESET](../../feature/RESET)
+*Feature* [RESET](../../feature/RESET)
+
+## Description
 
 ## Fields
 

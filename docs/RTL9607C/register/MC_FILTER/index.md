@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: MC_FILTER
 
+## Details
 
-# MC_FILTER Details
+*Name* MC_FILTER
 
-*Offset:* 0x70428C
+*Offset* 0x70428C
 
-*Feature:* [GEM_PORT_DOWNSTREAM](../../feature/GEM_PORT_DOWNSTREAM)
+*Feature* [GEM_PORT_DOWNSTREAM](../../feature/GEM_PORT_DOWNSTREAM)
 
 *Bit Offset:* 32
 
 *Array Range:* 0-7
+
+## Description
 
 ## Fields
 

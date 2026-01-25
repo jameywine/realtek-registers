@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: RMA_CTRL02
 
+## Details
 
-# RMA_CTRL02 Details
+*Name* RMA_CTRL02
 
-*Offset:* 0x1C0CC
+*Offset* 0x1C0CC
 
-*Feature:* [RMA](../../feature/RMA)
+*Feature* [RMA](../../feature/RMA)
+
+## Description
 
 ## Fields
 

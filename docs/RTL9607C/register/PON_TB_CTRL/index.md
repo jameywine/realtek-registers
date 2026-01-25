@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: PON_TB_CTRL
 
+## Details
 
-# PON_TB_CTRL Details
+*Name* PON_TB_CTRL
 
-*Offset:* 0xF021DC
+*Offset* 0xF021DC
 
-*Feature:* [PONIP_SCHEDULING_UPSTREAM](../../feature/PONIP_SCHEDULING_UPSTREAM)
+*Feature* [PONIP_SCHEDULING_UPSTREAM](../../feature/PONIP_SCHEDULING_UPSTREAM)
+
+## Description
 
 ## Fields
 

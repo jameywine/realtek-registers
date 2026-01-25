@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: GPON_GTC_DS_PORT_RD
 
+## Details
 
-# GPON_GTC_DS_PORT_RD Details
+*Name* GPON_GTC_DS_PORT_RD
 
-*Offset:* 0x70110C
+*Offset* 0x70110C
 
-*Feature:* [GTC_DOWNSTREAM](../../feature/GTC_DOWNSTREAM)
+*Feature* [GTC_DOWNSTREAM](../../feature/GTC_DOWNSTREAM)
+
+## Description
 
 ## Fields
 

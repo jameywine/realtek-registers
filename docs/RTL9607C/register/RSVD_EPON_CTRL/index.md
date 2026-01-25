@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: RSVD_EPON_CTRL
 
+## Details
 
-# RSVD_EPON_CTRL Details
+*Name* RSVD_EPON_CTRL
 
-*Offset:* 0x361AC
+*Offset* 0x361AC
 
-*Feature:* [TEMP_REGISTER](../../feature/TEMP_REGISTER)
+*Feature* [TEMP_REGISTER](../../feature/TEMP_REGISTER)
 
 *Bit Offset:* 32
 
 *Array Range:* 0-3
+
+## Description
 
 ## Fields
 

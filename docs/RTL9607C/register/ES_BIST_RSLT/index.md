@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: ES_BIST_RSLT
 
+## Details
 
-# ES_BIST_RSLT Details
+*Name* ES_BIST_RSLT
 
-*Offset:* 0xF12100
+*Offset* 0xF12100
 
-*Feature:* [SWPBO](../../feature/SWPBO)
+*Feature* [SWPBO](../../feature/SWPBO)
+
+## Description
 
 ## Fields
 

@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: GPHY_IND_WD
 
+## Details
 
-# GPHY_IND_WD Details
+*Name* GPHY_IND_WD
 
-*Offset:* 0x0
+*Offset* 0x0
 
-*Feature:* [INTERFACE](../../feature/INTERFACE)
+*Feature* [INTERFACE](../../feature/INTERFACE)
+
+## Description
 
 ## Fields
 

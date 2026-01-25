@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: RSVD_INTR
 
+## Details
 
-# RSVD_INTR Details
+*Name* RSVD_INTR
 
-*Offset:* 0x1D034
+*Offset* 0x1D034
 
-*Feature:* [TEMP_REGISTER](../../feature/TEMP_REGISTER)
+*Feature* [TEMP_REGISTER](../../feature/TEMP_REGISTER)
 
 *Bit Offset:* 32
 
 *Array Range:* 0-3
+
+## Description
 
 ## Fields
 

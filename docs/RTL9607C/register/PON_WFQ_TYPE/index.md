@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: PON_WFQ_TYPE
 
+## Details
 
-# PON_WFQ_TYPE Details
+*Name* PON_WFQ_TYPE
 
-*Offset:* 0xF02668
+*Offset* 0xF02668
 
-*Feature:* [PONIP_SCHEDULING_UPSTREAM](../../feature/PONIP_SCHEDULING_UPSTREAM)
+*Feature* [PONIP_SCHEDULING_UPSTREAM](../../feature/PONIP_SCHEDULING_UPSTREAM)
 
 *Bit Offset:* 1
 
 *Array Range:* 0-127
+
+## Description
 
 ## Fields
 

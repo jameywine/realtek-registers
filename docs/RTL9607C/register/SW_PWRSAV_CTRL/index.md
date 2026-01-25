@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SW_PWRSAV_CTRL
 
+## Details
 
-# SW_PWRSAV_CTRL Details
+*Name* SW_PWRSAV_CTRL
 
-*Offset:* 0x2CC
+*Offset* 0x2CC
 
-*Feature:* [POWER_SAVING](../../feature/POWER_SAVING)
+*Feature* [POWER_SAVING](../../feature/POWER_SAVING)
+
+## Description
 
 ## Fields
 

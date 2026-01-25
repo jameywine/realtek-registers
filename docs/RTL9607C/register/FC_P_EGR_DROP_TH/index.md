@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: FC_P_EGR_DROP_TH
 
+## Details
 
-# FC_P_EGR_DROP_TH Details
+*Name* FC_P_EGR_DROP_TH
 
-*Offset:* 0x2D028
+*Offset* 0x2D028
 
-*Feature:* [FLOWCONTROL_BACKPRESSURE_THRESHOLD](../../feature/FLOWCONTROL_BACKPRESSURE_THRESHOLD)
+*Feature* [FLOWCONTROL_BACKPRESSURE_THRESHOLD](../../feature/FLOWCONTROL_BACKPRESSURE_THRESHOLD)
 
 *Bit Offset:* 10
 
 *Port Range:* 0-10
+
+## Description
 
 ## Fields
 

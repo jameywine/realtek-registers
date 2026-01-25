@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: INIC_CTRL
 
+## Details
 
-# INIC_CTRL Details
+*Name* INIC_CTRL
 
-*Offset:* 0x1115C
+*Offset* 0x1115C
 
-*Feature:* [OTHER](../../feature/OTHER)
+*Feature* [OTHER](../../feature/OTHER)
+
+## Description
 
 ## Fields
 

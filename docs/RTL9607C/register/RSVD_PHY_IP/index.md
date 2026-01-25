@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: RSVD_PHY_IP
 
+## Details
 
-# RSVD_PHY_IP Details
+*Name* RSVD_PHY_IP
 
-*Offset:* 0x1F0AC
+*Offset* 0x1F0AC
 
-*Feature:* [TEMP_REGISTER](../../feature/TEMP_REGISTER)
+*Feature* [TEMP_REGISTER](../../feature/TEMP_REGISTER)
 
 *Bit Offset:* 32
 
 *Array Range:* 0-3
+
+## Description
 
 ## Fields
 

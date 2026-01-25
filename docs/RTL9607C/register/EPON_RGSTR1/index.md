@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: EPON_RGSTR1
 
+## Details
 
-# EPON_RGSTR1 Details
+*Name* EPON_RGSTR1
 
-*Offset:* 0x3600C
+*Offset* 0x3600C
 
-*Feature:* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+*Feature* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+
+## Description
 
 ## Fields
 

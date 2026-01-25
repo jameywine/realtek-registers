@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: REGCTRL_GLB
 
+## Details
 
-# REGCTRL_GLB Details
+*Name* REGCTRL_GLB
 
-*Offset:* 0x2300C
+*Offset* 0x2300C
 
-*Feature:* [INTERFACE](../../feature/INTERFACE)
+*Feature* [INTERFACE](../../feature/INTERFACE)
+
+## Description
 
 ## Fields
 

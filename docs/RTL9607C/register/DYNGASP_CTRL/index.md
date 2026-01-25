@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: DYNGASP_CTRL
 
+## Details
 
-# DYNGASP_CTRL Details
+*Name* DYNGASP_CTRL
 
-*Offset:* 0x29C
+*Offset* 0x29C
 
-*Feature:* [CHP_INFORMATION](../../feature/CHP_INFORMATION)
+*Feature* [CHP_INFORMATION](../../feature/CHP_INFORMATION)
+
+## Description
 
 ## Fields
 

@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: QOS_PORT_QMAP_CTRL
 
+## Details
 
-# QOS_PORT_QMAP_CTRL Details
+*Name* QOS_PORT_QMAP_CTRL
 
-*Offset:* 0x1C2A0
+*Offset* 0x1C2A0
 
-*Feature:* [QUEUE_MANAGEMENT](../../feature/QUEUE_MANAGEMENT)
+*Feature* [QUEUE_MANAGEMENT](../../feature/QUEUE_MANAGEMENT)
 
 *Bit Offset:* 2
 
 *Port Range:* 0-10
+
+## Description
 
 ## Fields
 

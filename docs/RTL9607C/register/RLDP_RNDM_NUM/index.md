@@ -1,13 +1,23 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: RLDP_RNDM_NUM
 
+## Details
 
-# RLDP_RNDM_NUM Details
+*Name* RLDP_RNDM_NUM
 
-*Offset:* 0x1A00C
+*Offset* 0x1A00C
 
-*Feature:* [RLDP](../../feature/RLDP)
+*Feature* [RLDP](../../feature/RLDP)
 
 *Bit Offset:* 64
+
+## Description
 
 ## Fields
 

@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: LLID_TABLE
 
+## Details
 
-# LLID_TABLE Details
+*Name* LLID_TABLE
 
-*Offset:* 0x3603C
+*Offset* 0x3603C
 
-*Feature:* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+*Feature* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
 
 *Bit Offset:* 96
 
 *Array Range:* 0-7
+
+## Description
 
 ## Fields
 

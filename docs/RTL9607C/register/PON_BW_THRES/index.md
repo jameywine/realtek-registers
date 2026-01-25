@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: PON_BW_THRES
 
+## Details
 
-# PON_BW_THRES Details
+*Name* PON_BW_THRES
 
-*Offset:* 0xF0219C
+*Offset* 0xF0219C
 
-*Feature:* [INTERFACE](../../feature/INTERFACE)
+*Feature* [INTERFACE](../../feature/INTERFACE)
+
+## Description
 
 ## Fields
 

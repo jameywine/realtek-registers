@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: GEM_CNTR
 
+## Details
 
-# GEM_CNTR Details
+*Name* GEM_CNTR
 
-*Offset:* 0x701288
+*Offset* 0x701288
 
-*Feature:* [GTC_DOWNSTREAM](../../feature/GTC_DOWNSTREAM)
+*Feature* [GTC_DOWNSTREAM](../../feature/GTC_DOWNSTREAM)
+
+## Description
 
 ## Fields
 

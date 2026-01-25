@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: PRI_SEL_TBL_CFG
 
+## Details
 
-# PRI_SEL_TBL_CFG Details
+*Name* PRI_SEL_TBL_CFG
 
-*Offset:* 0x1C2E4
+*Offset* 0x1C2E4
 
-*Feature:* [INGRESS_PRIORITY_DECISION](../../feature/INGRESS_PRIORITY_DECISION)
+*Feature* [INGRESS_PRIORITY_DECISION](../../feature/INGRESS_PRIORITY_DECISION)
 
 *Bit Offset:* 2
 
 *Port Range:* 0-10
+
+## Description
 
 ## Fields
 

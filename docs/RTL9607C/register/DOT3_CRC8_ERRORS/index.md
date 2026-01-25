@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: DOT3_CRC8_ERRORS
 
+## Details
 
-# DOT3_CRC8_ERRORS Details
+*Name* DOT3_CRC8_ERRORS
 
-*Offset:* 0x32E9C
+*Offset* 0x32E9C
 
-*Feature:* [STATISTIC_COUNTERS](../../feature/STATISTIC_COUNTERS)
+*Feature* [STATISTIC_COUNTERS](../../feature/STATISTIC_COUNTERS)
+
+## Description
 
 ## Fields
 

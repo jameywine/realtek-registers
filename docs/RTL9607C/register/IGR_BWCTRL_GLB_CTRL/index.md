@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: IGR_BWCTRL_GLB_CTRL
 
+## Details
 
-# IGR_BWCTRL_GLB_CTRL Details
+*Name* IGR_BWCTRL_GLB_CTRL
 
-*Offset:* 0x23198
+*Offset* 0x23198
 
-*Feature:* [BANDWIDTH_CONTROL_INGRESS_EGRESS_](../../feature/BANDWIDTH_CONTROL_INGRESS_EGRESS_)
+*Feature* [BANDWIDTH_CONTROL_INGRESS_EGRESS_](../../feature/BANDWIDTH_CONTROL_INGRESS_EGRESS_)
+
+## Description
 
 ## Fields
 

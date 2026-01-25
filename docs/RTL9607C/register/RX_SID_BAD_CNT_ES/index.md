@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: RX_SID_BAD_CNT_ES
 
+## Details
 
-# RX_SID_BAD_CNT_ES Details
+*Name* RX_SID_BAD_CNT_ES
 
-*Offset:* 0xF1211C
+*Offset* 0xF1211C
 
-*Feature:* [SWPBO](../../feature/SWPBO)
+*Feature* [SWPBO](../../feature/SWPBO)
 
 *Bit Offset:* 32
 
 *Array Range:* 0-4
+
+## Description
 
 ## Fields
 

@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SDS_CFG
 
+## Details
 
-# SDS_CFG Details
+*Name* SDS_CFG
 
-*Offset:* 0x270
+*Offset* 0x270
 
-*Feature:* [CHP_INFORMATION](../../feature/CHP_INFORMATION)
+*Feature* [CHP_INFORMATION](../../feature/CHP_INFORMATION)
 
 *Bit Offset:* 32
 
 *Port Range:* 0-2
+
+## Description
 
 ## Fields
 

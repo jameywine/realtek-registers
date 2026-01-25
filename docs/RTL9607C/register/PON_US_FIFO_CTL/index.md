@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: PON_US_FIFO_CTL
 
+## Details
 
-# PON_US_FIFO_CTL Details
+*Name* PON_US_FIFO_CTL
 
-*Offset:* 0xF02100
+*Offset* 0xF02100
 
-*Feature:* [INTERFACE](../../feature/INTERFACE)
+*Feature* [INTERFACE](../../feature/INTERFACE)
+
+## Description
 
 ## Fields
 

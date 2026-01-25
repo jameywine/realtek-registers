@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: ACL_CFG
 
+## Details
 
-# ACL_CFG Details
+*Name* ACL_CFG
 
-*Offset:* 0x15250
+*Offset* 0x15250
 
-*Feature:* [INGRESS_ACL](../../feature/INGRESS_ACL)
+*Feature* [INGRESS_ACL](../../feature/INGRESS_ACL)
+
+## Description
 
 ## Fields
 

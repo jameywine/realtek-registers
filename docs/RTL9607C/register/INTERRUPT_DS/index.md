@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: INTERRUPT_DS
 
+## Details
 
-# INTERRUPT_DS Details
+*Name* INTERRUPT_DS
 
-*Offset:* 0xF0C03C
+*Offset* 0xF0C03C
 
-*Feature:* [PONNIC_CTRL](../../feature/PONNIC_CTRL)
+*Feature* [PONNIC_CTRL](../../feature/PONNIC_CTRL)
+
+## Description
 
 ## Fields
 

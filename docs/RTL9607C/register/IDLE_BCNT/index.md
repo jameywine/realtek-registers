@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: IDLE_BCNT
 
+## Details
 
-# IDLE_BCNT Details
+*Name* IDLE_BCNT
 
-*Offset:* 0x706290
+*Offset* 0x706290
 
-*Feature:* [GEM_UPSTREAM](../../feature/GEM_UPSTREAM)
+*Feature* [GEM_UPSTREAM](../../feature/GEM_UPSTREAM)
+
+## Description
 
 ## Fields
 

@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: STORM_CTRL_MC_CTRL
 
+## Details
 
-# STORM_CTRL_MC_CTRL Details
+*Name* STORM_CTRL_MC_CTRL
 
-*Offset:* 0x17084
+*Offset* 0x17084
 
-*Feature:* [STORM_CONTROL_B_M_UM_DLF_](../../feature/STORM_CONTROL_B_M_UM_DLF_)
+*Feature* [STORM_CONTROL_B_M_UM_DLF_](../../feature/STORM_CONTROL_B_M_UM_DLF_)
 
 *Bit Offset:* 1
 
 *Port Range:* 0-10
+
+## Description
 
 ## Fields
 

@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: IOPAD_CFG
 
+## Details
 
-# IOPAD_CFG Details
+*Name* IOPAD_CFG
 
-*Offset:* 0x30
+*Offset* 0x30
 
-*Feature:* [INTERFACE](../../feature/INTERFACE)
+*Feature* [INTERFACE](../../feature/INTERFACE)
+
+## Description
 
 ## Fields
 

@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: CRASH_INTR_STS_0
 
+## Details
 
-# CRASH_INTR_STS_0 Details
+*Name* CRASH_INTR_STS_0
 
-*Offset:* 0x1A4
+*Offset* 0x1A4
 
-*Feature:* [HW_MISC_](../../feature/HW_MISC_)
+*Feature* [HW_MISC_](../../feature/HW_MISC_)
+
+## Description
 
 ## Fields
 

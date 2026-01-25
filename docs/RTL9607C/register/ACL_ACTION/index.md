@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: ACL_ACTION
 
+## Details
 
-# ACL_ACTION Details
+*Name* ACL_ACTION
 
-*Offset:* 0x15050
+*Offset* 0x15050
 
-*Feature:* [INGRESS_ACL](../../feature/INGRESS_ACL)
+*Feature* [INGRESS_ACL](../../feature/INGRESS_ACL)
 
 *Bit Offset:* 32
 
 *Array Range:* 0-127
+
+## Description
 
 ## Fields
 

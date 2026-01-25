@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SSC_CTRL_3_X2
 
+## Details
 
-# SSC_CTRL_3_X2 Details
+*Name* SSC_CTRL_3_X2
 
-*Offset:* 0x30C
+*Offset* 0x30C
 
-*Feature:* [OTHER](../../feature/OTHER)
+*Feature* [OTHER](../../feature/OTHER)
+
+## Description
 
 ## Fields
 

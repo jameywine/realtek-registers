@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: L2_SYS_LRN_CNT
 
+## Details
 
-# L2_SYS_LRN_CNT Details
+*Name* L2_SYS_LRN_CNT
 
-*Offset:* 0x1703C
+*Offset* 0x1703C
 
-*Feature:* [ADDRESS_TABLE_LOOKUP](../../feature/ADDRESS_TABLE_LOOKUP)
+*Feature* [ADDRESS_TABLE_LOOKUP](../../feature/ADDRESS_TABLE_LOOKUP)
+
+## Description
 
 ## Fields
 

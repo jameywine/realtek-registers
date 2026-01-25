@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SVLAN_CTRL
 
+## Details
 
-# SVLAN_CTRL Details
+*Name* SVLAN_CTRL
 
-*Offset:* 0x1403C
+*Offset* 0x1403C
 
-*Feature:* [_IEEE802_1AD_PROVIDER_BRIDGES_Q_IN_Q](../../feature/_IEEE802_1AD_PROVIDER_BRIDGES_Q_IN_Q)
+*Feature* [_IEEE802_1AD_PROVIDER_BRIDGES_Q_IN_Q](../../feature/_IEEE802_1AD_PROVIDER_BRIDGES_Q_IN_Q)
+
+## Description
 
 ## Fields
 

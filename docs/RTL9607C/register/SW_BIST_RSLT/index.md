@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SW_BIST_RSLT
 
+## Details
 
-# SW_BIST_RSLT Details
+*Name* SW_BIST_RSLT
 
-*Offset:* 0x310EC
+*Offset* 0x310EC
 
-*Feature:* [BIST_BISR](../../feature/BIST_BISR)
+*Feature* [BIST_BISR](../../feature/BIST_BISR)
+
+## Description
 
 ## Fields
 

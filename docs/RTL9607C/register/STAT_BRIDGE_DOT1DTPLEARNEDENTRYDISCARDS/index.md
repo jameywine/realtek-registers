@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: STAT_BRIDGE_DOT1DTPLEARNEDENTRYDISCARDS
 
+## Details
 
-# STAT_BRIDGE_DOT1DTPLEARNEDENTRYDISCARDS Details
+*Name* STAT_BRIDGE_DOT1DTPLEARNEDENTRYDISCARDS
 
-*Offset:* 0x32F50
+*Offset* 0x32F50
 
-*Feature:* [STATISTIC_COUNTERS](../../feature/STATISTIC_COUNTERS)
+*Feature* [STATISTIC_COUNTERS](../../feature/STATISTIC_COUNTERS)
+
+## Description
 
 ## Fields
 

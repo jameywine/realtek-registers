@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: DSCRUNOUT_US
 
+## Details
 
-# DSCRUNOUT_US Details
+*Name* DSCRUNOUT_US
 
-*Offset:* 0xF020F0
+*Offset* 0xF020F0
 
-*Feature:* [INTERFACE](../../feature/INTERFACE)
+*Feature* [INTERFACE](../../feature/INTERFACE)
+
+## Description
 
 ## Fields
 

@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: RX_DROP_CNT_ES
 
+## Details
 
-# RX_DROP_CNT_ES Details
+*Name* RX_DROP_CNT_ES
 
-*Offset:* 0xF12104
+*Offset* 0xF12104
 
-*Feature:* [SWPBO](../../feature/SWPBO)
+*Feature* [SWPBO](../../feature/SWPBO)
+
+## Description
 
 ## Fields
 

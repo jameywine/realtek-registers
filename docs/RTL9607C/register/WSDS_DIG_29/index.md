@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: WSDS_DIG_29
 
+## Details
 
-# WSDS_DIG_29 Details
+*Name* WSDS_DIG_29
 
-*Offset:* 0x400D4
+*Offset* 0x400D4
 
-*Feature:* [PHY_SERDES](../../feature/PHY_SERDES)
+*Feature* [PHY_SERDES](../../feature/PHY_SERDES)
+
+## Description
 
 ## Fields
 

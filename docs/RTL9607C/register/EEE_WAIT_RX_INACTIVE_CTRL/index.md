@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: EEE_WAIT_RX_INACTIVE_CTRL
 
+## Details
 
-# EEE_WAIT_RX_INACTIVE_CTRL Details
+*Name* EEE_WAIT_RX_INACTIVE_CTRL
 
-*Offset:* 0x23138
+*Offset* 0x23138
 
-*Feature:* [POWER_SAVING](../../feature/POWER_SAVING)
+*Feature* [POWER_SAVING](../../feature/POWER_SAVING)
+
+## Description
 
 ## Fields
 

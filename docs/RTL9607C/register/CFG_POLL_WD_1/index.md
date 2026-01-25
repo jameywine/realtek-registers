@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: CFG_POLL_WD_1
 
+## Details
 
-# CFG_POLL_WD_1 Details
+*Name* CFG_POLL_WD_1
 
-*Offset:* 0x78
+*Offset* 0x78
 
-*Feature:* [INTERFACE](../../feature/INTERFACE)
+*Feature* [INTERFACE](../../feature/INTERFACE)
+
+## Description
 
 ## Fields
 

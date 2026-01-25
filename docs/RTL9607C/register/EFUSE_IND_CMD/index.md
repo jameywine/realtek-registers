@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: EFUSE_IND_CMD
 
+## Details
 
-# EFUSE_IND_CMD Details
+*Name* EFUSE_IND_CMD
 
-*Offset:* 0x1C
+*Offset* 0x1C
 
-*Feature:* [INTERFACE](../../feature/INTERFACE)
+*Feature* [INTERFACE](../../feature/INTERFACE)
+
+## Description
 
 ## Fields
 

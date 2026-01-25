@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: METER_KEEP_FF
 
+## Details
 
-# METER_KEEP_FF Details
+*Name* METER_KEEP_FF
 
-*Offset:* 0x251A4
+*Offset* 0x251A4
 
-*Feature:* [OTHER](../../feature/OTHER)
+*Feature* [OTHER](../../feature/OTHER)
+
+## Description
 
 ## Fields
 

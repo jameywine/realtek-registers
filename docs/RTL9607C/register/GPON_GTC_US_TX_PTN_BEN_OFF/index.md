@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: GPON_GTC_US_TX_PTN_BEN_OFF
 
+## Details
 
-# GPON_GTC_US_TX_PTN_BEN_OFF Details
+*Name* GPON_GTC_US_TX_PTN_BEN_OFF
 
-*Offset:* 0x705270
+*Offset* 0x705270
 
-*Feature:* [GTC_UPSTREAM](../../feature/GTC_UPSTREAM)
+*Feature* [GTC_UPSTREAM](../../feature/GTC_UPSTREAM)
+
+## Description
 
 ## Fields
 

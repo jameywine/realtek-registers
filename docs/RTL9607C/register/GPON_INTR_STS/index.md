@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: GPON_INTR_STS
 
+## Details
 
-# GPON_INTR_STS Details
+*Name* GPON_INTR_STS
 
-*Offset:* 0x700044
+*Offset* 0x700044
 
-*Feature:* [GPON_MAC_GENERAL_CONFIG](../../feature/GPON_MAC_GENERAL_CONFIG)
+*Feature* [GPON_MAC_GENERAL_CONFIG](../../feature/GPON_MAC_GENERAL_CONFIG)
+
+## Description
 
 ## Fields
 

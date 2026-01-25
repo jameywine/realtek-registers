@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: PTP_P_EN
 
+## Details
 
-# PTP_P_EN Details
+*Name* PTP_P_EN
 
-*Offset:* 0x11118
+*Offset* 0x11118
 
-*Feature:* [PTP_PRECISION_TIME_PROTOCOL_](../../feature/PTP_PRECISION_TIME_PROTOCOL_)
+*Feature* [PTP_PRECISION_TIME_PROTOCOL_](../../feature/PTP_PRECISION_TIME_PROTOCOL_)
 
 *Bit Offset:* 32
 
 *Port Range:* 0-10
+
+## Description
 
 ## Fields
 

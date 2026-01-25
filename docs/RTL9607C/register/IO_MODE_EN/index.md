@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: IO_MODE_EN
 
+## Details
 
-# IO_MODE_EN Details
+*Name* IO_MODE_EN
 
-*Offset:* 0x23014
+*Offset* 0x23014
 
-*Feature:* [INTERFACE](../../feature/INTERFACE)
+*Feature* [INTERFACE](../../feature/INTERFACE)
+
+## Description
 
 ## Fields
 

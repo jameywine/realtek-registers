@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: US_BIST_CFG_4
 
+## Details
 
-# US_BIST_CFG_4 Details
+*Name* US_BIST_CFG_4
 
-*Offset:* 0xF0200C
+*Offset* 0xF0200C
 
-*Feature:* [BIST_BISR](../../feature/BIST_BISR)
+*Feature* [BIST_BISR](../../feature/BIST_BISR)
+
+## Description
 
 ## Fields
 

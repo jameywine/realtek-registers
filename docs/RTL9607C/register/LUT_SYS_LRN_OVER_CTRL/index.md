@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: LUT_SYS_LRN_OVER_CTRL
 
+## Details
 
-# LUT_SYS_LRN_OVER_CTRL Details
+*Name* LUT_SYS_LRN_OVER_CTRL
 
-*Offset:* 0x17040
+*Offset* 0x17040
 
-*Feature:* [ADDRESS_TABLE_LOOKUP](../../feature/ADDRESS_TABLE_LOOKUP)
+*Feature* [ADDRESS_TABLE_LOOKUP](../../feature/ADDRESS_TABLE_LOOKUP)
+
+## Description
 
 ## Fields
 

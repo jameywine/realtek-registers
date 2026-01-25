@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SSC_STS
 
+## Details
 
-# SSC_STS Details
+*Name* SSC_STS
 
-*Offset:* 0x148
+*Offset* 0x148
 
-*Feature:* [HW_MISC_](../../feature/HW_MISC_)
+*Feature* [HW_MISC_](../../feature/HW_MISC_)
 
 *Bit Offset:* 32
 
 *Port Range:* 0-1
+
+## Description
 
 ## Fields
 

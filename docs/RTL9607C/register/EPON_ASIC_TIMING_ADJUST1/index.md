@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: EPON_ASIC_TIMING_ADJUST1
 
+## Details
 
-# EPON_ASIC_TIMING_ADJUST1 Details
+*Name* EPON_ASIC_TIMING_ADJUST1
 
-*Offset:* 0x36004
+*Offset* 0x36004
 
-*Feature:* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+*Feature* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+
+## Description
 
 ## Fields
 

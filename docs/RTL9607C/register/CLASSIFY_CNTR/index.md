@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: CLASSIFY_CNTR
 
+## Details
 
-# CLASSIFY_CNTR Details
+*Name* CLASSIFY_CNTR
 
-*Offset:* 0x704284
+*Offset* 0x704284
 
-*Feature:* [GEM_PORT_DOWNSTREAM](../../feature/GEM_PORT_DOWNSTREAM)
+*Feature* [GEM_PORT_DOWNSTREAM](../../feature/GEM_PORT_DOWNSTREAM)
+
+## Description
 
 ## Fields
 

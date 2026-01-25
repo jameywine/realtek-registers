@@ -1,13 +1,23 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: INTR_STAT
 
+## Details
 
-# INTR_STAT Details
+*Name* INTR_STAT
 
-*Offset:* 0x1D014
+*Offset* 0x1D014
 
-*Feature:* [INTERRUPT](../../feature/INTERRUPT)
+*Feature* [INTERRUPT](../../feature/INTERRUPT)
 
 *Bit Offset:* 64
+
+## Description
 
 ## Fields
 

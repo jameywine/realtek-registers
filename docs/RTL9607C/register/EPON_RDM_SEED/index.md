@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: EPON_RDM_SEED
 
+## Details
 
-# EPON_RDM_SEED Details
+*Name* EPON_RDM_SEED
 
-*Offset:* 0x36180
+*Offset* 0x36180
 
-*Feature:* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+*Feature* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+
+## Description
 
 ## Fields
 

@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: STRAP_STS
 
+## Details
 
-# STRAP_STS Details
+*Name* STRAP_STS
 
-*Offset:* 0x2A4
+*Offset* 0x2A4
 
-*Feature:* [CHP_INFORMATION](../../feature/CHP_INFORMATION)
+*Feature* [CHP_INFORMATION](../../feature/CHP_INFORMATION)
 
 *Bit Offset:* 32
 
 *Port Range:* 0-1
+
+## Description
 
 ## Fields
 

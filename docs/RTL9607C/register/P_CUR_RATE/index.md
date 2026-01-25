@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: P_CUR_RATE
 
+## Details
 
-# P_CUR_RATE Details
+*Name* P_CUR_RATE
 
-*Offset:* 0x20008
+*Offset* 0x20008
 
-*Feature:* [MAC_CONTROL](../../feature/MAC_CONTROL)
+*Feature* [MAC_CONTROL](../../feature/MAC_CONTROL)
 
 *Bit Offset:* 32
 
 *Port Range:* 0-10
+
+## Description
 
 ## Fields
 

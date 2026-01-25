@@ -1,13 +1,23 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SVLAN_CFG
 
+## Details
 
-# SVLAN_CFG Details
+*Name* SVLAN_CFG
 
-*Offset:* 0x23190
+*Offset* 0x23190
 
-*Feature:* [_IEEE802_1AD_PROVIDER_BRIDGES_Q_IN_Q](../../feature/_IEEE802_1AD_PROVIDER_BRIDGES_Q_IN_Q)
+*Feature* [_IEEE802_1AD_PROVIDER_BRIDGES_Q_IN_Q](../../feature/_IEEE802_1AD_PROVIDER_BRIDGES_Q_IN_Q)
 
 *Bit Offset:* 64
+
+## Description
 
 ## Fields
 

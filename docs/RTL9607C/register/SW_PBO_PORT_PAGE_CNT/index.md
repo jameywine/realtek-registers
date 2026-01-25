@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SW_PBO_PORT_PAGE_CNT
 
+## Details
 
-# SW_PBO_PORT_PAGE_CNT Details
+*Name* SW_PBO_PORT_PAGE_CNT
 
-*Offset:* 0xF120CC
+*Offset* 0xF120CC
 
-*Feature:* [SWPBO](../../feature/SWPBO)
+*Feature* [SWPBO](../../feature/SWPBO)
 
 *Bit Offset:* 32
 
 *Port Range:* 0-4
+
+## Description
 
 ## Fields
 

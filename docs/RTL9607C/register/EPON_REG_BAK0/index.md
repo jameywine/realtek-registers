@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: EPON_REG_BAK0
 
+## Details
 
-# EPON_REG_BAK0 Details
+*Name* EPON_REG_BAK0
 
-*Offset:* 0x3614C
+*Offset* 0x3614C
 
-*Feature:* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+*Feature* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+
+## Description
 
 ## Fields
 

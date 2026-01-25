@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: TX_CFG_DS
 
+## Details
 
-# TX_CFG_DS Details
+*Name* TX_CFG_DS
 
-*Offset:* 0xF0C040
+*Offset* 0xF0C040
 
-*Feature:* [PONNIC_CTRL](../../feature/PONNIC_CTRL)
+*Feature* [PONNIC_CTRL](../../feature/PONNIC_CTRL)
+
+## Description
 
 ## Fields
 

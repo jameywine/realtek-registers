@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: P_ABLTY_X11
 
+## Details
 
-# P_ABLTY_X11 Details
+*Name* P_ABLTY_X11
 
-*Offset:* 0x2F8
+*Offset* 0x2F8
 
-*Feature:* [OTHER](../../feature/OTHER)
+*Feature* [OTHER](../../feature/OTHER)
+
+## Description
 
 ## Fields
 

@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: CFG_MAC_MISC
 
+## Details
 
-# CFG_MAC_MISC Details
+*Name* CFG_MAC_MISC
 
-*Offset:* 0x230FC
+*Offset* 0x230FC
 
-*Feature:* [MAC_CONTROL](../../feature/MAC_CONTROL)
+*Feature* [MAC_CONTROL](../../feature/MAC_CONTROL)
+
+## Description
 
 ## Fields
 

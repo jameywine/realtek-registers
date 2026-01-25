@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: WSDS_HSG1_ANA_0B
 
+## Details
 
-# WSDS_HSG1_ANA_0B Details
+*Name* WSDS_HSG1_ANA_0B
 
-*Offset:* 0x4202C
+*Offset* 0x4202C
 
-*Feature:* [HIGH_SG_SERDES](../../feature/HIGH_SG_SERDES)
+*Feature* [HIGH_SG_SERDES](../../feature/HIGH_SG_SERDES)
+
+## Description
 
 ## Fields
 

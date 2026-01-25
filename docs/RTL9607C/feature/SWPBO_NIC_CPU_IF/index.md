@@ -1,5 +1,9 @@
-
-
+---
+tags:
+  - RTL9607C
+  - Feature
+  - Register List
+---
 
 # RTL9607C Feature: SWPBO_NIC_CPU_IF
 

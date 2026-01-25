@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: CFG_HOTCMD2_CTRL
 
+## Details
 
-# CFG_HOTCMD2_CTRL Details
+*Name* CFG_HOTCMD2_CTRL
 
-*Offset:* 0x60
+*Offset* 0x60
 
-*Feature:* [INTERFACE](../../feature/INTERFACE)
+*Feature* [INTERFACE](../../feature/INTERFACE)
+
+## Description
 
 ## Fields
 

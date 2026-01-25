@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: EPON_REG_ACK_PAD_DATA
 
+## Details
 
-# EPON_REG_ACK_PAD_DATA Details
+*Name* EPON_REG_ACK_PAD_DATA
 
-*Offset:* 0x36198
+*Offset* 0x36198
 
-*Feature:* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+*Feature* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
 
 *Bit Offset:* 32
 
 *Array Range:* 0-1
+
+## Description
 
 ## Fields
 

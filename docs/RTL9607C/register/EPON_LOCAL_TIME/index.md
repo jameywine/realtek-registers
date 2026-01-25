@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: EPON_LOCAL_TIME
 
+## Details
 
-# EPON_LOCAL_TIME Details
+*Name* EPON_LOCAL_TIME
 
-*Offset:* 0x360F4
+*Offset* 0x360F4
 
-*Feature:* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+*Feature* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+
+## Description
 
 ## Fields
 

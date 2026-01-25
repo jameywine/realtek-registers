@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SDS_FIB_STATUS
 
+## Details
 
-# SDS_FIB_STATUS Details
+*Name* SDS_FIB_STATUS
 
-*Offset:* 0x28C
+*Offset* 0x28C
 
-*Feature:* [CHP_INFORMATION](../../feature/CHP_INFORMATION)
+*Feature* [CHP_INFORMATION](../../feature/CHP_INFORMATION)
 
 *Bit Offset:* 32
 
 *Port Range:* 0-2
+
+## Description
 
 ## Fields
 

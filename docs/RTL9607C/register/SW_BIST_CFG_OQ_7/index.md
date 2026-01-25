@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SW_BIST_CFG_OQ_7
 
+## Details
 
-# SW_BIST_CFG_OQ_7 Details
+*Name* SW_BIST_CFG_OQ_7
 
-*Offset:* 0x31098
+*Offset* 0x31098
 
-*Feature:* [BIST_BISR](../../feature/BIST_BISR)
+*Feature* [BIST_BISR](../../feature/BIST_BISR)
+
+## Description
 
 ## Fields
 

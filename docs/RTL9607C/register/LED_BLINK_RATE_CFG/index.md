@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: LED_BLINK_RATE_CFG
 
+## Details
 
-# LED_BLINK_RATE_CFG Details
+*Name* LED_BLINK_RATE_CFG
 
-*Offset:* 0x1E05C
+*Offset* 0x1E05C
 
-*Feature:* [LED](../../feature/LED)
+*Feature* [LED](../../feature/LED)
+
+## Description
 
 ## Fields
 

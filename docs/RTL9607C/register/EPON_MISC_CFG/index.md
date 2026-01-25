@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: EPON_MISC_CFG
 
+## Details
 
-# EPON_MISC_CFG Details
+*Name* EPON_MISC_CFG
 
-*Offset:* 0x360F0
+*Offset* 0x360F0
 
-*Feature:* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+*Feature* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+
+## Description
 
 ## Fields
 

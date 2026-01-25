@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: GPON_GEM_DS_FRM_TIMEOUT
 
+## Details
 
-# GPON_GEM_DS_FRM_TIMEOUT Details
+*Name* GPON_GEM_DS_FRM_TIMEOUT
 
-*Offset:* 0x704098
+*Offset* 0x704098
 
-*Feature:* [GEM_PORT_DOWNSTREAM](../../feature/GEM_PORT_DOWNSTREAM)
+*Feature* [GEM_PORT_DOWNSTREAM](../../feature/GEM_PORT_DOWNSTREAM)
+
+## Description
 
 ## Fields
 

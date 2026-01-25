@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: DOS_ICMPFLOOD_TH
 
+## Details
 
-# DOS_ICMPFLOOD_TH Details
+*Name* DOS_ICMPFLOOD_TH
 
-*Offset:* 0x26010
+*Offset* 0x26010
 
-*Feature:* [DENIAL_OF_SERVICE_ATTACK_PREVENTION](../../feature/DENIAL_OF_SERVICE_ATTACK_PREVENTION)
+*Feature* [DENIAL_OF_SERVICE_ATTACK_PREVENTION](../../feature/DENIAL_OF_SERVICE_ATTACK_PREVENTION)
+
+## Description
 
 ## Fields
 

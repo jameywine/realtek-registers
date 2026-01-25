@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: HWPKT_GEN_STA
 
+## Details
 
-# HWPKT_GEN_STA Details
+*Name* HWPKT_GEN_STA
 
-*Offset:* 0x230F0
+*Offset* 0x230F0
 
-*Feature:* [CHP_INFORMATION](../../feature/CHP_INFORMATION)
+*Feature* [CHP_INFORMATION](../../feature/CHP_INFORMATION)
+
+## Description
 
 ## Fields
 

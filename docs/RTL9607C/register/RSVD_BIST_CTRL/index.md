@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: RSVD_BIST_CTRL
 
+## Details
 
-# RSVD_BIST_CTRL Details
+*Name* RSVD_BIST_CTRL
 
-*Offset:* 0x310FC
+*Offset* 0x310FC
 
-*Feature:* [TEMP_REGISTER](../../feature/TEMP_REGISTER)
+*Feature* [TEMP_REGISTER](../../feature/TEMP_REGISTER)
 
 *Bit Offset:* 32
 
 *Array Range:* 0-3
+
+## Description
 
 ## Fields
 

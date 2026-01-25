@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: GPON_AES_KEY_WORD_IND
 
+## Details
 
-# GPON_AES_KEY_WORD_IND Details
+*Name* GPON_AES_KEY_WORD_IND
 
-*Offset:* 0x703020
+*Offset* 0x703020
 
-*Feature:* [AES_DECRYPT](../../feature/AES_DECRYPT)
+*Feature* [AES_DECRYPT](../../feature/AES_DECRYPT)
+
+## Description
 
 ## Fields
 

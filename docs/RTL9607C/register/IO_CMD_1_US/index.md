@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: IO_CMD_1_US
 
+## Details
 
-# IO_CMD_1_US Details
+*Name* IO_CMD_1_US
 
-*Offset:* 0xF05438
+*Offset* 0xF05438
 
-*Feature:* [CPU_IF](../../feature/CPU_IF)
+*Feature* [CPU_IF](../../feature/CPU_IF)
+
+## Description
 
 ## Fields
 

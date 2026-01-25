@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SSC_CTRL_2
 
+## Details
 
-# SSC_CTRL_2 Details
+*Name* SSC_CTRL_2
 
-*Offset:* 0x128
+*Offset* 0x128
 
-*Feature:* [HW_MISC_](../../feature/HW_MISC_)
+*Feature* [HW_MISC_](../../feature/HW_MISC_)
 
 *Bit Offset:* 32
 
 *Port Range:* 0-1
+
+## Description
 
 ## Fields
 

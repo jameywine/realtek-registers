@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: WFQ_PORT_CFG0
 
+## Details
 
-# WFQ_PORT_CFG0 Details
+*Name* WFQ_PORT_CFG0
 
-*Offset:* 0x2D840
+*Offset* 0x2D840
 
-*Feature:* [SCHEDULING](../../feature/SCHEDULING)
+*Feature* [SCHEDULING](../../feature/SCHEDULING)
 
 *Bit Offset:* 16
 
 *Port Range:* 0-10
+
+## Description
 
 ## Fields
 

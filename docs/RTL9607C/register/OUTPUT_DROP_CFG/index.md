@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: OUTPUT_DROP_CFG
 
+## Details
 
-# OUTPUT_DROP_CFG Details
+*Name* OUTPUT_DROP_CFG
 
-*Offset:* 0x11088
+*Offset* 0x11088
 
-*Feature:* [SCHEDULING](../../feature/SCHEDULING)
+*Feature* [SCHEDULING](../../feature/SCHEDULING)
+
+## Description
 
 ## Fields
 

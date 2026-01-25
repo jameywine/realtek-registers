@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: CPU_PLL_CTRL_DUMMY
 
+## Details
 
-# CPU_PLL_CTRL_DUMMY Details
+*Name* CPU_PLL_CTRL_DUMMY
 
-*Offset:* 0x354
+*Offset* 0x354
 
-*Feature:* [OTHER](../../feature/OTHER)
+*Feature* [OTHER](../../feature/OTHER)
+
+## Description
 
 ## Fields
 

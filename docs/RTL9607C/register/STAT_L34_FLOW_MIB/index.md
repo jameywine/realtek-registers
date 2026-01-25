@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: STAT_L34_FLOW_MIB
 
+## Details
 
-# STAT_L34_FLOW_MIB Details
+*Name* STAT_L34_FLOW_MIB
 
-*Offset:* 0x33800
+*Offset* 0x33800
 
-*Feature:* [STATISTIC_COUNTERS](../../feature/STATISTIC_COUNTERS)
+*Feature* [STATISTIC_COUNTERS](../../feature/STATISTIC_COUNTERS)
 
 *Bit Offset:* 192
 
 *Array Range:* 0-31
+
+## Description
 
 ## Fields
 

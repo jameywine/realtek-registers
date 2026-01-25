@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: QOS_1Q_PRI_REMAP
 
+## Details
 
-# QOS_1Q_PRI_REMAP Details
+*Name* QOS_1Q_PRI_REMAP
 
-*Offset:* 0x1C2AC
+*Offset* 0x1C2AC
 
-*Feature:* [INGRESS_PRIORITY_DECISION](../../feature/INGRESS_PRIORITY_DECISION)
+*Feature* [INGRESS_PRIORITY_DECISION](../../feature/INGRESS_PRIORITY_DECISION)
 
 *Bit Offset:* 3
 
 *Array Range:* 0-7
+
+## Description
 
 ## Fields
 

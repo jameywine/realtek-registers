@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: FC_PON_GLB_DROP_HI_TH
 
+## Details
 
-# FC_PON_GLB_DROP_HI_TH Details
+*Name* FC_PON_GLB_DROP_HI_TH
 
-*Offset:* 0x23270
+*Offset* 0x23270
 
-*Feature:* [OTHER](../../feature/OTHER)
+*Feature* [OTHER](../../feature/OTHER)
+
+## Description
 
 ## Fields
 

@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: PBOES_BIST_9
 
+## Details
 
-# PBOES_BIST_9 Details
+*Name* PBOES_BIST_9
 
-*Offset:* 0xF12024
+*Offset* 0xF12024
 
-*Feature:* [BIST_BISR](../../feature/BIST_BISR)
+*Feature* [BIST_BISR](../../feature/BIST_BISR)
+
+## Description
 
 ## Fields
 

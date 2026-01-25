@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: INTR_IMS
 
+## Details
 
-# INTR_IMS Details
+*Name* INTR_IMS
 
-*Offset:* 0x1D010
+*Offset* 0x1D010
 
-*Feature:* [INTERRUPT](../../feature/INTERRUPT)
+*Feature* [INTERRUPT](../../feature/INTERRUPT)
+
+## Description
 
 ## Fields
 

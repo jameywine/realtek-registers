@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: PON_LED_CFG
 
+## Details
 
-# PON_LED_CFG Details
+*Name* PON_LED_CFG
 
-*Offset:* 0x1E078
+*Offset* 0x1E078
 
-*Feature:* [LED](../../feature/LED)
+*Feature* [LED](../../feature/LED)
+
+## Description
 
 ## Fields
 

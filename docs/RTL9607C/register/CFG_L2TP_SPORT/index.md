@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: CFG_L2TP_SPORT
 
+## Details
 
-# CFG_L2TP_SPORT Details
+*Name* CFG_L2TP_SPORT
 
-*Offset:* 0x23114
+*Offset* 0x23114
 
-*Feature:* [MAC_CONTROL](../../feature/MAC_CONTROL)
+*Feature* [MAC_CONTROL](../../feature/MAC_CONTROL)
+
+## Description
 
 ## Fields
 

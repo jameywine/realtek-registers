@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: DS_BIST_RSLT
 
+## Details
 
-# DS_BIST_RSLT Details
+*Name* DS_BIST_RSLT
 
-*Offset:* 0xF0A01C
+*Offset* 0xF0A01C
 
-*Feature:* [BIST_BISR](../../feature/BIST_BISR)
+*Feature* [BIST_BISR](../../feature/BIST_BISR)
+
+## Description
 
 ## Fields
 

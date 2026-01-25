@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: PON_LX_MON_STS_1
 
+## Details
 
-# PON_LX_MON_STS_1 Details
+*Name* PON_LX_MON_STS_1
 
-*Offset:* 0xF00010
+*Offset* 0xF00010
 
-*Feature:* [PON_MAC_SCHEDULING_CONFIG](../../feature/PON_MAC_SCHEDULING_CONFIG)
+*Feature* [PON_MAC_SCHEDULING_CONFIG](../../feature/PON_MAC_SCHEDULING_CONFIG)
+
+## Description
 
 ## Fields
 

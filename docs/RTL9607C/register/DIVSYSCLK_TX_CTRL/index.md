@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: DIVSYSCLK_TX_CTRL
 
+## Details
 
-# DIVSYSCLK_TX_CTRL Details
+*Name* DIVSYSCLK_TX_CTRL
 
-*Offset:* 0x20030
+*Offset* 0x20030
 
-*Feature:* [TEMP_REGISTER](../../feature/TEMP_REGISTER)
+*Feature* [TEMP_REGISTER](../../feature/TEMP_REGISTER)
 
 *Bit Offset:* 32
 
 *Port Range:* 0-10
+
+## Description
 
 ## Fields
 

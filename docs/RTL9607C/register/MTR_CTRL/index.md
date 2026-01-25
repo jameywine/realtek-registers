@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: MTR_CTRL
 
+## Details
 
-# MTR_CTRL Details
+*Name* MTR_CTRL
 
-*Offset:* 0x801030
+*Offset* 0x801030
 
-*Feature:* [FB_CTRL](../../feature/FB_CTRL)
+*Feature* [FB_CTRL](../../feature/FB_CTRL)
+
+## Description
 
 ## Fields
 

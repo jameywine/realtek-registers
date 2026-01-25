@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: TXCD01_US
 
+## Details
 
-# TXCD01_US Details
+*Name* TXCD01_US
 
-*Offset:* 0xF05304
+*Offset* 0xF05304
 
-*Feature:* [CPU_IF](../../feature/CPU_IF)
+*Feature* [CPU_IF](../../feature/CPU_IF)
+
+## Description
 
 ## Fields
 

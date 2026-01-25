@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: RGF_VER_ALE_METER
 
+## Details
 
-# RGF_VER_ALE_METER Details
+*Name* RGF_VER_ALE_METER
 
-*Offset:* 0x25190
+*Offset* 0x25190
 
-*Feature:* [TEMP_REGISTER](../../feature/TEMP_REGISTER)
+*Feature* [TEMP_REGISTER](../../feature/TEMP_REGISTER)
+
+## Description
 
 ## Fields
 

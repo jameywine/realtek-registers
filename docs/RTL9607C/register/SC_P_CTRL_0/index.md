@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SC_P_CTRL_0
 
+## Details
 
-# SC_P_CTRL_0 Details
+*Name* SC_P_CTRL_0
 
-*Offset:* 0x20014
+*Offset* 0x20014
 
-*Feature:* [CONGESTION_AVOIDANCE](../../feature/CONGESTION_AVOIDANCE)
+*Feature* [CONGESTION_AVOIDANCE](../../feature/CONGESTION_AVOIDANCE)
 
 *Bit Offset:* 32
 
 *Port Range:* 0-10
+
+## Description
 
 ## Fields
 

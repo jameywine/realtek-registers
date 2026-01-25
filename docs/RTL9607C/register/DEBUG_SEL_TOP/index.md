@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: DEBUG_SEL_TOP
 
+## Details
 
-# DEBUG_SEL_TOP Details
+*Name* DEBUG_SEL_TOP
 
-*Offset:* 0x268
+*Offset* 0x268
 
-*Feature:* [CHP_INFORMATION](../../feature/CHP_INFORMATION)
+*Feature* [CHP_INFORMATION](../../feature/CHP_INFORMATION)
+
+## Description
 
 ## Fields
 

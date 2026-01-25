@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: RMA_CTRL_CDP
 
+## Details
 
-# RMA_CTRL_CDP Details
+*Name* RMA_CTRL_CDP
 
-*Offset:* 0x1C108
+*Offset* 0x1C108
 
-*Feature:* [RMA](../../feature/RMA)
+*Feature* [RMA](../../feature/RMA)
+
+## Description
 
 ## Fields
 

@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: BWMAP_CAP
 
+## Details
 
-# BWMAP_CAP Details
+*Name* BWMAP_CAP
 
-*Offset:* 0x701294
+*Offset* 0x701294
 
-*Feature:* [GTC_DOWNSTREAM](../../feature/GTC_DOWNSTREAM)
+*Feature* [GTC_DOWNSTREAM](../../feature/GTC_DOWNSTREAM)
+
+## Description
 
 ## Fields
 

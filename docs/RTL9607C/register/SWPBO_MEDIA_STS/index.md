@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SWPBO_MEDIA_STS
 
+## Details
 
-# SWPBO_MEDIA_STS Details
+*Name* SWPBO_MEDIA_STS
 
-*Offset:* 0xF14058
+*Offset* 0xF14058
 
-*Feature:* [SWPBO_NIC_CTRL](../../feature/SWPBO_NIC_CTRL)
+*Feature* [SWPBO_NIC_CTRL](../../feature/SWPBO_NIC_CTRL)
+
+## Description
 
 ## Fields
 

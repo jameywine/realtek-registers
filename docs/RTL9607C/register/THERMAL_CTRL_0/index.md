@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: THERMAL_CTRL_0
 
+## Details
 
-# THERMAL_CTRL_0 Details
+*Name* THERMAL_CTRL_0
 
-*Offset:* 0x150
+*Offset* 0x150
 
-*Feature:* [HW_MISC_](../../feature/HW_MISC_)
+*Feature* [HW_MISC_](../../feature/HW_MISC_)
+
+## Description
 
 ## Fields
 

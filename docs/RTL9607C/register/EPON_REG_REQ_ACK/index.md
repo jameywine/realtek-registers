@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: EPON_REG_REQ_ACK
 
+## Details
 
-# EPON_REG_REQ_ACK Details
+*Name* EPON_REG_REQ_ACK
 
-*Offset:* 0x3618C
+*Offset* 0x3618C
 
-*Feature:* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+*Feature* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+
+## Description
 
 ## Fields
 

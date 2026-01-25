@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SYSCLK_TUNE
 
+## Details
 
-# SYSCLK_TUNE Details
+*Name* SYSCLK_TUNE
 
-*Offset:* 0xF00074
+*Offset* 0xF00074
 
-*Feature:* [TEMP_REGISTER](../../feature/TEMP_REGISTER)
+*Feature* [TEMP_REGISTER](../../feature/TEMP_REGISTER)
+
+## Description
 
 ## Fields
 

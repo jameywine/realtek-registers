@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: IP_MSTBASE_US
 
+## Details
 
-# IP_MSTBASE_US Details
+*Name* IP_MSTBASE_US
 
-*Offset:* 0xF020F8
+*Offset* 0xF020F8
 
-*Feature:* [INTERFACE](../../feature/INTERFACE)
+*Feature* [INTERFACE](../../feature/INTERFACE)
+
+## Description
 
 ## Fields
 

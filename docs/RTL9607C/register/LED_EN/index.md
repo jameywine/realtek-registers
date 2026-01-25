@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: LED_EN
 
+## Details
 
-# LED_EN Details
+*Name* LED_EN
 
-*Offset:* 0x1E068
+*Offset* 0x1E068
 
-*Feature:* [LED](../../feature/LED)
+*Feature* [LED](../../feature/LED)
+
+## Description
 
 ## Fields
 

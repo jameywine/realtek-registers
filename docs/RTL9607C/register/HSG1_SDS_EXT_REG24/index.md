@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: HSG1_SDS_EXT_REG24
 
+## Details
 
-# HSG1_SDS_EXT_REG24 Details
+*Name* HSG1_SDS_EXT_REG24
 
-*Offset:* 0x42A60
+*Offset* 0x42A60
 
-*Feature:* [HIGH_SG_SERDES](../../feature/HIGH_SG_SERDES)
+*Feature* [HIGH_SG_SERDES](../../feature/HIGH_SG_SERDES)
+
+## Description
 
 ## Fields
 

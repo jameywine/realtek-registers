@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: METER_PKT_RATE
 
+## Details
 
-# METER_PKT_RATE Details
+*Name* METER_PKT_RATE
 
-*Offset:* 0x2518C
+*Offset* 0x2518C
 
-*Feature:* [METER_MARKER](../../feature/METER_MARKER)
+*Feature* [METER_MARKER](../../feature/METER_MARKER)
+
+## Description
 
 ## Fields
 

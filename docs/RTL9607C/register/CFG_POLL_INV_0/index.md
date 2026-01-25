@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: CFG_POLL_INV_0
 
+## Details
 
-# CFG_POLL_INV_0 Details
+*Name* CFG_POLL_INV_0
 
-*Offset:* 0x6C
+*Offset* 0x6C
 
-*Feature:* [INTERFACE](../../feature/INTERFACE)
+*Feature* [INTERFACE](../../feature/INTERFACE)
+
+## Description
 
 ## Fields
 

@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: EPON_TX_OPT
 
+## Details
 
-# EPON_TX_OPT Details
+*Name* EPON_TX_OPT
 
-*Offset:* 0x361A0
+*Offset* 0x361A0
 
-*Feature:* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+*Feature* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+
+## Description
 
 ## Fields
 

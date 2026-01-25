@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: HSB_CFG
 
+## Details
 
-# HSB_CFG Details
+*Name* HSB_CFG
 
-*Offset:* 0x11090
+*Offset* 0x11090
 
-*Feature:* [PARSER_HSB](../../feature/PARSER_HSB)
+*Feature* [PARSER_HSB](../../feature/PARSER_HSB)
+
+## Description
 
 ## Fields
 

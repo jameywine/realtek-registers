@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: PARSER_FIELD_SELTOR_CTRL
 
+## Details
 
-# PARSER_FIELD_SELTOR_CTRL Details
+*Name* PARSER_FIELD_SELTOR_CTRL
 
-*Offset:* 0x2322C
+*Offset* 0x2322C
 
-*Feature:* [PARSER](../../feature/PARSER)
+*Feature* [PARSER](../../feature/PARSER)
 
 *Bit Offset:* 32
 
 *Array Range:* 0-7
+
+## Description
 
 ## Fields
 

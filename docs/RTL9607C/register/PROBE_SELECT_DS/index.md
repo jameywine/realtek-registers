@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: PROBE_SELECT_DS
 
+## Details
 
-# PROBE_SELECT_DS Details
+*Name* PROBE_SELECT_DS
 
-*Offset:* 0xF0D400
+*Offset* 0xF0D400
 
-*Feature:* [CPU_IF](../../feature/CPU_IF)
+*Feature* [CPU_IF](../../feature/CPU_IF)
+
+## Description
 
 ## Fields
 

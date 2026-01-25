@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: CC_STS_2
 
+## Details
 
-# CC_STS_2 Details
+*Name* CC_STS_2
 
-*Offset:* 0x80133C
+*Offset* 0x80133C
 
-*Feature:* [CC_CTRL](../../feature/CC_CTRL)
+*Feature* [CC_CTRL](../../feature/CC_CTRL)
+
+## Description
 
 ## Fields
 

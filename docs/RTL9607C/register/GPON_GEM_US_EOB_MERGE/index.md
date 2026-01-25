@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: GPON_GEM_US_EOB_MERGE
 
+## Details
 
-# GPON_GEM_US_EOB_MERGE Details
+*Name* GPON_GEM_US_EOB_MERGE
 
-*Offset:* 0x706260
+*Offset* 0x706260
 
-*Feature:* [GEM_UPSTREAM](../../feature/GEM_UPSTREAM)
+*Feature* [GEM_UPSTREAM](../../feature/GEM_UPSTREAM)
+
+## Description
 
 ## Fields
 

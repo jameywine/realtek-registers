@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: OTP_DBG_CTRL
 
+## Details
 
-# OTP_DBG_CTRL Details
+*Name* OTP_DBG_CTRL
 
-*Offset:* 0x31C
+*Offset* 0x31C
 
-*Feature:* [OTHER](../../feature/OTHER)
+*Feature* [OTHER](../../feature/OTHER)
+
+## Description
 
 ## Fields
 

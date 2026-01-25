@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: LUT_CFG
 
+## Details
 
-# LUT_CFG Details
+*Name* LUT_CFG
 
-*Offset:* 0x17000
+*Offset* 0x17000
 
-*Feature:* [ADDRESS_TABLE_LOOKUP](../../feature/ADDRESS_TABLE_LOOKUP)
+*Feature* [ADDRESS_TABLE_LOOKUP](../../feature/ADDRESS_TABLE_LOOKUP)
+
+## Description
 
 ## Fields
 

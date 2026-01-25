@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: GPON_AES_INTR_STS
 
+## Details
 
-# GPON_AES_INTR_STS Details
+*Name* GPON_AES_INTR_STS
 
-*Offset:* 0x703008
+*Offset* 0x703008
 
-*Feature:* [AES_DECRYPT](../../feature/AES_DECRYPT)
+*Feature* [AES_DECRYPT](../../feature/AES_DECRYPT)
+
+## Description
 
 ## Fields
 

@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SW_PBO_PORT_MAX_CLEAR
 
+## Details
 
-# SW_PBO_PORT_MAX_CLEAR Details
+*Name* SW_PBO_PORT_MAX_CLEAR
 
-*Offset:* 0xF120E0
+*Offset* 0xF120E0
 
-*Feature:* [SWPBO](../../feature/SWPBO)
+*Feature* [SWPBO](../../feature/SWPBO)
 
 *Bit Offset:* 1
 
 *Port Range:* 0-4
+
+## Description
 
 ## Fields
 

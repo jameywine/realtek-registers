@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: BWM_MEM1
 
+## Details
 
-# BWM_MEM1 Details
+*Name* BWM_MEM1
 
-*Offset:* 0x705288
+*Offset* 0x705288
 
-*Feature:* [GTC_UPSTREAM](../../feature/GTC_UPSTREAM)
+*Feature* [GTC_UPSTREAM](../../feature/GTC_UPSTREAM)
+
+## Description
 
 ## Fields
 

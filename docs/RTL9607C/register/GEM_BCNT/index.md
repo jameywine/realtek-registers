@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: GEM_BCNT
 
+## Details
 
-# GEM_BCNT Details
+*Name* GEM_BCNT
 
-*Offset:* 0x706284
+*Offset* 0x706284
 
-*Feature:* [GEM_UPSTREAM](../../feature/GEM_UPSTREAM)
+*Feature* [GEM_UPSTREAM](../../feature/GEM_UPSTREAM)
+
+## Description
 
 ## Fields
 

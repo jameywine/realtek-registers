@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: DRN_CMD
 
+## Details
 
-# DRN_CMD Details
+*Name* DRN_CMD
 
-*Offset:* 0xF020F4
+*Offset* 0xF020F4
 
-*Feature:* [INTERFACE](../../feature/INTERFACE)
+*Feature* [INTERFACE](../../feature/INTERFACE)
+
+## Description
 
 ## Fields
 

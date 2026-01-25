@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: G_DMY_XX_03
 
+## Details
 
-# G_DMY_XX_03 Details
+*Name* G_DMY_XX_03
 
-*Offset:* 0x705268
+*Offset* 0x705268
 
-*Feature:* [GTC_UPSTREAM](../../feature/GTC_UPSTREAM)
+*Feature* [GTC_UPSTREAM](../../feature/GTC_UPSTREAM)
+
+## Description
 
 ## Fields
 

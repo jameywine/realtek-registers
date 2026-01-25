@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: PS_LINKID_GATCLK_CTRL
 
+## Details
 
-# PS_LINKID_GATCLK_CTRL Details
+*Name* PS_LINKID_GATCLK_CTRL
 
-*Offset:* 0x23128
+*Offset* 0x23128
 
-*Feature:* [POWER_SAVING](../../feature/POWER_SAVING)
+*Feature* [POWER_SAVING](../../feature/POWER_SAVING)
+
+## Description
 
 ## Fields
 

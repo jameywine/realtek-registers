@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: OAM_CTRL_0
 
+## Details
 
-# OAM_CTRL_0 Details
+*Name* OAM_CTRL_0
 
-*Offset:* 0x1C2EC
+*Offset* 0x1C2EC
 
-*Feature:* [OAM](../../feature/OAM)
+*Feature* [OAM](../../feature/OAM)
+
+## Description
 
 ## Fields
 

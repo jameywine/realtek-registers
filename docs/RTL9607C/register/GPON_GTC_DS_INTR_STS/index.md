@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: GPON_GTC_DS_INTR_STS
 
+## Details
 
-# GPON_GTC_DS_INTR_STS Details
+*Name* GPON_GTC_DS_INTR_STS
 
-*Offset:* 0x701008
+*Offset* 0x701008
 
-*Feature:* [GTC_DOWNSTREAM](../../feature/GTC_DOWNSTREAM)
+*Feature* [GTC_DOWNSTREAM](../../feature/GTC_DOWNSTREAM)
+
+## Description
 
 ## Fields
 

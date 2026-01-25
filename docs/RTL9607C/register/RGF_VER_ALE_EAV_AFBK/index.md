@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: RGF_VER_ALE_EAV_AFBK
 
+## Details
 
-# RGF_VER_ALE_EAV_AFBK Details
+*Name* RGF_VER_ALE_EAV_AFBK
 
-*Offset:* 0x1B030
+*Offset* 0x1B030
 
-*Feature:* [TEMP_REGISTER](../../feature/TEMP_REGISTER)
+*Feature* [TEMP_REGISTER](../../feature/TEMP_REGISTER)
+
+## Description
 
 ## Fields
 

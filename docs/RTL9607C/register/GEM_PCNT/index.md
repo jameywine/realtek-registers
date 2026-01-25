@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: GEM_PCNT
 
+## Details
 
-# GEM_PCNT Details
+*Name* GEM_PCNT
 
-*Offset:* 0x706294
+*Offset* 0x706294
 
-*Feature:* [GEM_UPSTREAM](../../feature/GEM_UPSTREAM)
+*Feature* [GEM_UPSTREAM](../../feature/GEM_UPSTREAM)
+
+## Description
 
 ## Fields
 

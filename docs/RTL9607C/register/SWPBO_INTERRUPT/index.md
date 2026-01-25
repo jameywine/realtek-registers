@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SWPBO_INTERRUPT
 
+## Details
 
-# SWPBO_INTERRUPT Details
+*Name* SWPBO_INTERRUPT
 
-*Offset:* 0xF1403C
+*Offset* 0xF1403C
 
-*Feature:* [SWPBO_NIC_CTRL](../../feature/SWPBO_NIC_CTRL)
+*Feature* [SWPBO_NIC_CTRL](../../feature/SWPBO_NIC_CTRL)
+
+## Description
 
 ## Fields
 

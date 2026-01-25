@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: EPON_REPORT_MODE
 
+## Details
 
-# EPON_REPORT_MODE Details
+*Name* EPON_REPORT_MODE
 
-*Offset:* 0xF029E4
+*Offset* 0xF029E4
 
-*Feature:* [PONIP_SCHEDULING_UPSTREAM](../../feature/PONIP_SCHEDULING_UPSTREAM)
+*Feature* [PONIP_SCHEDULING_UPSTREAM](../../feature/PONIP_SCHEDULING_UPSTREAM)
+
+## Description
 
 ## Fields
 

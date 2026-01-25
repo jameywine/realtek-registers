@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: RMA_CFG
 
+## Details
 
-# RMA_CFG Details
+*Name* RMA_CFG
 
-*Offset:* 0x1C110
+*Offset* 0x1C110
 
-*Feature:* [RMA](../../feature/RMA)
+*Feature* [RMA](../../feature/RMA)
+
+## Description
 
 ## Fields
 

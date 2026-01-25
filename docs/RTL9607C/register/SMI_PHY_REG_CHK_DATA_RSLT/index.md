@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SMI_PHY_REG_CHK_DATA_RSLT
 
+## Details
 
-# SMI_PHY_REG_CHK_DATA_RSLT Details
+*Name* SMI_PHY_REG_CHK_DATA_RSLT
 
-*Offset:* 0x230D0
+*Offset* 0x230D0
 
-*Feature:* [INTERFACE](../../feature/INTERFACE)
+*Feature* [INTERFACE](../../feature/INTERFACE)
 
 *Bit Offset:* 32
 
 *Port Range:* 0-3
+
+## Description
 
 ## Fields
 

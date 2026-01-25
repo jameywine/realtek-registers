@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: CHANGE_DUPLEX_CTRL
 
+## Details
 
-# CHANGE_DUPLEX_CTRL Details
+*Name* CHANGE_DUPLEX_CTRL
 
-*Offset:* 0x23120
+*Offset* 0x23120
 
-*Feature:* [MAC_CONTROL](../../feature/MAC_CONTROL)
+*Feature* [MAC_CONTROL](../../feature/MAC_CONTROL)
+
+## Description
 
 ## Fields
 

@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: PPS_CTRL
 
+## Details
 
-# PPS_CTRL Details
+*Name* PPS_CTRL
 
-*Offset:* 0x1B044
+*Offset* 0x1B044
 
-*Feature:* [1PPSTOD_1_PLUSE_PER_SECOND_TIME_OF_DAY_](../../feature/1PPSTOD_1_PLUSE_PER_SECOND_TIME_OF_DAY_)
+*Feature* [1PPSTOD_1_PLUSE_PER_SECOND_TIME_OF_DAY_](../../feature/1PPSTOD_1_PLUSE_PER_SECOND_TIME_OF_DAY_)
+
+## Description
 
 ## Fields
 

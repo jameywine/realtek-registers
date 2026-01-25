@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: CFG_PHY_INI
 
+## Details
 
-# CFG_PHY_INI Details
+*Name* CFG_PHY_INI
 
-*Offset:* 0x4C
+*Offset* 0x4C
 
-*Feature:* [INTERFACE](../../feature/INTERFACE)
+*Feature* [INTERFACE](../../feature/INTERFACE)
+
+## Description
 
 ## Fields
 

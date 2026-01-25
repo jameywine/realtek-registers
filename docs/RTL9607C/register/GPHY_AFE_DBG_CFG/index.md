@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: GPHY_AFE_DBG_CFG
 
+## Details
 
-# GPHY_AFE_DBG_CFG Details
+*Name* GPHY_AFE_DBG_CFG
 
-*Offset:* 0x298
+*Offset* 0x298
 
-*Feature:* [CHP_INFORMATION](../../feature/CHP_INFORMATION)
+*Feature* [CHP_INFORMATION](../../feature/CHP_INFORMATION)
+
+## Description
 
 ## Fields
 

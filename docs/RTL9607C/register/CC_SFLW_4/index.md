@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: CC_SFLW_4
 
+## Details
 
-# CC_SFLW_4 Details
+*Name* CC_SFLW_4
 
-*Offset:* 0x801320
+*Offset* 0x801320
 
-*Feature:* [CC_CTRL](../../feature/CC_CTRL)
+*Feature* [CC_CTRL](../../feature/CC_CTRL)
+
+## Description
 
 ## Fields
 

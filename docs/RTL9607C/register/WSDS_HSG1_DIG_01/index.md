@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: WSDS_HSG1_DIG_01
 
+## Details
 
-# WSDS_HSG1_DIG_01 Details
+*Name* WSDS_HSG1_DIG_01
 
-*Offset:* 0x42034
+*Offset* 0x42034
 
-*Feature:* [HIGH_SG_SERDES](../../feature/HIGH_SG_SERDES)
+*Feature* [HIGH_SG_SERDES](../../feature/HIGH_SG_SERDES)
+
+## Description
 
 ## Fields
 

@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: PON_DS_PBO_PAGE_Q2
 
+## Details
 
-# PON_DS_PBO_PAGE_Q2 Details
+*Name* PON_DS_PBO_PAGE_Q2
 
-*Offset:* 0xF0A114
+*Offset* 0xF0A114
 
-*Feature:* [INTERFACE](../../feature/INTERFACE)
+*Feature* [INTERFACE](../../feature/INTERFACE)
+
+## Description
 
 ## Fields
 

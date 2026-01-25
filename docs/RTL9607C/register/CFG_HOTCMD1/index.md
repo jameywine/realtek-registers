@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: CFG_HOTCMD1
 
+## Details
 
-# CFG_HOTCMD1 Details
+*Name* CFG_HOTCMD1
 
-*Offset:* 0x58
+*Offset* 0x58
 
-*Feature:* [INTERFACE](../../feature/INTERFACE)
+*Feature* [INTERFACE](../../feature/INTERFACE)
+
+## Description
 
 ## Fields
 

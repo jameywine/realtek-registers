@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: VLAN_CTRL
 
+## Details
 
-# VLAN_CTRL Details
+*Name* VLAN_CTRL
 
-*Offset:* 0x13008
+*Offset* 0x13008
 
-*Feature:* [_IEEE802_1Q_VLAN](../../feature/_IEEE802_1Q_VLAN)
+*Feature* [_IEEE802_1Q_VLAN](../../feature/_IEEE802_1Q_VLAN)
+
+## Description
 
 ## Fields
 

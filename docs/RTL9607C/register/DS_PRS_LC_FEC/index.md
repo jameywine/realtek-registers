@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: DS_PRS_LC_FEC
 
+## Details
 
-# DS_PRS_LC_FEC Details
+*Name* DS_PRS_LC_FEC
 
-*Offset:* 0x36140
+*Offset* 0x36140
 
-*Feature:* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+*Feature* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+
+## Description
 
 ## Fields
 

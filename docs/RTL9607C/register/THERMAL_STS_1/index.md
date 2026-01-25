@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: THERMAL_STS_1
 
+## Details
 
-# THERMAL_STS_1 Details
+*Name* THERMAL_STS_1
 
-*Offset:* 0x17C
+*Offset* 0x17C
 
-*Feature:* [HW_MISC_](../../feature/HW_MISC_)
+*Feature* [HW_MISC_](../../feature/HW_MISC_)
+
+## Description
 
 ## Fields
 

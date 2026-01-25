@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: QOS_UNI_TRAP_PRI_CTRL
 
+## Details
 
-# QOS_UNI_TRAP_PRI_CTRL Details
+*Name* QOS_UNI_TRAP_PRI_CTRL
 
-*Offset:* 0x1C2A8
+*Offset* 0x1C2A8
 
-*Feature:* [QUEUE_MANAGEMENT](../../feature/QUEUE_MANAGEMENT)
+*Feature* [QUEUE_MANAGEMENT](../../feature/QUEUE_MANAGEMENT)
+
+## Description
 
 ## Fields
 

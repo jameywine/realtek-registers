@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: GPON_GTC_DS_MISC_CNTR_PLOAM_ACPT
 
+## Details
 
-# GPON_GTC_DS_MISC_CNTR_PLOAM_ACPT Details
+*Name* GPON_GTC_DS_MISC_CNTR_PLOAM_ACPT
 
-*Offset:* 0x70119C
+*Offset* 0x70119C
 
-*Feature:* [GTC_DOWNSTREAM](../../feature/GTC_DOWNSTREAM)
+*Feature* [GTC_DOWNSTREAM](../../feature/GTC_DOWNSTREAM)
+
+## Description
 
 ## Fields
 

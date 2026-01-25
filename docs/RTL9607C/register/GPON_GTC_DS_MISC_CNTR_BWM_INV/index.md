@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: GPON_GTC_DS_MISC_CNTR_BWM_INV
 
+## Details
 
-# GPON_GTC_DS_MISC_CNTR_BWM_INV Details
+*Name* GPON_GTC_DS_MISC_CNTR_BWM_INV
 
-*Offset:* 0x7011A8
+*Offset* 0x7011A8
 
-*Feature:* [GTC_DOWNSTREAM](../../feature/GTC_DOWNSTREAM)
+*Feature* [GTC_DOWNSTREAM](../../feature/GTC_DOWNSTREAM)
+
+## Description
 
 ## Fields
 

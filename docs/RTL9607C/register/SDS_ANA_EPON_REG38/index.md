@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SDS_ANA_EPON_REG38
 
+## Details
 
-# SDS_ANA_EPON_REG38 Details
+*Name* SDS_ANA_EPON_REG38
 
-*Offset:* 0x40798
+*Offset* 0x40798
 
-*Feature:* [SDS_SPD_EPON](../../feature/SDS_SPD_EPON)
+*Feature* [SDS_SPD_EPON](../../feature/SDS_SPD_EPON)
+
+## Description
 
 ## Fields
 

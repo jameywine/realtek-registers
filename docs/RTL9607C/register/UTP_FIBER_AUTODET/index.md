@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: UTP_FIBER_AUTODET
 
+## Details
 
-# UTP_FIBER_AUTODET Details
+*Name* UTP_FIBER_AUTODET
 
-*Offset:* 0x2C0
+*Offset* 0x2C0
 
-*Feature:* [MAC_CONTROL](../../feature/MAC_CONTROL)
+*Feature* [MAC_CONTROL](../../feature/MAC_CONTROL)
 
 *Bit Offset:* 32
 
 *Port Range:* 0-2
+
+## Description
 
 ## Fields
 

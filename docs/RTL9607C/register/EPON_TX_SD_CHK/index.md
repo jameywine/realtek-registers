@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: EPON_TX_SD_CHK
 
+## Details
 
-# EPON_TX_SD_CHK Details
+*Name* EPON_TX_SD_CHK
 
-*Offset:* 0x361BC
+*Offset* 0x361BC
 
-*Feature:* [OTHER](../../feature/OTHER)
+*Feature* [OTHER](../../feature/OTHER)
+
+## Description
 
 ## Fields
 

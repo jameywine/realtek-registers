@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SW_PBO_DBG_SEL
 
+## Details
 
-# SW_PBO_DBG_SEL Details
+*Name* SW_PBO_DBG_SEL
 
-*Offset:* 0xF120F4
+*Offset* 0xF120F4
 
-*Feature:* [SWPBO](../../feature/SWPBO)
+*Feature* [SWPBO](../../feature/SWPBO)
+
+## Description
 
 ## Fields
 

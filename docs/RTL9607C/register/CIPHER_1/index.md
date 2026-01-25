@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: CIPHER_1
 
+## Details
 
-# CIPHER_1 Details
+*Name* CIPHER_1
 
-*Offset:* 0x703288
+*Offset* 0x703288
 
-*Feature:* [AES_DECRYPT](../../feature/AES_DECRYPT)
+*Feature* [AES_DECRYPT](../../feature/AES_DECRYPT)
+
+## Description
 
 ## Fields
 

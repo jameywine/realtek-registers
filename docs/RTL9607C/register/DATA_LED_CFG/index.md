@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: DATA_LED_CFG
 
+## Details
 
-# DATA_LED_CFG Details
+*Name* DATA_LED_CFG
 
-*Offset:* 0x1E004
+*Offset* 0x1E004
 
-*Feature:* [LED](../../feature/LED)
+*Feature* [LED](../../feature/LED)
 
 *Bit Offset:* 32
 
 *Array Range:* 0-17
+
+## Description
 
 ## Fields
 

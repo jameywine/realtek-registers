@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: PON_WFQ_WEIGHT
 
+## Details
 
-# PON_WFQ_WEIGHT Details
+*Name* PON_WFQ_WEIGHT
 
-*Offset:* 0xF0267C
+*Offset* 0xF0267C
 
-*Feature:* [PONIP_SCHEDULING_UPSTREAM](../../feature/PONIP_SCHEDULING_UPSTREAM)
+*Feature* [PONIP_SCHEDULING_UPSTREAM](../../feature/PONIP_SCHEDULING_UPSTREAM)
 
 *Bit Offset:* 10
 
 *Array Range:* 0-127
+
+## Description
 
 ## Fields
 

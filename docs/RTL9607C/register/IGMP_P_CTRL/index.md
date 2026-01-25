@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: IGMP_P_CTRL
 
+## Details
 
-# IGMP_P_CTRL Details
+*Name* IGMP_P_CTRL
 
-*Offset:* 0x11098
+*Offset* 0x11098
 
-*Feature:* [IGMP_SNOOPING](../../feature/IGMP_SNOOPING)
+*Feature* [IGMP_SNOOPING](../../feature/IGMP_SNOOPING)
 
 *Bit Offset:* 32
 
 *Port Range:* 0-10
+
+## Description
 
 ## Fields
 

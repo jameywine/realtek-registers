@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SWPBO_RXCDO1
 
+## Details
 
-# SWPBO_RXCDO1 Details
+*Name* SWPBO_RXCDO1
 
-*Offset:* 0xF153F4
+*Offset* 0xF153F4
 
-*Feature:* [SWPBO_NIC_CPU_IF](../../feature/SWPBO_NIC_CPU_IF)
+*Feature* [SWPBO_NIC_CPU_IF](../../feature/SWPBO_NIC_CPU_IF)
+
+## Description
 
 ## Fields
 

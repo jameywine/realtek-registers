@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SW_PBO_PORT_RUNOUT
 
+## Details
 
-# SW_PBO_PORT_RUNOUT Details
+*Name* SW_PBO_PORT_RUNOUT
 
-*Offset:* 0xF12090
+*Offset* 0xF12090
 
-*Feature:* [SWPBO](../../feature/SWPBO)
+*Feature* [SWPBO](../../feature/SWPBO)
 
 *Bit Offset:* 32
 
 *Port Range:* 0-4
+
+## Description
 
 ## Fields
 

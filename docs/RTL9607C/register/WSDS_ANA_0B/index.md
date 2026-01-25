@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: WSDS_ANA_0B
 
+## Details
 
-# WSDS_ANA_0B Details
+*Name* WSDS_ANA_0B
 
-*Offset:* 0x4002C
+*Offset* 0x4002C
 
-*Feature:* [PHY_SERDES](../../feature/PHY_SERDES)
+*Feature* [PHY_SERDES](../../feature/PHY_SERDES)
+
+## Description
 
 ## Fields
 

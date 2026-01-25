@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: GPON_GTC_DS_TOD_SUPERFRAME_CTRL
 
+## Details
 
-# GPON_GTC_DS_TOD_SUPERFRAME_CTRL Details
+*Name* GPON_GTC_DS_TOD_SUPERFRAME_CTRL
 
-*Offset:* 0x70104C
+*Offset* 0x70104C
 
-*Feature:* [GTC_DOWNSTREAM](../../feature/GTC_DOWNSTREAM)
+*Feature* [GTC_DOWNSTREAM](../../feature/GTC_DOWNSTREAM)
+
+## Description
 
 ## Fields
 

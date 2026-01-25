@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SDS_WDIG_REG06
 
+## Details
 
-# SDS_WDIG_REG06 Details
+*Name* SDS_WDIG_REG06
 
-*Offset:* 0x40498
+*Offset* 0x40498
 
-*Feature:* [SDS_WDIG](../../feature/SDS_WDIG)
+*Feature* [SDS_WDIG](../../feature/SDS_WDIG)
+
+## Description
 
 ## Fields
 

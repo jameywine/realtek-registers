@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SDS_ANA_SPD_REG37
 
+## Details
 
-# SDS_ANA_SPD_REG37 Details
+*Name* SDS_ANA_SPD_REG37
 
-*Offset:* 0x40614
+*Offset* 0x40614
 
-*Feature:* [SDS_SPD](../../feature/SDS_SPD)
+*Feature* [SDS_SPD](../../feature/SDS_SPD)
+
+## Description
 
 ## Fields
 

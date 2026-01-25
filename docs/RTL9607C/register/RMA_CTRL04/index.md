@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: RMA_CTRL04
 
+## Details
 
-# RMA_CTRL04 Details
+*Name* RMA_CTRL04
 
-*Offset:* 0x1C0D4
+*Offset* 0x1C0D4
 
-*Feature:* [RMA](../../feature/RMA)
+*Feature* [RMA](../../feature/RMA)
+
+## Description
 
 ## Fields
 

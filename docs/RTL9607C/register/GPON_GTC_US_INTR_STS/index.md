@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: GPON_GTC_US_INTR_STS
 
+## Details
 
-# GPON_GTC_US_INTR_STS Details
+*Name* GPON_GTC_US_INTR_STS
 
-*Offset:* 0x705008
+*Offset* 0x705008
 
-*Feature:* [GTC_UPSTREAM](../../feature/GTC_UPSTREAM)
+*Feature* [GTC_UPSTREAM](../../feature/GTC_UPSTREAM)
+
+## Description
 
 ## Fields
 

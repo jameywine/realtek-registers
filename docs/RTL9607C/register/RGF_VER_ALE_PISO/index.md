@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: RGF_VER_ALE_PISO
 
+## Details
 
-# RGF_VER_ALE_PISO Details
+*Name* RGF_VER_ALE_PISO
 
-*Offset:* 0x27074
+*Offset* 0x27074
 
-*Feature:* [TEMP_REGISTER](../../feature/TEMP_REGISTER)
+*Feature* [TEMP_REGISTER](../../feature/TEMP_REGISTER)
+
+## Description
 
 ## Fields
 

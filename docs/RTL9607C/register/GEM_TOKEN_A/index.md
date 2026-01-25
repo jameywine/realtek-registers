@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: GEM_TOKEN_A
 
+## Details
 
-# GEM_TOKEN_A Details
+*Name* GEM_TOKEN_A
 
-*Offset:* 0x70128C
+*Offset* 0x70128C
 
-*Feature:* [GTC_DOWNSTREAM](../../feature/GTC_DOWNSTREAM)
+*Feature* [GTC_DOWNSTREAM](../../feature/GTC_DOWNSTREAM)
+
+## Description
 
 ## Fields
 

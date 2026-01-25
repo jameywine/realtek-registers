@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: RNG_CHK_VID_RNG
 
+## Details
 
-# RNG_CHK_VID_RNG Details
+*Name* RNG_CHK_VID_RNG
 
-*Offset:* 0x15254
+*Offset* 0x15254
 
-*Feature:* [RANGE_CHECK_PORT_VLAN_IP_L4PORT_](../../feature/RANGE_CHECK_PORT_VLAN_IP_L4PORT_)
+*Feature* [RANGE_CHECK_PORT_VLAN_IP_L4PORT_](../../feature/RANGE_CHECK_PORT_VLAN_IP_L4PORT_)
 
 *Bit Offset:* 32
 
 *Array Range:* 0-15
+
+## Description
 
 ## Fields
 

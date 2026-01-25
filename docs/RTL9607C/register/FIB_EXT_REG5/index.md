@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: FIB_EXT_REG5
 
+## Details
 
-# FIB_EXT_REG5 Details
+*Name* FIB_EXT_REG5
 
-*Offset:* 0x40E14
+*Offset* 0x40E14
 
-*Feature:* [PHY_SERDES](../../feature/PHY_SERDES)
+*Feature* [PHY_SERDES](../../feature/PHY_SERDES)
+
+## Description
 
 ## Fields
 

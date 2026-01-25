@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: PHY_RG6X_PLL
 
+## Details
 
-# PHY_RG6X_PLL Details
+*Name* PHY_RG6X_PLL
 
-*Offset:* 0x1F058
+*Offset* 0x1F058
 
-*Feature:* [PHY_SERDES](../../feature/PHY_SERDES)
+*Feature* [PHY_SERDES](../../feature/PHY_SERDES)
+
+## Description
 
 ## Fields
 

@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: EEE_EEEP_PORT_CTRL
 
+## Details
 
-# EEE_EEEP_PORT_CTRL Details
+*Name* EEE_EEEP_PORT_CTRL
 
-*Offset:* 0x2000C
+*Offset* 0x2000C
 
-*Feature:* [POWER_SAVING](../../feature/POWER_SAVING)
+*Feature* [POWER_SAVING](../../feature/POWER_SAVING)
 
 *Bit Offset:* 32
 
 *Port Range:* 0-10
+
+## Description
 
 ## Fields
 

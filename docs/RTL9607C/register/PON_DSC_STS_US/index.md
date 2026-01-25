@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: PON_DSC_STS_US
 
+## Details
 
-# PON_DSC_STS_US Details
+*Name* PON_DSC_STS_US
 
-*Offset:* 0xF021A4
+*Offset* 0xF021A4
 
-*Feature:* [INTERFACE](../../feature/INTERFACE)
+*Feature* [INTERFACE](../../feature/INTERFACE)
+
+## Description
 
 ## Fields
 

@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: PIPE_SIG
 
+## Details
 
-# PIPE_SIG Details
+*Name* PIPE_SIG
 
-*Offset:* 0x80102C
+*Offset* 0x80102C
 
-*Feature:* [FB_CTRL](../../feature/FB_CTRL)
+*Feature* [FB_CTRL](../../feature/FB_CTRL)
+
+## Description
 
 ## Fields
 

@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SWPBO_PROBE_SELECT
 
+## Details
 
-# SWPBO_PROBE_SELECT Details
+*Name* SWPBO_PROBE_SELECT
 
-*Offset:* 0xF15400
+*Offset* 0xF15400
 
-*Feature:* [SWPBO_NIC_CPU_IF](../../feature/SWPBO_NIC_CPU_IF)
+*Feature* [SWPBO_NIC_CPU_IF](../../feature/SWPBO_NIC_CPU_IF)
+
+## Description
 
 ## Fields
 

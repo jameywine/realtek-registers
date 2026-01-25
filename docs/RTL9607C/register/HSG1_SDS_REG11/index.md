@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: HSG1_SDS_REG11
 
+## Details
 
-# HSG1_SDS_REG11 Details
+*Name* HSG1_SDS_REG11
 
-*Offset:* 0x4282C
+*Offset* 0x4282C
 
-*Feature:* [HIGH_SG_SERDES](../../feature/HIGH_SG_SERDES)
+*Feature* [HIGH_SG_SERDES](../../feature/HIGH_SG_SERDES)
+
+## Description
 
 ## Fields
 

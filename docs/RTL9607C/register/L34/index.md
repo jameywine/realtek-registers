@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: L34
 
+## Details
 
-# L34 Details
+*Name* L34
 
-*Offset:* 0x801008
+*Offset* 0x801008
 
-*Feature:* [FB_CTRL](../../feature/FB_CTRL)
+*Feature* [FB_CTRL](../../feature/FB_CTRL)
+
+## Description
 
 ## Fields
 

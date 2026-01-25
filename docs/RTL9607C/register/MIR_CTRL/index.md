@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: MIR_CTRL
 
+## Details
 
-# MIR_CTRL Details
+*Name* MIR_CTRL
 
-*Offset:* 0x1C21C
+*Offset* 0x1C21C
 
-*Feature:* [MIRRORING](../../feature/MIRRORING)
+*Feature* [MIRRORING](../../feature/MIRRORING)
+
+## Description
 
 ## Fields
 

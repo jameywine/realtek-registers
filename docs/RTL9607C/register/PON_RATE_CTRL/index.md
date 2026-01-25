@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: PON_RATE_CTRL
 
+## Details
 
-# PON_RATE_CTRL Details
+*Name* PON_RATE_CTRL
 
-*Offset:* 0x2D990
+*Offset* 0x2D990
 
-*Feature:* [OTHER](../../feature/OTHER)
+*Feature* [OTHER](../../feature/OTHER)
+
+## Description
 
 ## Fields
 

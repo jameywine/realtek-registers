@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: CFG_RGMII_CTRL_1
 
+## Details
 
-# CFG_RGMII_CTRL_1 Details
+*Name* CFG_RGMII_CTRL_1
 
-*Offset:* 0x2E8
+*Offset* 0x2E8
 
-*Feature:* [OTHER](../../feature/OTHER)
+*Feature* [OTHER](../../feature/OTHER)
+
+## Description
 
 ## Fields
 

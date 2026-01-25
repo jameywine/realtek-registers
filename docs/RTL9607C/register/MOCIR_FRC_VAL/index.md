@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: MOCIR_FRC_VAL
 
+## Details
 
-# MOCIR_FRC_VAL Details
+*Name* MOCIR_FRC_VAL
 
-*Offset:* 0xF021C0
+*Offset* 0xF021C0
 
-*Feature:* [PONIP_SCHEDULING_UPSTREAM](../../feature/PONIP_SCHEDULING_UPSTREAM)
+*Feature* [PONIP_SCHEDULING_UPSTREAM](../../feature/PONIP_SCHEDULING_UPSTREAM)
+
+## Description
 
 ## Fields
 

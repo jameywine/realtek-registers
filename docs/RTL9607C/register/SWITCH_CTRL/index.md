@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SWITCH_CTRL
 
+## Details
 
-# SWITCH_CTRL Details
+*Name* SWITCH_CTRL
 
-*Offset:* 0x23110
+*Offset* 0x23110
 
-*Feature:* [MAC_CONTROL](../../feature/MAC_CONTROL)
+*Feature* [MAC_CONTROL](../../feature/MAC_CONTROL)
+
+## Description
 
 ## Fields
 

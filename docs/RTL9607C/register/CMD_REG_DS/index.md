@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: CMD_REG_DS
 
+## Details
 
-# CMD_REG_DS Details
+*Name* CMD_REG_DS
 
-*Offset:* 0xF0C038
+*Offset* 0xF0C038
 
-*Feature:* [PONNIC_CTRL](../../feature/PONNIC_CTRL)
+*Feature* [PONNIC_CTRL](../../feature/PONNIC_CTRL)
+
+## Description
 
 ## Fields
 

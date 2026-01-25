@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: MODEL_NAME_INFO
 
+## Details
 
-# MODEL_NAME_INFO Details
+*Name* MODEL_NAME_INFO
 
-*Offset:* 0x10000
+*Offset* 0x10000
 
-*Feature:* [CHP_INFORMATION](../../feature/CHP_INFORMATION)
+*Feature* [CHP_INFORMATION](../../feature/CHP_INFORMATION)
+
+## Description
 
 ## Fields
 

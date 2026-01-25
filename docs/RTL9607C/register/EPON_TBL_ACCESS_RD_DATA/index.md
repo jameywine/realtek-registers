@@ -1,13 +1,23 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: EPON_TBL_ACCESS_RD_DATA
 
+## Details
 
-# EPON_TBL_ACCESS_RD_DATA Details
+*Name* EPON_TBL_ACCESS_RD_DATA
 
-*Offset:* 0x3610C
+*Offset* 0x3610C
 
-*Feature:* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+*Feature* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
 
 *Bit Offset:* 64
+
+## Description
 
 ## Fields
 

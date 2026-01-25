@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: EPON_LLID_SIDMAP_CTRL
 
+## Details
 
-# EPON_LLID_SIDMAP_CTRL Details
+*Name* EPON_LLID_SIDMAP_CTRL
 
-*Offset:* 0x1C2A4
+*Offset* 0x1C2A4
 
-*Feature:* [QUEUE_MANAGEMENT](../../feature/QUEUE_MANAGEMENT)
+*Feature* [QUEUE_MANAGEMENT](../../feature/QUEUE_MANAGEMENT)
 
 *Bit Offset:* 2
 
 *Array Range:* 0-7
+
+## Description
 
 ## Fields
 

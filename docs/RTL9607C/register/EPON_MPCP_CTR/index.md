@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: EPON_MPCP_CTR
 
+## Details
 
-# EPON_MPCP_CTR Details
+*Name* EPON_MPCP_CTR
 
-*Offset:* 0x3609C
+*Offset* 0x3609C
 
-*Feature:* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+*Feature* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+
+## Description
 
 ## Fields
 

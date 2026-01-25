@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: EXTG_ACTYPE6
 
+## Details
 
-# EXTG_ACTYPE6 Details
+*Name* EXTG_ACTYPE6
 
-*Offset:* 0x220A8
+*Offset* 0x220A8
 
-*Feature:* [MAC_CONTROL](../../feature/MAC_CONTROL)
+*Feature* [MAC_CONTROL](../../feature/MAC_CONTROL)
 
 *Bit Offset:* 32
 
 *Port Range:* 0-6
+
+## Description
 
 ## Fields
 

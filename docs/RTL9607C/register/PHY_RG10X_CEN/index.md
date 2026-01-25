@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: PHY_RG10X_CEN
 
+## Details
 
-# PHY_RG10X_CEN Details
+*Name* PHY_RG10X_CEN
 
-*Offset:* 0x1F028
+*Offset* 0x1F028
 
-*Feature:* [PHY_SERDES](../../feature/PHY_SERDES)
+*Feature* [PHY_SERDES](../../feature/PHY_SERDES)
+
+## Description
 
 ## Fields
 

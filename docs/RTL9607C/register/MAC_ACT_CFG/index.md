@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: MAC_ACT_CFG
 
+## Details
 
-# MAC_ACT_CFG Details
+*Name* MAC_ACT_CFG
 
-*Offset:* 0x27C
+*Offset* 0x27C
 
-*Feature:* [CHP_INFORMATION](../../feature/CHP_INFORMATION)
+*Feature* [CHP_INFORMATION](../../feature/CHP_INFORMATION)
+
+## Description
 
 ## Fields
 

@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SC_IND_CMD
 
+## Details
 
-# SC_IND_CMD Details
+*Name* SC_IND_CMD
 
-*Offset:* 0x28
+*Offset* 0x28
 
-*Feature:* [INTERFACE](../../feature/INTERFACE)
+*Feature* [INTERFACE](../../feature/INTERFACE)
+
+## Description
 
 ## Fields
 

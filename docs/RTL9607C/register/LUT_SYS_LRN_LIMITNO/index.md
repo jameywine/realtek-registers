@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: LUT_SYS_LRN_LIMITNO
 
+## Details
 
-# LUT_SYS_LRN_LIMITNO Details
+*Name* LUT_SYS_LRN_LIMITNO
 
-*Offset:* 0x17038
+*Offset* 0x17038
 
-*Feature:* [ADDRESS_TABLE_LOOKUP](../../feature/ADDRESS_TABLE_LOOKUP)
+*Feature* [ADDRESS_TABLE_LOOKUP](../../feature/ADDRESS_TABLE_LOOKUP)
+
+## Description
 
 ## Fields
 

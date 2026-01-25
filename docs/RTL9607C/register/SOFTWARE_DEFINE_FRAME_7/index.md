@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SOFTWARE_DEFINE_FRAME_7
 
+## Details
 
-# SOFTWARE_DEFINE_FRAME_7 Details
+*Name* SOFTWARE_DEFINE_FRAME_7
 
-*Offset:* 0x1B054
+*Offset* 0x1B054
 
-*Feature:* [1PPSTOD_1_PLUSE_PER_SECOND_TIME_OF_DAY_](../../feature/1PPSTOD_1_PLUSE_PER_SECOND_TIME_OF_DAY_)
+*Feature* [1PPSTOD_1_PLUSE_PER_SECOND_TIME_OF_DAY_](../../feature/1PPSTOD_1_PLUSE_PER_SECOND_TIME_OF_DAY_)
+
+## Description
 
 ## Fields
 

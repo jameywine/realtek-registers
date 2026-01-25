@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SCH_WFQ_OPT
 
+## Details
 
-# SCH_WFQ_OPT Details
+*Name* SCH_WFQ_OPT
 
-*Offset:* 0x2D974
+*Offset* 0x2D974
 
-*Feature:* [SCHEDULING](../../feature/SCHEDULING)
+*Feature* [SCHEDULING](../../feature/SCHEDULING)
+
+## Description
 
 ## Fields
 

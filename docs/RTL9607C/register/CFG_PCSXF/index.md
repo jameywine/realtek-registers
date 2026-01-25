@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: CFG_PCSXF
 
+## Details
 
-# CFG_PCSXF Details
+*Name* CFG_PCSXF
 
-*Offset:* 0x44
+*Offset* 0x44
 
-*Feature:* [INTERFACE](../../feature/INTERFACE)
+*Feature* [INTERFACE](../../feature/INTERFACE)
+
+## Description
 
 ## Fields
 

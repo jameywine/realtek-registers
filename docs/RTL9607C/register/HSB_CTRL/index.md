@@ -1,13 +1,23 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: HSB_CTRL
 
+## Details
 
-# HSB_CTRL Details
+*Name* HSB_CTRL
 
-*Offset:* 0x28000
+*Offset* 0x28000
 
-*Feature:* [PARSER_HSB](../../feature/PARSER_HSB)
+*Feature* [PARSER_HSB](../../feature/PARSER_HSB)
 
 *Bit Offset:* 64
+
+## Description
 
 ## Fields
 

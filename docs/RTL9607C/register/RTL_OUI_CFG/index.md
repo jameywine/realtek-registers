@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: RTL_OUI_CFG
 
+## Details
 
-# RTL_OUI_CFG Details
+*Name* RTL_OUI_CFG
 
-*Offset:* 0x22C
+*Offset* 0x22C
 
-*Feature:* [CHP_INFORMATION](../../feature/CHP_INFORMATION)
+*Feature* [CHP_INFORMATION](../../feature/CHP_INFORMATION)
+
+## Description
 
 ## Fields
 

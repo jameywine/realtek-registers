@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: PON_DSC_USAGE_DS
 
+## Details
 
-# PON_DSC_USAGE_DS Details
+*Name* PON_DSC_USAGE_DS
 
-*Offset:* 0xF0A0CC
+*Offset* 0xF0A0CC
 
-*Feature:* [INTERFACE](../../feature/INTERFACE)
+*Feature* [INTERFACE](../../feature/INTERFACE)
+
+## Description
 
 ## Fields
 

@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: ABLTY_FORCE_MODE
 
+## Details
 
-# ABLTY_FORCE_MODE Details
+*Name* ABLTY_FORCE_MODE
 
-*Offset:* 0x238
+*Offset* 0x238
 
-*Feature:* [CHP_INFORMATION](../../feature/CHP_INFORMATION)
+*Feature* [CHP_INFORMATION](../../feature/CHP_INFORMATION)
 
 *Bit Offset:* 32
 
 *Port Range:* 0-10
+
+## Description
 
 ## Fields
 

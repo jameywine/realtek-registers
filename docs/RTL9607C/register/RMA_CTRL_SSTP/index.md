@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: RMA_CTRL_SSTP
 
+## Details
 
-# RMA_CTRL_SSTP Details
+*Name* RMA_CTRL_SSTP
 
-*Offset:* 0x1C10C
+*Offset* 0x1C10C
 
-*Feature:* [RMA](../../feature/RMA)
+*Feature* [RMA](../../feature/RMA)
+
+## Description
 
 ## Fields
 

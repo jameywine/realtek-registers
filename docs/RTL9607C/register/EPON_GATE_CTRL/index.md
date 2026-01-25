@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: EPON_GATE_CTRL
 
+## Details
 
-# EPON_GATE_CTRL Details
+*Name* EPON_GATE_CTRL
 
-*Offset:* 0x2D978
+*Offset* 0x2D978
 
-*Feature:* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+*Feature* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+
+## Description
 
 ## Fields
 

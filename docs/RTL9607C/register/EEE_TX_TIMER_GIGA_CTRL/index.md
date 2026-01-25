@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: EEE_TX_TIMER_GIGA_CTRL
 
+## Details
 
-# EEE_TX_TIMER_GIGA_CTRL Details
+*Name* EEE_TX_TIMER_GIGA_CTRL
 
-*Offset:* 0x23144
+*Offset* 0x23144
 
-*Feature:* [POWER_SAVING](../../feature/POWER_SAVING)
+*Feature* [POWER_SAVING](../../feature/POWER_SAVING)
+
+## Description
 
 ## Fields
 

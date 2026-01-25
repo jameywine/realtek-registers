@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: DOS_FINFLOOD_TH
 
+## Details
 
-# DOS_FINFLOOD_TH Details
+*Name* DOS_FINFLOOD_TH
 
-*Offset:* 0x2600C
+*Offset* 0x2600C
 
-*Feature:* [DENIAL_OF_SERVICE_ATTACK_PREVENTION](../../feature/DENIAL_OF_SERVICE_ATTACK_PREVENTION)
+*Feature* [DENIAL_OF_SERVICE_ATTACK_PREVENTION](../../feature/DENIAL_OF_SERVICE_ATTACK_PREVENTION)
+
+## Description
 
 ## Fields
 

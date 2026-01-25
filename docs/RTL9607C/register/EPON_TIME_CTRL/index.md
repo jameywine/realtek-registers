@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: EPON_TIME_CTRL
 
+## Details
 
-# EPON_TIME_CTRL Details
+*Name* EPON_TIME_CTRL
 
-*Offset:* 0x36034
+*Offset* 0x36034
 
-*Feature:* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+*Feature* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+
+## Description
 
 ## Fields
 

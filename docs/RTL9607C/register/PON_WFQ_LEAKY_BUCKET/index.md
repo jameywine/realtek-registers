@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: PON_WFQ_LEAKY_BUCKET
 
+## Details
 
-# PON_WFQ_LEAKY_BUCKET Details
+*Name* PON_WFQ_LEAKY_BUCKET
 
-*Offset:* 0xF02678
+*Offset* 0xF02678
 
-*Feature:* [PONIP_SCHEDULING_UPSTREAM](../../feature/PONIP_SCHEDULING_UPSTREAM)
+*Feature* [PONIP_SCHEDULING_UPSTREAM](../../feature/PONIP_SCHEDULING_UPSTREAM)
+
+## Description
 
 ## Fields
 

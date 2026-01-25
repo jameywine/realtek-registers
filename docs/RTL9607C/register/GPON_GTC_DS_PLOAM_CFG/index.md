@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: GPON_GTC_DS_PLOAM_CFG
 
+## Details
 
-# GPON_GTC_DS_PLOAM_CFG Details
+*Name* GPON_GTC_DS_PLOAM_CFG
 
-*Offset:* 0x70101C
+*Offset* 0x70101C
 
-*Feature:* [GTC_DOWNSTREAM](../../feature/GTC_DOWNSTREAM)
+*Feature* [GTC_DOWNSTREAM](../../feature/GTC_DOWNSTREAM)
+
+## Description
 
 ## Fields
 

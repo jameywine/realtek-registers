@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: IO_LED_EN
 
+## Details
 
-# IO_LED_EN Details
+*Name* IO_LED_EN
 
-*Offset:* 0x23010
+*Offset* 0x23010
 
-*Feature:* [INTERFACE](../../feature/INTERFACE)
+*Feature* [INTERFACE](../../feature/INTERFACE)
+
+## Description
 
 ## Fields
 

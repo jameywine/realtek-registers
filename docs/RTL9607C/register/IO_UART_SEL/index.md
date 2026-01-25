@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: IO_UART_SEL
 
+## Details
 
-# IO_UART_SEL Details
+*Name* IO_UART_SEL
 
-*Offset:* 0x34
+*Offset* 0x34
 
-*Feature:* [INTERFACE](../../feature/INTERFACE)
+*Feature* [INTERFACE](../../feature/INTERFACE)
+
+## Description
 
 ## Fields
 

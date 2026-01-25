@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: LUT_LEARN_OVER_CTRL
 
+## Details
 
-# LUT_LEARN_OVER_CTRL Details
+*Name* LUT_LEARN_OVER_CTRL
 
-*Offset:* 0x1C010
+*Offset* 0x1C010
 
-*Feature:* [ADDRESS_TABLE_LOOKUP](../../feature/ADDRESS_TABLE_LOOKUP)
+*Feature* [ADDRESS_TABLE_LOOKUP](../../feature/ADDRESS_TABLE_LOOKUP)
 
 *Bit Offset:* 2
 
 *Port Range:* 0-10
+
+## Description
 
 ## Fields
 

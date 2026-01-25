@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: DDRSWR_STS_0
 
+## Details
 
-# DDRSWR_STS_0 Details
+*Name* DDRSWR_STS_0
 
-*Offset:* 0x194
+*Offset* 0x194
 
-*Feature:* [HW_MISC_](../../feature/HW_MISC_)
+*Feature* [HW_MISC_](../../feature/HW_MISC_)
+
+## Description
 
 ## Fields
 

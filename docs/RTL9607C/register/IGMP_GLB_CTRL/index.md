@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: IGMP_GLB_CTRL
 
+## Details
 
-# IGMP_GLB_CTRL Details
+*Name* IGMP_GLB_CTRL
 
-*Offset:* 0x11094
+*Offset* 0x11094
 
-*Feature:* [IGMP_SNOOPING](../../feature/IGMP_SNOOPING)
+*Feature* [IGMP_SNOOPING](../../feature/IGMP_SNOOPING)
+
+## Description
 
 ## Fields
 

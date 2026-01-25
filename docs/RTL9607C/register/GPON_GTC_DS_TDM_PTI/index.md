@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: GPON_GTC_DS_TDM_PTI
 
+## Details
 
-# GPON_GTC_DS_TDM_PTI Details
+*Name* GPON_GTC_DS_TDM_PTI
 
-*Offset:* 0x701200
+*Offset* 0x701200
 
-*Feature:* [GTC_DOWNSTREAM](../../feature/GTC_DOWNSTREAM)
+*Feature* [GTC_DOWNSTREAM](../../feature/GTC_DOWNSTREAM)
+
+## Description
 
 ## Fields
 

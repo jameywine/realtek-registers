@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: CHIP_DEBUG_OUT
 
+## Details
 
-# CHIP_DEBUG_OUT Details
+*Name* CHIP_DEBUG_OUT
 
-*Offset:* 0xA4
+*Offset* 0xA4
 
-*Feature:* [INTERFACE](../../feature/INTERFACE)
+*Feature* [INTERFACE](../../feature/INTERFACE)
+
+## Description
 
 ## Fields
 

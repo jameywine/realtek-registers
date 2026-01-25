@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: PON_OMCI_CFG
 
+## Details
 
-# PON_OMCI_CFG Details
+*Name* PON_OMCI_CFG
 
-*Offset:* 0xF021A0
+*Offset* 0xF021A0
 
-*Feature:* [INTERFACE](../../feature/INTERFACE)
+*Feature* [INTERFACE](../../feature/INTERFACE)
+
+## Description
 
 ## Fields
 

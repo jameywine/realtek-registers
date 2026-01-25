@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: BWMAP_BUF
 
+## Details
 
-# BWMAP_BUF Details
+*Name* BWMAP_BUF
 
-*Offset:* 0x701298
+*Offset* 0x701298
 
-*Feature:* [GTC_DOWNSTREAM](../../feature/GTC_DOWNSTREAM)
+*Feature* [GTC_DOWNSTREAM](../../feature/GTC_DOWNSTREAM)
+
+## Description
 
 ## Fields
 

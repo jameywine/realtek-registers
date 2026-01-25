@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SERI_LED_CLK_PER
 
+## Details
 
-# SERI_LED_CLK_PER Details
+*Name* SERI_LED_CLK_PER
 
-*Offset:* 0x1E06C
+*Offset* 0x1E06C
 
-*Feature:* [LED](../../feature/LED)
+*Feature* [LED](../../feature/LED)
+
+## Description
 
 ## Fields
 

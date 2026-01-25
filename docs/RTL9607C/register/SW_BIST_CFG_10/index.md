@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SW_BIST_CFG_10
 
+## Details
 
-# SW_BIST_CFG_10 Details
+*Name* SW_BIST_CFG_10
 
-*Offset:* 0x31024
+*Offset* 0x31024
 
-*Feature:* [BIST_BISR](../../feature/BIST_BISR)
+*Feature* [BIST_BISR](../../feature/BIST_BISR)
+
+## Description
 
 ## Fields
 

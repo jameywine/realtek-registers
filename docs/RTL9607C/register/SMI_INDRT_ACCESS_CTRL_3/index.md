@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SMI_INDRT_ACCESS_CTRL_3
 
+## Details
 
-# SMI_INDRT_ACCESS_CTRL_3 Details
+*Name* SMI_INDRT_ACCESS_CTRL_3
 
-*Offset:* 0x230C4
+*Offset* 0x230C4
 
-*Feature:* [INTERFACE](../../feature/INTERFACE)
+*Feature* [INTERFACE](../../feature/INTERFACE)
+
+## Description
 
 ## Fields
 

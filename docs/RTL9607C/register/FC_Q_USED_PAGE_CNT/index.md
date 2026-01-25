@@ -1,17 +1,27 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: FC_Q_USED_PAGE_CNT
 
+## Details
 
-# FC_Q_USED_PAGE_CNT Details
+*Name* FC_Q_USED_PAGE_CNT
 
-*Offset:* 0x2D06C
+*Offset* 0x2D06C
 
-*Feature:* [FLOWCONTROL_BACKPRESSURE_THRESHOLD](../../feature/FLOWCONTROL_BACKPRESSURE_THRESHOLD)
+*Feature* [FLOWCONTROL_BACKPRESSURE_THRESHOLD](../../feature/FLOWCONTROL_BACKPRESSURE_THRESHOLD)
 
 *Bit Offset:* 32
 
 *Array Range:* 0-7
 
 *Port Range:* 0-10
+
+## Description
 
 ## Fields
 

@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: HSG0_SDS_REG13
 
+## Details
 
-# HSG0_SDS_REG13 Details
+*Name* HSG0_SDS_REG13
 
-*Offset:* 0x41834
+*Offset* 0x41834
 
-*Feature:* [HIGH_SG_SERDES](../../feature/HIGH_SG_SERDES)
+*Feature* [HIGH_SG_SERDES](../../feature/HIGH_SG_SERDES)
+
+## Description
 
 ## Fields
 

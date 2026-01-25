@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: EFUSE_IND_WD
 
+## Details
 
-# EFUSE_IND_WD Details
+*Name* EFUSE_IND_WD
 
-*Offset:* 0x18
+*Offset* 0x18
 
-*Feature:* [INTERFACE](../../feature/INTERFACE)
+*Feature* [INTERFACE](../../feature/INTERFACE)
+
+## Description
 
 ## Fields
 

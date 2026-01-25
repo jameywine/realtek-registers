@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SFP_REG_CTRL2
 
+## Details
 
-# SFP_REG_CTRL2 Details
+*Name* SFP_REG_CTRL2
 
-*Offset:* 0xDC
+*Offset* 0xDC
 
-*Feature:* [INTERFACE](../../feature/INTERFACE)
+*Feature* [INTERFACE](../../feature/INTERFACE)
+
+## Description
 
 ## Fields
 

@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SDS_ANA_SPD_REG48
 
+## Details
 
-# SDS_ANA_SPD_REG48 Details
+*Name* SDS_ANA_SPD_REG48
 
-*Offset:* 0x40640
+*Offset* 0x40640
 
-*Feature:* [SDS_SPD](../../feature/SDS_SPD)
+*Feature* [SDS_SPD](../../feature/SDS_SPD)
+
+## Description
 
 ## Fields
 

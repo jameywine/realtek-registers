@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: FC_SWPBO_GLB_HI_TH
 
+## Details
 
-# FC_SWPBO_GLB_HI_TH Details
+*Name* FC_SWPBO_GLB_HI_TH
 
-*Offset:* 0x23260
+*Offset* 0x23260
 
-*Feature:* [OTHER](../../feature/OTHER)
+*Feature* [OTHER](../../feature/OTHER)
+
+## Description
 
 ## Fields
 

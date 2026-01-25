@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: CF_CFG
 
+## Details
 
-# CF_CFG Details
+*Name* CF_CFG
 
-*Offset:* 0x16004
+*Offset* 0x16004
 
-*Feature:* [FLOW_CLASSIFICATION_FLOW_TABLE_](../../feature/FLOW_CLASSIFICATION_FLOW_TABLE_)
+*Feature* [FLOW_CLASSIFICATION_FLOW_TABLE_](../../feature/FLOW_CLASSIFICATION_FLOW_TABLE_)
+
+## Description
 
 ## Fields
 

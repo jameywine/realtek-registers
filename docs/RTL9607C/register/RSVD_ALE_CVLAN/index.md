@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: RSVD_ALE_CVLAN
 
+## Details
 
-# RSVD_ALE_CVLAN Details
+*Name* RSVD_ALE_CVLAN
 
-*Offset:* 0x1321C
+*Offset* 0x1321C
 
-*Feature:* [TEMP_REGISTER](../../feature/TEMP_REGISTER)
+*Feature* [TEMP_REGISTER](../../feature/TEMP_REGISTER)
 
 *Bit Offset:* 32
 
 *Array Range:* 0-3
+
+## Description
 
 ## Fields
 

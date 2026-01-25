@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: PONIP_SID_USED_PAGE_CNT_DS
 
+## Details
 
-# PONIP_SID_USED_PAGE_CNT_DS Details
+*Name* PONIP_SID_USED_PAGE_CNT_DS
 
-*Offset:* 0xF0A120
+*Offset* 0xF0A120
 
-*Feature:* [PONIP_SCHEDULING_DOWNSTREAM](../../feature/PONIP_SCHEDULING_DOWNSTREAM)
+*Feature* [PONIP_SCHEDULING_DOWNSTREAM](../../feature/PONIP_SCHEDULING_DOWNSTREAM)
+
+## Description
 
 ## Fields
 

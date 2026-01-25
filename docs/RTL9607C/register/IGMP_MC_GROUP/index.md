@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: IGMP_MC_GROUP
 
+## Details
 
-# IGMP_MC_GROUP Details
+*Name* IGMP_MC_GROUP
 
-*Offset:* 0x1C2F0
+*Offset* 0x1C2F0
 
-*Feature:* [IGMP_SNOOPING](../../feature/IGMP_SNOOPING)
+*Feature* [IGMP_SNOOPING](../../feature/IGMP_SNOOPING)
 
 *Bit Offset:* 64
 
 *Array Range:* 0-63
+
+## Description
 
 ## Fields
 

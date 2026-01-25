@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: CLR_INVLD_LID_GN
 
+## Details
 
-# CLR_INVLD_LID_GN Details
+*Name* CLR_INVLD_LID_GN
 
-*Offset:* 0x3613C
+*Offset* 0x3613C
 
-*Feature:* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+*Feature* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+
+## Description
 
 ## Fields
 

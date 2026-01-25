@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: GPON_GEM_US_INTR_DLT
 
+## Details
 
-# GPON_GEM_US_INTR_DLT Details
+*Name* GPON_GEM_US_INTR_DLT
 
-*Offset:* 0x706000
+*Offset* 0x706000
 
-*Feature:* [GEM_UPSTREAM](../../feature/GEM_UPSTREAM)
+*Feature* [GEM_UPSTREAM](../../feature/GEM_UPSTREAM)
+
+## Description
 
 ## Fields
 

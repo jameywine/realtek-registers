@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SDS_EXT_REG5
 
+## Details
 
-# SDS_EXT_REG5 Details
+*Name* SDS_EXT_REG5
 
-*Offset:* 0x40A14
+*Offset* 0x40A14
 
-*Feature:* [PHY_SERDES](../../feature/PHY_SERDES)
+*Feature* [PHY_SERDES](../../feature/PHY_SERDES)
+
+## Description
 
 ## Fields
 

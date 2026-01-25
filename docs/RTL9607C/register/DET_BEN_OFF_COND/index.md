@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: DET_BEN_OFF_COND
 
+## Details
 
-# DET_BEN_OFF_COND Details
+*Name* DET_BEN_OFF_COND
 
-*Offset:* 0x36128
+*Offset* 0x36128
 
-*Feature:* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+*Feature* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+
+## Description
 
 ## Fields
 

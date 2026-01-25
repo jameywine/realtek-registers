@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: PRG_EPON_GN0
 
+## Details
 
-# PRG_EPON_GN0 Details
+*Name* PRG_EPON_GN0
 
-*Offset:* 0x3612C
+*Offset* 0x3612C
 
-*Feature:* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+*Feature* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+
+## Description
 
 ## Fields
 

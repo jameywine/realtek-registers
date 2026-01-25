@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SW_PBO_TOTAL_PAGE_CNT
 
+## Details
 
-# SW_PBO_TOTAL_PAGE_CNT Details
+*Name* SW_PBO_TOTAL_PAGE_CNT
 
-*Offset:* 0xF120E8
+*Offset* 0xF120E8
 
-*Feature:* [SWPBO](../../feature/SWPBO)
+*Feature* [SWPBO](../../feature/SWPBO)
+
+## Description
 
 ## Fields
 

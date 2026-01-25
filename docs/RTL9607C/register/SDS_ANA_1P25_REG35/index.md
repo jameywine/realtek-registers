@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SDS_ANA_1P25_REG35
 
+## Details
 
-# SDS_ANA_1P25_REG35 Details
+*Name* SDS_ANA_1P25_REG35
 
-*Offset:* 0x4068C
+*Offset* 0x4068C
 
-*Feature:* [SDS_SPD_1P25G](../../feature/SDS_SPD_1P25G)
+*Feature* [SDS_SPD_1P25G](../../feature/SDS_SPD_1P25G)
+
+## Description
 
 ## Fields
 

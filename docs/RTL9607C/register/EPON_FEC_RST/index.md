@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: EPON_FEC_RST
 
+## Details
 
-# EPON_FEC_RST Details
+*Name* EPON_FEC_RST
 
-*Offset:* 0x36124
+*Offset* 0x36124
 
-*Feature:* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+*Feature* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+
+## Description
 
 ## Fields
 

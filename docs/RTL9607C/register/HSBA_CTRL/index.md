@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: HSBA_CTRL
 
+## Details
 
-# HSBA_CTRL Details
+*Name* HSBA_CTRL
 
-*Offset:* 0x801200
+*Offset* 0x801200
 
-*Feature:* [FB_HSBA](../../feature/FB_HSBA)
+*Feature* [FB_HSBA](../../feature/FB_HSBA)
+
+## Description
 
 ## Fields
 

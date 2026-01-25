@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: CRASH_CONFIG_1
 
+## Details
 
-# CRASH_CONFIG_1 Details
+*Name* CRASH_CONFIG_1
 
-*Offset:* 0x1B0
+*Offset* 0x1B0
 
-*Feature:* [HW_MISC_](../../feature/HW_MISC_)
+*Feature* [HW_MISC_](../../feature/HW_MISC_)
+
+## Description
 
 ## Fields
 

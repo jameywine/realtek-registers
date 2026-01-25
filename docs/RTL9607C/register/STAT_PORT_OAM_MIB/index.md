@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: STAT_PORT_OAM_MIB
 
+## Details
 
-# STAT_PORT_OAM_MIB Details
+*Name* STAT_PORT_OAM_MIB
 
-*Offset:* 0x32C00
+*Offset* 0x32C00
 
-*Feature:* [STATISTIC_COUNTERS](../../feature/STATISTIC_COUNTERS)
+*Feature* [STATISTIC_COUNTERS](../../feature/STATISTIC_COUNTERS)
 
 *Bit Offset:* 64
 
 *Port Range:* 0-11
+
+## Description
 
 ## Fields
 

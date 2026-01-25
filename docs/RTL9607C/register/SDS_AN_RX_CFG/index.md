@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SDS_AN_RX_CFG
 
+## Details
 
-# SDS_AN_RX_CFG Details
+*Name* SDS_AN_RX_CFG
 
-*Offset:* 0x288
+*Offset* 0x288
 
-*Feature:* [CHP_INFORMATION](../../feature/CHP_INFORMATION)
+*Feature* [CHP_INFORMATION](../../feature/CHP_INFORMATION)
+
+## Description
 
 ## Fields
 

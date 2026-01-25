@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: CFG_POLL_MDX_CTRL
 
+## Details
 
-# CFG_POLL_MDX_CTRL Details
+*Name* CFG_POLL_MDX_CTRL
 
-*Offset:* 0x23028
+*Offset* 0x23028
 
-*Feature:* [INTERFACE](../../feature/INTERFACE)
+*Feature* [INTERFACE](../../feature/INTERFACE)
+
+## Description
 
 ## Fields
 

@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SC_P_CTRL_1
 
+## Details
 
-# SC_P_CTRL_1 Details
+*Name* SC_P_CTRL_1
 
-*Offset:* 0x1D02C
+*Offset* 0x1D02C
 
-*Feature:* [CONGESTION_AVOIDANCE](../../feature/CONGESTION_AVOIDANCE)
+*Feature* [CONGESTION_AVOIDANCE](../../feature/CONGESTION_AVOIDANCE)
+
+## Description
 
 ## Fields
 

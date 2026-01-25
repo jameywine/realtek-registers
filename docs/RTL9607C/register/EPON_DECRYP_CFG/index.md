@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: EPON_DECRYP_CFG
 
+## Details
 
-# EPON_DECRYP_CFG Details
+*Name* EPON_DECRYP_CFG
 
-*Offset:* 0x360A4
+*Offset* 0x360A4
 
-*Feature:* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+*Feature* [EPON_CONFIGURATION](../../feature/EPON_CONFIGURATION)
+
+## Description
 
 ## Fields
 

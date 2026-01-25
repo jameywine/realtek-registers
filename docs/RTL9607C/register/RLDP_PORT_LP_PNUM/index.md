@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: RLDP_PORT_LP_PNUM
 
+## Details
 
-# RLDP_PORT_LP_PNUM Details
+*Name* RLDP_PORT_LP_PNUM
 
-*Offset:* 0x1A02C
+*Offset* 0x1A02C
 
-*Feature:* [RLDP](../../feature/RLDP)
+*Feature* [RLDP](../../feature/RLDP)
 
 *Bit Offset:* 4
 
 *Port Range:* 0-4
+
+## Description
 
 ## Fields
 

@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: DOS_SYNFLOOD_TH
 
+## Details
 
-# DOS_SYNFLOOD_TH Details
+*Name* DOS_SYNFLOOD_TH
 
-*Offset:* 0x26008
+*Offset* 0x26008
 
-*Feature:* [DENIAL_OF_SERVICE_ATTACK_PREVENTION](../../feature/DENIAL_OF_SERVICE_ATTACK_PREVENTION)
+*Feature* [DENIAL_OF_SERVICE_ATTACK_PREVENTION](../../feature/DENIAL_OF_SERVICE_ATTACK_PREVENTION)
+
+## Description
 
 ## Fields
 

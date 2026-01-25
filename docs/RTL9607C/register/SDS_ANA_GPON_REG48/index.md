@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SDS_ANA_GPON_REG48
 
+## Details
 
-# SDS_ANA_GPON_REG48 Details
+*Name* SDS_ANA_GPON_REG48
 
-*Offset:* 0x40740
+*Offset* 0x40740
 
-*Feature:* [SDS_SPD_GPON](../../feature/SDS_SPD_GPON)
+*Feature* [SDS_SPD_GPON](../../feature/SDS_SPD_GPON)
+
+## Description
 
 ## Fields
 

@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SVLAN_SP2C
 
+## Details
 
-# SVLAN_SP2C Details
+*Name* SVLAN_SP2C
 
-*Offset:* 0x2A034
+*Offset* 0x2A034
 
-*Feature:* [_IEEE802_1AD_PROVIDER_BRIDGES_Q_IN_Q](../../feature/_IEEE802_1AD_PROVIDER_BRIDGES_Q_IN_Q)
+*Feature* [_IEEE802_1AD_PROVIDER_BRIDGES_Q_IN_Q](../../feature/_IEEE802_1AD_PROVIDER_BRIDGES_Q_IN_Q)
 
 *Bit Offset:* 32
 
 *Array Range:* 0-63
+
+## Description
 
 ## Fields
 

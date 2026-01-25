@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: INBW_LBOUND
 
+## Details
 
-# INBW_LBOUND Details
+*Name* INBW_LBOUND
 
-*Offset:* 0x2311C
+*Offset* 0x2311C
 
-*Feature:* [MAC_CONTROL](../../feature/MAC_CONTROL)
+*Feature* [MAC_CONTROL](../../feature/MAC_CONTROL)
+
+## Description
 
 ## Fields
 

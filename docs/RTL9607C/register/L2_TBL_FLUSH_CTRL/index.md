@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: L2_TBL_FLUSH_CTRL
 
+## Details
 
-# L2_TBL_FLUSH_CTRL Details
+*Name* L2_TBL_FLUSH_CTRL
 
-*Offset:* 0x17044
+*Offset* 0x17044
 
-*Feature:* [ADDRESS_LEARNING_FLUSH](../../feature/ADDRESS_LEARNING_FLUSH)
+*Feature* [ADDRESS_LEARNING_FLUSH](../../feature/ADDRESS_LEARNING_FLUSH)
+
+## Description
 
 ## Fields
 

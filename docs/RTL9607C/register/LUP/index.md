@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: LUP
 
+## Details
 
-# LUP Details
+*Name* LUP
 
-*Offset:* 0x80100C
+*Offset* 0x80100C
 
-*Feature:* [FB_CTRL](../../feature/FB_CTRL)
+*Feature* [FB_CTRL](../../feature/FB_CTRL)
+
+## Description
 
 ## Fields
 

@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SERI_LED_ACTIVE_LOW_CFG
 
+## Details
 
-# SERI_LED_ACTIVE_LOW_CFG Details
+*Name* SERI_LED_ACTIVE_LOW_CFG
 
-*Offset:* 0x1E050
+*Offset* 0x1E050
 
-*Feature:* [LED](../../feature/LED)
+*Feature* [LED](../../feature/LED)
+
+## Description
 
 ## Fields
 

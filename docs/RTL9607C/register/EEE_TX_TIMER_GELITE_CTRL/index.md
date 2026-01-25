@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: EEE_TX_TIMER_GELITE_CTRL
 
+## Details
 
-# EEE_TX_TIMER_GELITE_CTRL Details
+*Name* EEE_TX_TIMER_GELITE_CTRL
 
-*Offset:* 0x23140
+*Offset* 0x23140
 
-*Feature:* [POWER_SAVING](../../feature/POWER_SAVING)
+*Feature* [POWER_SAVING](../../feature/POWER_SAVING)
+
+## Description
 
 ## Fields
 

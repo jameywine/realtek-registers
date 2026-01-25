@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: WFQ_CTRL
 
+## Details
 
-# WFQ_CTRL Details
+*Name* WFQ_CTRL
 
-*Offset:* 0x2D800
+*Offset* 0x2D800
 
-*Feature:* [SCHEDULING](../../feature/SCHEDULING)
+*Feature* [SCHEDULING](../../feature/SCHEDULING)
+
+## Description
 
 ## Fields
 

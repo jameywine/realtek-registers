@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: GPON_GTC_US_RDI
 
+## Details
 
-# GPON_GTC_US_RDI Details
+*Name* GPON_GTC_US_RDI
 
-*Offset:* 0x705180
+*Offset* 0x705180
 
-*Feature:* [GTC_UPSTREAM](../../feature/GTC_UPSTREAM)
+*Feature* [GTC_UPSTREAM](../../feature/GTC_UPSTREAM)
+
+## Description
 
 ## Fields
 

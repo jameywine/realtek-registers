@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: FC_SWPBO_Q_USED_PAGE_CNT
 
+## Details
 
-# FC_SWPBO_Q_USED_PAGE_CNT Details
+*Name* FC_SWPBO_Q_USED_PAGE_CNT
 
-*Offset:* 0x2D1F4
+*Offset* 0x2D1F4
 
-*Feature:* [OTHER](../../feature/OTHER)
+*Feature* [OTHER](../../feature/OTHER)
+
+## Description
 
 ## Fields
 

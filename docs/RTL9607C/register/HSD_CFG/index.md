@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: HSD_CFG
 
+## Details
 
-# HSD_CFG Details
+*Name* HSD_CFG
 
-*Offset:* 0x2A18C
+*Offset* 0x2A18C
 
-*Feature:* [MODIFIER_HSA](../../feature/MODIFIER_HSA)
+*Feature* [MODIFIER_HSA](../../feature/MODIFIER_HSA)
+
+## Description
 
 ## Fields
 

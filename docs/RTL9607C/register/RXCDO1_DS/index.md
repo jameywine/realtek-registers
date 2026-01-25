@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: RXCDO1_DS
 
+## Details
 
-# RXCDO1_DS Details
+*Name* RXCDO1_DS
 
-*Offset:* 0xF0D3F4
+*Offset* 0xF0D3F4
 
-*Feature:* [CPU_IF](../../feature/CPU_IF)
+*Feature* [CPU_IF](../../feature/CPU_IF)
+
+## Description
 
 ## Fields
 

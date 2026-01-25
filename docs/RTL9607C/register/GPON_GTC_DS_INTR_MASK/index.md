@@ -1,11 +1,21 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: GPON_GTC_DS_INTR_MASK
 
+## Details
 
-# GPON_GTC_DS_INTR_MASK Details
+*Name* GPON_GTC_DS_INTR_MASK
 
-*Offset:* 0x701004
+*Offset* 0x701004
 
-*Feature:* [GTC_DOWNSTREAM](../../feature/GTC_DOWNSTREAM)
+*Feature* [GTC_DOWNSTREAM](../../feature/GTC_DOWNSTREAM)
+
+## Description
 
 ## Fields
 

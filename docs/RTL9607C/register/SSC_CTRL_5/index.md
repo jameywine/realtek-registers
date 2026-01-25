@@ -1,15 +1,25 @@
+---
+tags:
+  - RTL9607C
+  - Register
+  - Register Fields
+---
 
+# RTL9607C register: SSC_CTRL_5
 
+## Details
 
-# SSC_CTRL_5 Details
+*Name* SSC_CTRL_5
 
-*Offset:* 0x140
+*Offset* 0x140
 
-*Feature:* [HW_MISC_](../../feature/HW_MISC_)
+*Feature* [HW_MISC_](../../feature/HW_MISC_)
 
 *Bit Offset:* 32
 
 *Port Range:* 0-1
+
+## Description
 
 ## Fields
 
