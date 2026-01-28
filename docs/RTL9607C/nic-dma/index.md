@@ -1,3 +1,11 @@
+---
+tags:
+  - RTL9607C
+  - CPU NIC
+  - Register
+  - Register Fields
+  - SoC Register Space
+---
 
 # RTL9607C NIC Registers
 
