@@ -22,5 +22,5 @@ tags:
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:16|CMD2_WDAT||
-|15:0|CMD3_WDAT||
+|31:16|CMD2_WDAT|write data for periodic cmd2|
+|15:0|CMD3_WDAT|write data for periodic cmd3|

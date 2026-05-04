@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+eFuse indirect write data
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:8|RESERVED||
-|7:0|WR_DAT||
+|7:0|WR_DAT|write data.|

@@ -27,7 +27,7 @@ tags:
 |22:18|PHY_EXTINI||
 |17|BYPS_CHK||
 |16:15|SDET_SEL||
-|14:12|HOTCMD_EN||
+|14:12|HOTCMD_EN|Enable hot command.<br>Bit 14: reserved<br>Bit 13: auto power on gphy (rg0.11)<br>Bit 12: HW will transfer the eeep tx/rx to OCP cmd.|
 |11:8|CMD_WRMSK_EN||
-|7:4|CMD_RD_EN||
-|3:0|CMD_WR_EN||
+|7:4|CMD_RD_EN|periodic read cmds. 4: ability, else reserved|
+|3:0|CMD_WR_EN|periodic write cmds. all reserved.|

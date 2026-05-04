@@ -22,5 +22,5 @@ tags:
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:16|CMD0_INV||
-|15:0|CMD1_INV||
+|31:16|CMD0_INV|invert the read data for periodic cmd2|
+|15:0|CMD1_INV|invert the read data for periodic cmd3|

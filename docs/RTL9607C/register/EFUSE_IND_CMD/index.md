@@ -17,6 +17,8 @@ tags:
 
 ## Description
 
+eFuse indirect command and address
+
 ## Fields
 
 
@@ -25,6 +27,6 @@ tags:
 |31:24|RESERVED||
 |23:20|MODE_SEL||
 |19:18|RESERVED||
-|17|WREN||
-|16|CMD_EN||
-|15:0|ADR||
+|17|WREN|write enable.<br>0: read, 1: write|
+|16|CMD_EN|command enable and auto clear. Check the BUSY bit to make sure the command is done.|
+|15:0|ADR|read/write address|

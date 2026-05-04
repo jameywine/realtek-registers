@@ -28,6 +28,6 @@ tags:
 | :--- | :--- | :--- |
 |31:4|RESERVED||
 |3|SLV_NACK||
-|2|BUSY||
-|1|RW_EN||
-|0|CMD_EN||
+|2|BUSY|1: busy, read/write command is not finish.|
+|1|RW_EN|write enable. 0: read, 1: write|
+|0|CMD_EN|command enable and auto clear. Check the BUSY bit to make sure the command is done.|

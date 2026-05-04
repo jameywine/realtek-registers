@@ -26,4 +26,4 @@ tags:
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|READ_DATA||
+|31:0|READ_DATA|32-bit data which read via I2C master|

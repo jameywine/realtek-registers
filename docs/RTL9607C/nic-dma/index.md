@@ -233,33 +233,33 @@ Interrupt Register. This have mixes of Mask and Status bits.
 
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
-| 31 | ISR_RDU6 | Same as ISR_RDU |
-| 30 | ISR_RDU5 | Same as ISR_RDU |
-| 29 | ISR_RDU4 | Same as ISR_RDU |
-| 28 | ISR_RDU3 | Same as ISR_RDU |
-| 27 | ISR_RDU2 | Same as ISR_RDU |
-| 26 | ISR_SW_INT | Software Interrupt Mask |
+| 31 | ISR_RDU6 | Rx Descriptor Unavailable for RING6: When set, indicates Rx descriptor is unavailable. |
+| 30 | ISR_RDU5 | Rx Descriptor Unavailable for RING5: When set, indicates Rx descriptor is unavailable. |
+| 29 | ISR_RDU4 | Rx Descriptor Unavailable for RING4: When set, indicates Rx descriptor is unavailable. |
+| 28 | ISR_RDU3 | Rx Descriptor Unavailable for RING3: When set, indicates Rx descriptor is unavailable. |
+| 27 | ISR_RDU2 | Rx Descriptor Unavailable for RING2: When set, indicates Rx descriptor is unavailable. |
+| 26 | ISR_SW_INT | Software Interrupt pending: When set to 1 indicates a software interrupt was forced |
 | 25 | ISR_TDU | Tx Descriptor Unavailable: When set, this bit indicates that the Tx descriptor is unavailable.|
 | 24 | ISR_LINK_CHG | Link Change: This bit is set to 1 when link status is changed.|
 | 23 | ISR_TER | Transmit (Tx) Error: This bit set to 1 indicates that a packet transmission was aborted, due to excessive collisions. |
-| 22 | ISR_TOK_TI ||
-| 21 | ISR_RDU | Rx Descriptor Unavailable 1: When set to 1, this bit indicates that the Rx descriptor is unavailable.|
+| 22 | ISR_TOK_TI | Transmit Interrupt: Indicates that the DMA of the last descriptor of RxIntMitigation number of Tx packet has completed and the last descriptor has been closed. |
+| 21 | ISR_RDU | Rx Descriptor Unavailable for RING1: When set, indicates Rx descriptor is unavailable. |
 | 20 | ISR_RER_OVF | Receive (Rx) Overflow Error |
 | 19 | RESERVED ||
 | 18 | ISR_RER_RUNT | Receive (Rx) Runt Error |
 | 17 | RESERVED ||
 | 16 | ISR_ROK | Receive (Rx) OK: In normal mode, this bit set to 1 indicates the successful completion of a packet reception. |
-| 15 | IMR_RDU6 | Same as IMR_RDU |
-| 14 | IMR_RDU5 | Same as IMR_RDU |
-| 13 | IMR_RDU4 | Same as IMR_RDU |
-| 12 | IMR_RDU3 | Same as IMR_RDU |
-| 11 | IMR_RDU2 | Same as IMR_RDU |
+| 15 | IMR_RDU6 | Rx Descriptor Unavailable Interrupt for RING6 1: Enable. 0: Disable. |
+| 14 | IMR_RDU5 | Rx Descriptor Unavailable Interrupt for RING5 1: Enable. 0: Disable. |
+| 13 | IMR_RDU4 | Rx Descriptor Unavailable Interrupt for RING4 1: Enable. 0: Disable. |
+| 12 | IMR_RDU3 | Rx Descriptor Unavailable Interrupt for RING3 1: Enable. 0: Disable. |
+| 11 | IMR_RDU2 | Rx Descriptor Unavailable Interrupt for RING2 1: Enable. 0: Disable. |
 | 10 | IMR_SW_INT | Software Interrupt 1: Enable. 0: Disable. |
 | 9 | IMR_TDU | Tx Descriptor Unavailable Interrupt 1: Enable. 0: Disable. |
 | 8 | IMR_LINK_CHG | Link Change Interrupt 1: Enable, 0: Disable. |
 | 7 | IMR_TER | Transmit (Tx) Error Enable: 1: Enable. 0: Disable. |
-| 6 | IMR_TOK_TI ||
-| 5 | IMR_RDU | Rx Descriptor Unavailable Interrupt 1: 1: Enable. 0: Disable.|
+| 6 | IMR_TOK_TI | Transmit Interrupt: Indicates that the DMA of the last descriptor of RxIntMitigation number of Tx packet has completed and the last descriptor has been closed. |
+| 5 | IMR_RDU | Rx Descriptor Unavailable Interrupt for RING1 1: Enable. 0: Disable.|
 | 4 | IMR_RER_OVF | Rx Error Overflow Interrupt 1: Enable, 0: Disable.|
 | 3 | RESERVED ||
 | 2 | IMR_RER_RUNT | Rx Error Runt Interrupt 1: Enable, 0: Disable. |
@@ -298,8 +298,8 @@ Recieve Configuration Register
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
 | 31:8 | RESERVED ||
-| 7 | HOME_PNA ||
-| 6 | AFLOW ||
+| 7 | HOME_PNA | HomePNA mode: When set to 1, will use crs pin doing tx deferring |
+| 6 | AFLOW | Accept flow control : When set to 1, flow control packet will also be received & DMA to rx buffer for debug. Default is 0 |
 | 5 | AER | Accept packets with CRC errors |
 | 4 | AR | Accept Runt: This bit set to 1 allows the receiver to accept packets that are smaller than 64 bytes|
 | 3 | AB | Accept Broadcast Packets: 1: Accept, 0: Reject |
@@ -319,16 +319,16 @@ The CPUTAG Control Register
 
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
-| 31 | CTEN_RX | It is set to 1 during init |
-| 27:24 | CT_TSIZE | It is set to 0x2 during init |
-| 25:24 | CT_RSIZE_3_2 ||
-| 24 | CT_DSLRN ||
-| 23 | CT_NORMK ||
-| 22 | CT_ASPRI ||
-| 21:18 | CT_SWITCH | It is set to 0x8 during init |
-| 17:16 | CT_RSIZE_1_0 | It is set to 0x2 during init |
-| 15:8 | CTPM | It is set to 0xff during init and has these variations: CTPM_8370: 0xff, CTPM_8368: 0xe0, CTPM_8306: 0xf0 |
-| 7:0 | CTPV | It is set to 0x04 during init and has these variations: CTPV_8370: 0x04, CTPV_8368: 0xa0, CTPV_8306: 0x90 |
+| 31 | CTEN_RX | Enable parsing ingress packet with cputag format. |
+| 27:24 | CT_TSIZE | Cputag size in egress pkt.<br>CTT_size:<br>4h0: 0 Byte<br>4h1: 4 Byte<br>4h2: 8Byte<br>4h3: 10Byte |
+| 25:24 | CT_RSIZE_3_2 | |
+| 24 | CT_DSLRN | In rtl8370s, Setting of Disable Learning field in tx cputag. Setting of Disable Learning field in RTL8368 or DSLRN field in RTL8307h tx cputag when short_dsc_format = 0. |
+| 23 | CT_NORMK | Setting of NORMK field in RTL8307h tx cputag when short_dsc_format = 0 |
+| 22 | CT_ASPRI | In RTL8307h, setting ASPRI field in tx cputag when short_dsc_format = 0.<br>In RTL8370S, setting priority select field in tx cputag when short_dsc_format =0 |
+| 21:18 | CT_SWITCH | Support cputag format of switch<br>0: no cputag support<br>1: 8368<br>2: 8306<br>3: 8307<br>4: 8370<br>5: gmac in 8681.<br>6: gmac in Apollo.<br>8: gmac in ApolloPro |
+| 17:16 | CT_RSIZE_1_0 | After rl8681 (including), this field is only for ingress pkt.<br>CTR_size:<br>4h0: 0 Byte<br>4h1: 4 Byte<br>4h2: 8Byte<br>For Apollo cputag with PTP timestamp, set CT_RSIZE to 4h2 |
+| 15:8 | CTPM | CPU tag protocol mask.<br>8306:0xf0<br>8368:0xe0<br>8370:0xff<br>8307h:0xff |
+| 7:0 | CTPV | CPU tag protocol value.<br>8306:0x90<br>8368:0xa0 or 0xb0<br>8370:0x04<br>8307h:0x04 |
 
 ## NIC_CONFIG
 
@@ -343,10 +343,11 @@ Configuration Register?
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
 | 31:30 | RESERVED ||
-| 29:28 | RFF_SIZE_SEL | it is set to 0x2 during init|
-| 27 | TSO_ID_SEL ||
+| 29:28 | RFF_SIZE_SEL | Set gmac_rxfifo size.<br>2b00: 1KB<br>2b01: 1664B<br>2b10: 2KB |
+| 27 | TSO_ID_SEL | Uses to choose LSO(TCP) IP.identification value 0: keep. 1: incremental. |
 | 26:25 | RESERVED ||
-| 24 | RX_MULTI_RING_INT_EN | It is set to enable rx multi ring interrupt? |
+| 25 | EN_INT_ROUTE | 0: disable interrupt route, IMR0_reg, IMR1_reg<br>1: enable interrupt route, IMR0_reg, IMR1_reg |
+| 24 | RX_MULTI_RING_INT_EN | When EN_INT_ROUTE = 0,<br>0: only init.tdu, tok, rok present<br>1: IMR0_reg, IMR1_reg and ISR1_reg present.<br>When EN_INT_ROUTE = 1 this field is 1 |
 | 23:22 | RX_SIDEBAND | It is set to 0x3 during init to enable, clear to disable |
 | 21:17 | RESERVED ||
 | 16 | TX_JUMBO | it is set when tx_jumbo is enabled and cleared when tx_jumbo disabled |
@@ -366,13 +367,13 @@ The CPUTAG1 Control Register
 | :--- | :--- | :--- |
 | 31:14 | RESERVED ||
 | 13:7 | CT1_SID | It is unkown if it is 7 bits or more but it is set to 64 during so it must be 7 bits at least |
-| 6:4 | SPA_DSL ||
+| 6:4 | SPA_DSL | The ingress cputag.SPA=DSL field. Used in RW Apollo cputag. |
 | 3 | RESERVED ||
-| 2:0 | SPA_PON ||
+| 2:0 | SPA_PON | The ingress cputag.SPA=PON field. Used in RW Apollo cputag. |
 
 ## NIC_MS
 
-*Offset* 0x54
+*Offset* 0x58
 
 ### Description
 
@@ -382,33 +383,33 @@ Media Status Register?
 
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
-| 31 | FORCE_TRXFCE ||
+| 31 | FORCE_TRXFCE | Force Tx/RX Flow Control:<br>1 = enabled Flow control in the absence of NWAY.<br>0 = disables Flow control in the absence of NWAY.<br>Version effect: rl6166(ECO) and after. |
 | 30 | RXFCE | Rx Flow Control Enable |
-| 29 | TXFCE | Tx Flow Control Enable |
-| 28 | SPEED_1000 | Link speed is 1000Mbps |
-| 27 | SPEED_10 | Link speed is 10Mbps |
-| 26 | LINKB | Link Status Bit |
-| 25 | TXPF ||
-| 24 | RXPF ||
-| 23 | SEL_RGMII ||
-| 22 | FULLDUPREG ||
-| 21 | NWCOMPLETE ||
-| 20 | SEL_MII ||
-| 19 | FORCEDFULLDUP ||
-| 18 | FORCELINK ||
-| 17:16 | FORCE_SPD ||
-| 15 | SEL_PHYIF_0 ||
+| 29 | TXFCE | Tx Flow Control Enable:<br>1 = tx flow control enabled.<br>0 = tx flow control disabled.<br>ACCEPT ERROR MUST NOT BE ENABLED |
+| 28 | SPEED_1000 | 10: 1000Mbps,<br>11: not allowed |
+| 27 | SPEED_10 | 00: 100Mbps,<br>01: 10Mbps |
+| 26 | LINKB | Inverse of Link status. 0 = Link OK. 1 = Link Fail |
+| 25 | TXPF | Tx Pause frame: 1 = Ethernet module has sent a pause packet. 0 = the Ethernet module has sent a timer done packet |
+| 24 | RXPF | Pause Flag: 1 = Ethernet module is in backoff state because a pause packet received. 0 = pause state is clear |
+| 23 | SEL_RGMII | gmac_sel_rgmii |
+| 22 | FULLDUPREG | Indicates Full duplex mode in gmac |
+| 21 | NWCOMPLETE | Nway complete |
+| 20 | SEL_MII | indicates in mii mode |
+| 19 | FORCEDFULLDUP | force gmac operates at full duplex mode.<br>1b1: force gmac in full duplex mode.<br>1b0: duplex status is from MDIO auto-polling. Not means gmac is in half duplex mode. |
+| 18 | FORCELINK | force gmac in link ok mode.<br>This bit is Write only in RLE0315.<br>This bit is R/W in RLE0390 (RL6166).<br>1b1: force gmac in linkok.<br>1b0: link status is from MDIO auto-polling |
+| 17:16 | FORCE_SPD | Force gmac in 10/100/GIGA mode.<br>2b00: 100M<br>2b01: 10M<br>2b10: GIGA<br>2b11: not force mode. |
+| 15 | SEL_PHYIF_0 | 1: phy interface 0 works.<br>0: phy interface 1 works |
 | 14 | RESERVED ||
-| 13 | PHY_MODE ||
-| 12 | RGMII_RX_STS ||
-| 11 | RGMII_TX_STS ||
-| 10 | FORCE_SPD_MODE ||
+| 13 | PHY_MODE | 1: in phy mode.<br>0: not in phy mode |
+| 12 | RGMII_RX_STS | 0: Does not support rgmii in band status(link status, speed and duplex mode of the PHY) by decoding rxd.<br>1: Supports rgmii in band status(link status, speed and duplex mode of the PHY) by decoding rxd. |
+| 11 | RGMII_TX_STS | This field is valid only in phy mode.<br>0: Does not support rgmii in band status(link status, speed and duplex mode of the PHY) by encoding txd.<br>1: Supports rgmii in band status(link status, speed and duplex mode of the PHY) by encoding txd. |
+| 10 | FORCE_SPD_MODE | 1: gmac is in force speed mode. The real speed in force mode is set in MS_REG.FORCE_SPD.<br>0: gmac speed status is from md operation. |
 | 9:0 | RESERVED ||
 
 
 ## NIC_MIIA
 
-*Offset* 0x58
+*Offset* 0x5c
 
 ### Description
 
@@ -419,10 +420,10 @@ Media Independent Interface Access Register
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
 | 31 | FLAG | Flag bit. Set it to 1 to indicate Write flag, set it to 0 to indicate Read flag|
-| 30:26 | PHY_ADDR | 5-bit PHY address |
+| 30:26 | PHY_ADDR | Defines the Phy address for the MII |
 | 23:21 | RESERVED ||
-| 22 | DIS_AUTO_POLLING ||
-| 21 | POLLING_EEE ||
+| 22 | DIS_AUTO_POLLING |Disable auto polling feature of mdio operation.<br>0: HW auto polling PCS status.<br>1: HW does not auto polling PCS status|
+| 21 | POLLING_EEE | polling PCS EEE advertisement register |
 | 20:16 | REG_ADDR_4_0 | 5-bit GMII/MII register address. |
 | 15:0 | DATA_15_0 | 16-bit GMII/MII register data. |
 
@@ -439,12 +440,12 @@ Software Interrupt Register
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
 | 31:1 | RESERVED ||
-| 0 | SWINT | Software Interrupt |
+| 0 | SWINT | Write 1 will force ISR register bit 10 set to 1 |
 
 
 ## NIC_VLAN
 
-*Offset* 0x60
+*Offset* 0x64
 
 ### Description
 
@@ -454,9 +455,27 @@ VLAN Register
 
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
-| 31:16 | STAG_PID ||
-| 15 | TDSC_VLAN_TYPE ||
-| 14:0 | RESERVED ||
+| 31:16 | STAG_PID | Set the s-tag protocol identifier. This field is valid only when COM_REG.TDSC_VLAN_TYPE is high |
+| 15 | R_EN_RSTAG |Gmac rx. 0. disable STAG_PID. 1: enable STAG_PID.|
+| 14 | R_EN_TSTAG |Gmac tx. 0. disable STAG_PID. 1: enable STAG_PID.|
+| 13:0 | RESERVED ||
+
+## NIC_VLAN1
+
+*Offset* 0x68
+
+### Description
+
+VLAN Register
+
+### Fields
+
+| Bit(s) | Field Name | Description |
+| :--- | :--- | :--- |
+| 31:16 | STAG_PID1 | Set the s-tag protocol identifier. This field is valid only when COM_REG.TDSC_VLAN_TYPE is high |
+| 15 | R_EN_RSTAG |Gmac rx. 0: disable STAG_PID. 1: enable STAG_PID.|
+| 14 | R_EN_TSTAG |Gmac tx. 0: disable STAG_PID. 1: enable STAG_PID.|
+| 13:0 | RESERVED ||
 
 ## NIC_LED_CR
 
@@ -471,13 +490,13 @@ LED Control Register
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
 | 31:20 | RESERVED ||
-| 19 | EEE_EN_LED ||
-| 18 | CUSTOM_LED ||
-| 17:16 | LED_SEL ||
-| 15:12 | LED_SEL3 ||
-| 11:8 | LED_SEL2 ||
-| 7:4 | LED_SEL1 ||
-| 3:0 | LED_SEL0 ||
+| 19 | EEE_EN_LED | Enable/disable lpi led. |
+| 18 | CUSTOM_LED | Custom led mode. |
+| 17:16 | LED_SEL | Non custom led select. Following EEE spec, combine the Link signal and LPI signal in the same LED pin. |
+| 15:12 | LED_SEL3 |Custom led3 select|
+| 11:8 | LED_SEL2 |Custom led2 select|
+| 7:4 | LED_SEL1 |Custom led1 select|
+| 3:0 | LED_SEL0 |Custom led0 select|
 
 ## NIC_IMR0
 
@@ -594,7 +613,7 @@ Starting Address of Tx Descriptor 1 (Tx Frame Pointer Descriptor??)
 
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
-| 31:0 | TXFDP ||
+| 31:0 | TXFDP | Tx First Descriptor Pointer (FDP) for 1st priority RW 0x0 queue |
 
 ## NIC_TXCDO1
 
@@ -609,7 +628,7 @@ Tx Current Descriptor Offset?
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
 | 31:12 | RESERVED ||
-| 11:0 | TXCDO ||
+| 11:0 | TXCDO | Tx 1st priority Current Descriptor Offset: RO FDP+CDO = current descriptor pointer. CDO increments by 16 bytes each time |
 
 ## NIC_TXFPD2
 
@@ -623,7 +642,7 @@ Starting Address of Tx Descriptor 2
 
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
-| 31:0 | TXFDP ||
+| 31:0 | TXFDP |Tx 2nd priority Descriptor Pointer to the Tx Ring|
 
 ## NIC_TXCDO2
 
@@ -638,7 +657,7 @@ Tx Current Descriptor Offset 2?
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
 | 31:12 | RESERVED ||
-| 11:0 | TXCDO ||
+| 11:0 | TXCDO |Tx 2nd priority Current Descriptor Offset: FDP+CDO = current descriptor pointer. CDO increments by 16 bytes each time.|
 
 ## NIC_TXFPD3
 
@@ -652,7 +671,7 @@ Starting Address of Tx Descriptor 3
 
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
-| 31:0 | TXFDP ||
+| 31:0 | TXFDP |Tx 3rd priority Descriptor Pointer to the Tx Ring|
 
 ## NIC_TXCDO3
 
@@ -667,7 +686,7 @@ Tx Current Descriptor Offset 3?
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
 | 31:12 | RESERVED ||
-| 11:0 | TXCDO ||
+| 11:0 | TXCDO |Tx 3rd priority Current Descriptor Offset: FDP+CDO = current descriptor pointer. CDO increments by 16 bytes each time|
 
 ## NIC_TXFPD4
 
@@ -681,7 +700,7 @@ Starting Address of Tx Descriptor 4
 
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
-| 31:0 | TXFDP ||
+| 31:0 | TXFDP |Tx 4th priority Descriptor Pointer to the Tx Ring|
 
 ## NIC_TXCDO4
 
@@ -696,7 +715,7 @@ Tx Current Descriptor Offset 4?
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
 | 31:12 | RESERVED ||
-| 11:0 | TXCDO ||
+| 11:0 | TXCDO |Tx 4th priority Current Descriptor Offset: RO FDP+CDO = current descriptor pointer. CDO increments by 16 bytes each time|
 
 ## NIC_TXFPD5
 
@@ -710,7 +729,7 @@ Starting Address of Tx Descriptor 5
 
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
-| 31:0 | TXFDP ||
+| 31:0 | TXFDP |Tx 5th priority Descriptor Pointer to the Tx Ring|
 
 ## NIC_TXCDO5
 
@@ -725,7 +744,7 @@ Tx Current Descriptor Offset 5?
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
 | 31:12 | RESERVED ||
-| 11:0 | TXCDO ||
+| 11:0 | TXCDO |Tx 5th priority Current Descriptor Offset: RO FDP+CDO = current descriptor pointer. CDO increments by 16 bytes each time|
 
 ## NIC_RRING_ROUTING1
 
@@ -886,7 +905,7 @@ Starting Address of Rx Descriptor 1 (Rx Frame Pointer Descriptor??)
 
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
-| 31:0 | RXFDP ||
+| 31:0 | RXFDP |Rx #2 queue Descriptor Pointer to the Rx Ring |
 
 ## NIC_RXCDORINGRS2
 
@@ -901,9 +920,9 @@ Rx Current Descriptor Offset 2 with Ring Size?
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
 | 31:28 | RESERVED ||
-| 27:16 | RXRINGSIZE | Rx Ring Size |
+| 27:16 | RXRINGSIZE | The total number of descriptors in the Rx descriptor rings of #2 queue.<br>Act as bit mask, eg. RxRingSize {11:0}:<br>0000_0000_1111: 16 descriptors<br>0000_0001_1111: 32 descriptors<br>0000_0011_1111: 64 descriptors<br>0000_0111_1111: 128 descriptors<br>0000_1111_1111: 256 descriptors<br>0001_1111_1111: 512 descriptors<br>0011_1111_1111: 1024 descriptors<br>0111_1111_1111: 2048 descriptors<br>1111_1111_1111: 4096 descriptors<br>Any other value in this register yields undefined results |
 | 15:12 | RESERVED ||
-| 11:0 | RXCDO ||
+| 11:0 | RXCDO |Rx Current Descriptor Offset of #2 queue: RxFDP+RxCDO = current descriptor pointer. CDO increments by 16 each time (each increment is one byte|
 
 ## NIC_RX_CPU_DESN2
 
@@ -918,7 +937,7 @@ Register for Rx CPU Descriptor Number 2???
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
 | 31:12 | RESERVED ||
-| 11:0 | CPU_DES_NUM | Rx Descriptor Number? |
+| 11:0 | CPU_DES_NUM | Indicate the number of descriptor of #2 queue, which has been finished Rx process and returned to IO by CPU. After ending Rx process, CPU needs to update this field. |
 
 ## NIC_RX_DES_THRES2
 
@@ -933,9 +952,9 @@ Register for the Rx Descriptor Threshold 2
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
 | 31:28 | RESERVED ||
-| 27:16 | DES_ON_TH | flow control assert threshold: available desc <= 16 |
+| 27:16 | DES_ON_TH | Specifies the difference between EthrnetRxCPU_Des_Num2 and the descriptor #2of #2 queue currently in use by Ethernet Module in which flow control will be assert |
 | 15:12 | RESERVED ||
-| 11:0 | DES_OFF_TH | flow control de-assert threshold : available desc>=48 |
+| 11:0 | DES_OFF_TH | Specifies the difference between EthrnetRxCPU_Des_Num2 and the descriptor #2 of 2#2queue currently in use by Ethernet Module in which flow control will be de-assert |
 
 ## NIC_RXFDP3
 
@@ -949,7 +968,7 @@ Starting Address of Rx Descriptor 3
 
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
-| 31:0 | RXFDP ||
+| 31:0 | RXFDP |Rx # 3 queue Descriptor Pointer to the Rx Ring|
 
 ## NIC_RXCDORINGRS3
 
@@ -964,9 +983,9 @@ Rx Current Descriptor Offset 3 with Ring Size?
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
 | 31:28 | RESERVED ||
-| 27:16 | RXRINGSIZE | Rx Ring Size |
+| 27:16 | RXRINGSIZE | The total number of descriptors in the Rx descriptor rings of #3 queue. |
 | 15:12 | RESERVED ||
-| 11:0 | RXCDO ||
+| 11:0 | RXCDO |Rx Current Descriptor Offset of #3 queue: RxFDP+RxCDO = current descriptor pointer. CDO increments by 16 each time (each increment is one byte|
 
 ## NIC_RX_CPU_DESN3
 
@@ -981,7 +1000,7 @@ Register for Rx CPU Descriptor Number 3???
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
 | 31:12 | RESERVED ||
-| 11:0 | CPU_DES_NUM | Rx Descriptor Number? |
+| 11:0 | CPU_DES_NUM | Indicate the number of descriptor of #3 queue, which has been finished Rx process and returned to IO by CPU. After ending Rx process, CPU needs to update this field. |
 
 ## NIC_RX_DES_THRES3
 
@@ -996,9 +1015,9 @@ Register for the Rx Descriptor Threshold 3
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
 | 31:28 | RESERVED ||
-| 27:16 | DES_ON_TH | flow control assert threshold: available desc <= 16 |
+| 27:16 | DES_ON_TH | Specifies the difference between EthrnetRxCPU_Des_Num3 and the descriptor #3 of #3 queue currently in use by Ethernet Module in which flow control will be assert |
 | 15:12 | RESERVED ||
-| 11:0 | DES_OFF_TH | flow control de-assert threshold : available desc>=48 |
+| 11:0 | DES_OFF_TH | Specifies the difference between EthrnetRxCPU_Des_Num3 and the descriptor #3of #3 queue currently in use by Ethernet Module in which flow control will be de-assert |
 
 ## NIC_RXFDP4
 
@@ -1012,7 +1031,7 @@ Starting Address of Rx Descriptor 4
 
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
-| 31:0 | RXFDP ||
+| 31:0 | RXFDP |Rx 4 queue Descriptor Pointer to the Rx Ring|
 
 ## NIC_RXCDORINGRS4
 
@@ -1027,9 +1046,9 @@ Rx Current Descriptor Offset 4 with Ring Size?
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
 | 31:28 | RESERVED ||
-| 27:16 | RXRINGSIZE | Rx Ring Size |
+| 27:16 | RXRINGSIZE | The total number of descriptors in the Rx descriptor rings of #4 queue. |
 | 15:12 | RESERVED ||
-| 11:0 | RXCDO ||
+| 11:0 | RXCDO |Rx Current Descriptor Offset of #4 queue: RxFDP+RxCDO = current descriptor pointer. CDO increments by 16 each time (each increment is one byte|
 
 ## NIC_RX_CPU_DESN4
 
@@ -1044,7 +1063,7 @@ Register for Rx CPU Descriptor Number 4???
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
 | 31:12 | RESERVED ||
-| 11:0 | CPU_DES_NUM | Rx Descriptor Number? |
+| 11:0 | CPU_DES_NUM | Indicate the number of descriptor of #4 queue, which has been finished Rx process and returned to IO by CPU. After ending Rx process, CPU needs to update this field. |
 
 ## NIC_RX_DES_THRES4
 
@@ -1059,9 +1078,9 @@ Register for the Rx Descriptor Threshold 4
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
 | 31:28 | RESERVED ||
-| 27:16 | DES_ON_TH | flow control assert threshold: available desc <= 16 |
+| 27:16 | DES_ON_TH | Specifies the difference between EthrnetRxCPU_Des_Num4 and the descriptor #4 of #4 queue currently in use by Ethernet Module in which flow control will be assert |
 | 15:12 | RESERVED ||
-| 11:0 | DES_OFF_TH | flow control de-assert threshold : available desc>=48 |
+| 11:0 | DES_OFF_TH | Specifies the difference between EthrnetRxCPU_Des_Num4 and the descriptor #4of #4 queue currently in use by Ethernet Module in which flow control will be de-assert |
 
 ## NIC_RXFDP5
 
@@ -1075,7 +1094,7 @@ Starting Address of Rx Descriptor 5
 
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
-| 31:0 | RXFDP ||
+| 31:0 | RXFDP |Rx 5 queue Descriptor Pointer to the Rx Ring|
 
 ## NIC_RXCDORINGRS5
 
@@ -1090,9 +1109,9 @@ Rx Current Descriptor Offset 5 with Ring Size?
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
 | 31:28 | RESERVED ||
-| 27:16 | RXRINGSIZE | Rx Ring Size |
+| 27:16 | RXRINGSIZE | The total number of descriptors in the Rx descriptor rings of #5 queue. |
 | 15:12 | RESERVED ||
-| 11:0 | RXCDO ||
+| 11:0 | RXCDO |Rx Current Descriptor Offset of #5 queue: RxFDP+RxCDO = current descriptor pointer. CDO increments by 16 each time (each increment is one byte|
 
 ## NIC_RX_CPU_DESN5
 
@@ -1107,7 +1126,7 @@ Register for Rx CPU Descriptor Number 5???
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
 | 31:12 | RESERVED ||
-| 11:0 | CPU_DES_NUM | Rx Descriptor Number? |
+| 11:0 | CPU_DES_NUM | Indicate the number of descriptor of #5 queue, which has been finished Rx process and returned to IO by CPU. After ending Rx process, CPU needs to update this field. |
 
 ## NIC_RX_DES_THRES5
 
@@ -1122,9 +1141,9 @@ Register for the Rx Descriptor Threshold 5
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
 | 31:28 | RESERVED ||
-| 27:16 | DES_ON_TH | flow control assert threshold: available desc <= 16 |
+| 27:16 | DES_ON_TH | Specifies the difference between EthrnetRxCPU_Des_Num5 and the descriptor #5 of #5 queue currently in use by Ethernet Module in which flow control will be assert |
 | 15:12 | RESERVED ||
-| 11:0 | DES_OFF_TH | flow control de-assert threshold : available desc>=48 |
+| 11:0 | DES_OFF_TH | Specifies the difference between EthrnetRxCPU_Des_Num5 and the descriptor #5 of #5 queue currently in use by Ethernet Module in which flow control will be de-assert |
 
 ## NIC_RXFDP6
 
@@ -1138,7 +1157,7 @@ Starting Address of Rx Descriptor 6
 
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
-| 31:0 | RXFDP ||
+| 31:0 | RXFDP |Rx 6 queue Descriptor Pointer to the Rx Ring|
 
 ## NIC_RXCDORINGRS6
 
@@ -1153,9 +1172,9 @@ Rx Current Descriptor Offset 6 with Ring Size?
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
 | 31:28 | RESERVED ||
-| 27:16 | RXRINGSIZE | Rx Ring Size |
+| 27:16 | RXRINGSIZE | The total number of descriptors in the Rx descriptor rings of #6 queue. |
 | 15:12 | RESERVED ||
-| 11:0 | RXCDO ||
+| 11:0 | RXCDO |Rx Current Descriptor Offset of #6 queue: RxFDP+RxCDO = current descriptor pointer. CDO increments by 16 each time (each increment is one byte|
 
 ## NIC_RX_CPU_DESN6
 
@@ -1170,7 +1189,7 @@ Register for Rx CPU Descriptor Number 6???
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
 | 31:12 | RESERVED ||
-| 11:0 | CPU_DES_NUM | Rx Descriptor Number? |
+| 11:0 | CPU_DES_NUM | Indicate the number of descriptor of #6 queue, which has been finished Rx process and returned to IO by CPU. After ending Rx process, CPU needs to update this field. |
 
 ## NIC_RX_DES_THRES6
 
@@ -1185,9 +1204,9 @@ Register for the Rx Descriptor Threshold 6
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
 | 31:28 | RESERVED ||
-| 27:16 | DES_ON_TH | flow control assert threshold: available desc <= 16 |
+| 27:16 | DES_ON_TH | Specifies the difference between EthrnetRxCPU_Des_Num6 and the descriptor #6 of #6 queue currently in use by Ethernet Module in which flow control will be assert |
 | 15:12 | RESERVED ||
-| 11:0 | DES_OFF_TH | flow control de-assert threshold : available desc>=48 |
+| 11:0 | DES_OFF_TH | Specifies the difference between EthrnetRxCPU_Des_Num6 and the descriptor #6 of #6 queue currently in use by Ethernet Module in which flow control will be de-assert |
 
 ## NIC_RXFDP1
 
@@ -1201,7 +1220,7 @@ Starting Address of Rx Descriptor 1
 
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
-| 31:0 | RXFDP ||
+| 31:0 | RXFDP |Rx 1st queue Descriptor Pointer to the Rx Ring|
 
 ## NIC_RXCDORINGRS1
 
@@ -1216,9 +1235,9 @@ Rx Current Descriptor Offset 1 with Ring Size?
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
 | 31:28 | RESERVED ||
-| 27:16 | RXRINGSIZE | Rx Ring Size |
+| 27:16 | RXRINGSIZE | This is the total number of descriptors in the Rx descriptor rings of 1st queue |
 | 15:12 | RESERVED ||
-| 11:0 | RXCDO ||
+| 11:0 | RXCDO |Rx Current Descriptor Offset of 1st queue: RxFDP+RxCDO = current descriptor pointer. CDO increments by 16 each time (each increment is one byte).|
 
 ## NIC_SMSA
 
@@ -1226,13 +1245,13 @@ Rx Current Descriptor Offset 1 with Ring Size?
 
 ### Description
 
-Unused register
+SRAM mapping start address register
 
 ### Fields
 
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
-| 31:0 | SMSA ||
+| 31:0 | SMSA |SRAM mapping start address for header mapping to sram|
 
 ## NIC_PROBE_SELECT
 
@@ -1247,7 +1266,7 @@ It is not mentioned in `re8686_rtl9607c` files at all
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
 | 31:26 | RESERVED ||
-| 25:24 | PROB_SELf ||
+| 25:24 | PROB_SELf |This MAC IP will have 16 probe signal output for debug. These 2 bit choose between 4 sets of internal signal being probed.|
 | 23:9 | RESERVED ||
 
 ## NIC_DIAGNOSE1
@@ -1279,7 +1298,7 @@ Some register for Rx flow control descriptor threshold
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
 | 31:10 | RESERVED ||
-| 27:24 | DES_OFF_TH_11_8 | Descriptor Off Threshold Bits 11-8 |
+| 27:24 | DES_OFF_TH_11_8 | Specifies the difference between EthrnetRxCPU_Des_Num1 and the descriptor # of 1st queue currently in use by Ethernet Module in which flow control will be de-assert. Bits 11:8 |
 | 9 | SET_D_TXC ||
 | 8:4 | TXC_OUT_PH_SEL ||
 | 3:0 | RX_TH_OFF_1 ||
@@ -1296,11 +1315,11 @@ Register for Rx CPU Descriptor Number and Descriptor Threshold 1
 
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
-| 31:23 | CPU_DES_NUM_7_0 | CPU Descriptor Number Bits 7-0 |
-| 23:16 | DES_ON_TH_7_0 | Descriptor On Threshold Bits 7-0 |
-| 15:8 | DES_OFF_TH_7_0 | Descriptor Off Threshold Bits 7-0 |
-| 7:4 | CPU_DES_NUM_11_8 | CPU Descriptor Number Bits 11-8 |
-| 3:0 | DES_ON_TH_11_8 | Descriptor On Threshold Bits 11-8 |
+| 31:23 | CPU_DES_NUM_7_0 | Indicate the number of descriptor of 1st queue, which has been finished Rx process and returned to IO by CPU. After ending Rx process, CPU needs to update this field. Bits 7:0 |
+| 23:16 | DES_ON_TH_7_0 | Specifies the difference between EthrnetRxCPU_Des_Num1 and the descriptor # of 1st queue currently in use by Ethernet Module in which flow control will be assert. Bits 7:0 |
+| 15:8 | DES_OFF_TH_7_0 | Specifies the difference between EthrnetRxCPU_Des_Num1 and the descriptor # of 1st queue currently in use by Ethernet Module in which flow control will be de-assert. Bits 7:0 |
+| 7:4 | CPU_DES_NUM_11_8 | Indicate the number of descriptor of 1st queue, which has been finished Rx process and returned to IO by CPU. After ending Rx process, CPU needs to update this field. Bits 11:8 |
+| 3:0 | DES_ON_TH_11_8 | Specifies the difference between EthrnetRxCPU_Des_Num1 and the descriptor # of 1st queue currently in use by Ethernet Module in which flow control will be assert. Bits 11:8 |
 
 ## NIC_ETN_IO_CMD
 
@@ -1314,26 +1333,26 @@ IO Command/Control Register
 
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
-| 31 | MAX_DMA_SEL_0 ||
-| 30 | SHORT_DES_FMT ||
+| 31 | MAX_DMA_SEL_0 |Select the dma burst size on bus(memory controller should assert continuous btrdy).<br>00:16 DW(1DW=4B)<br>01:32 DW<br>10:64 DW|
+| 30 | SHORT_DES_FMT |Short descriptor format. Set 1 tx/rx descriptor will use old format - 4x32bit each item, set 0 use new format to support sram mapping.|
 | 29 | MAX_DMA_SEL_1 ||
-| 28 | EN_EARLY_TX ||
-| 27:24 | TX_PKT_TMR | Tx Packet Timer|
+| 28 | EN_EARLY_TX |0: disable, 1: enable. Disable early tx by GAMC while tx command descriptor.IPCS, UDPCS or TCPCS are set to high|
+| 27:24 | TX_PKT_TMR | Timer to trigger TxOK interrupt after receipt of TxIntMitigation pkts. 0000 no timer set<br>0001-1111 : the timer interval defining a multiple of TU |
 | 23 | TX_INT_MITIG_3 ||
 | 22 | RX_PKT_TMR_3 ||
 | 21 | RX_INT_MITIG_3 ||
-| 20:19 | TSH |Threshold for TX FIFO?|
-| 18:16 | TX_INT_MITIG_2_0 ||
-| 15:13 | RX_PKT_TMR_2_0 | Rx Packet Timer |
-| 12:11 | RXFTH | Rx FIFO Threshold |
-| 10:8 | RX_INT_MITIG_2_0 ||
-| 7:6 | REG_INI_TMR_SEL || 
-| 5 | RE | Receiver Enable |
-| 4 | TE | Transmitter Enable |
-| 3 | TXFN4 | TX Poll Kick 4 |
-| 2 | TXFN3 | TX Poll Kick 3 |
-| 1 | TXFN2 | TX Poll Kick 2 |
-| 0 | TXFN1 | TX Poll Kick 1 |
+| 20:19 | TSH |Tx Threshold: Specifies the threshold level in the Tx FIFO to begin the transmission. When the byte count of the data in the Tx FIFO reaches this level, (or the FIFO contains at least one complete packet or the end of a packet) the Ethernet module will transmit this packet.<br>00:128B.<br>01:256B.<br>10:512B.<br>11:1024B.|
+| 18:16 | TX_INT_MITIG_2_0 |This sets the number of packets received before TxOK interrupt is triggered.<br>0000- 1 pkt<br>0001- 4 pkts<br>0010- 8 pkts<br>0011- 12 pkts<br>0100- 16 pkts<br>0101- 20 pkts<br>0110- 24 pkts<br>0111- 28 pkts|
+| 15:13 | RX_PKT_TMR_2_0 | Timer to trigger RxOK interrupt after receipt of RxIntMitigation pkts.<br>0000 no timer set<br>0001-1111 : the timer interval defining a multiple of TU |
+| 12:11 | RXFTH | Rx Threshold: Specifies the threshold level in the Rx FIFO to begin the transmission. When the byte count of the data in the Rx FIFO reaches this level, (or the FIFO contains at least one complete packet or the end of a packet) the Ethernet module will transmit this packet.<br>00 256 bytes<br>10 64 bytes<br>11 128 bytes |
+| 10:8 | RX_INT_MITIG_2_0 |This sets the number of packets received before RxOK interrupt is triggered.<br>0000- 1 pkt<br>0001- 4 pkts<br>0010- 8 pkts<br>0011- 12 pkts<br>0100- 16 pkts<br>0101- 20 pkts<br>0110- 24 pkts<br>0111- 28 pkts|
+| 7:6 | REG_INI_TMR_SEL |RXPktTimer, TXPktTimer Unit. (TU)| 
+| 5 | RE | MII Rx Enable |
+| 4 | TE | MII Tx Enable |
+| 3 | TXFN4 | 4th Priority DMA-Ethernet Transmit enable.<br>1: Enable.<br>0: Disable |
+| 2 | TXFN3 | 3rd Priority DMA-Ethernet Transmit enable.<br>1: Enable.<br>0: Disable |
+| 1 | TXFN2 | 2nd Priority DMA-Ethernet Transmit enable.<br>1: Enable.<br>0: Disable |
+| 0 | TXFN1 | 1st Priority DMA-Ethernet Transmit enable.<br>1: Enable.<br>0: Disable |
 
 ## NIC_ETN_IO_CMD1
 
@@ -1348,27 +1367,26 @@ The Other IO Command/Control Register
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
 | 31 | RESERVED ||
-| 28:26 | DSC_FMT_EXTRA | It is set to 0x3 during init |
-| 26 | RXOKINT_MSK_128B ||
-| 25 | EN_RX_MRING | Enable Rx Multi Ring?|
-| 24 | EN_1GB ||
+| 28:26 | DSC_FMT_EXTRA | Extra descriptor format.<br>Dsc_format_extra{0} used to indicate the lso format in tx descriptor.<br>In rle0437, bit28 is lso_des_format and is write only. |
+| 26 | RXOKINT_MSK_128B |1: For ingress pkt which is short than 128B, RxOK interrupt asserts after DMA completes(compatible issue).<br>0: For ingress pkt which is short than 128B, RxOK interrupt does not assert after DMA completes.|
+| 25 | EN_RX_MRING | Enable rx multiple rings.<br>1: rx using multiple rings. max: 6rings (ring1 to ring6).<br>0. rx using single ring.|
+| 24 | EN_1GB |1: support 1GB addressing in lx master bus. For gmac used in rl0371 and after.<br>0: no support. For project used in rle0390 and before|
 | 23:22 | RESERVED ||
-| 21 | RXRING6 | Enable RX Ring 6? |
-| 20 | RXRING5 | Enable RX Ring 5? |
-| 19 | RXRING4 | Enable RX Ring 4? |
-| 18 | RXRING3 | Enable RX Ring 3? |
-| 17 | RXRING2 | Enable RX Ring 2? |
-| 16 | RXRING1 | Enable RX Ring 1? |
-| 15 | RESERVED ||
-| 14 | TX_RR_SCHEDULER | Sets TX Ring Priority in RR |
+| 21 | RXRING6 | Ethernet-DMA Receive Ring6 enable.<br>1: Enable.<br>0: Disable |
+| 20 | RXRING5 | Ethernet-DMA Receive Ring5 enable |
+| 19 | RXRING4 | Ethernet-DMA Receive Ring4 enable |
+| 18 | RXRING3 | Ethernet-DMA Receive Ring3 enable |
+| 17 | RXRING2 | Ethernet-DMA Receive Ring2 enable |
+| 16 | RXRING1 | Ethernet-DMA Receive Ring1 enable |
+| 15:14 | TX_HL_PRI_SEL | 2b00: TX ring uses strict priority.<br>2b01: TX ring uses high and low queue priority. Inside high queue, tx ring is round robin. Inside low queue, tx ring is round robin. Strict priority is used for high and low queue selection.<br>2b10 and 2b11: reserved. |
 | 13:9 | RESERVED ||
-| 8 | TX_FN5 | TX Poll Kick 5 |
+| 8 | TX_FN5 | 5th Priority DMA-Ethernet Transmit enable.<br>1: Enable.<br>0: Disable.<br>After IO_CMD.TE is set high, TxFN5th is writable. |
 | 7:5 | RESERVED ||
-| 4 | TXQ5_H ||
-| 3 | TXQ4_H ||
-| 2 | TXQ3_H ||
-| 1 | TXQ2_H ||
-| 0 | TXQ1_H ||
+| 4 | TXQ5_H |1: TxFN5th is a high queue.<br>0: TxFN5th is a low queue|
+| 3 | TXQ4_H |1: TxFN4th is a high queue.<br>0: TxFN4th is a low queue|
+| 2 | TXQ3_H |1: TxFN3rd is a high queue.<br>0: TxFN3rd is a low queue|
+| 1 | TXQ2_H |1: TxFN2nd is a high queue.<br>0: TxFN2nd is a low queue|
+| 0 | TXQ1_H |1: TxFN1st is a high queue.<br>0: TxFN1st is a low queue|
 
 ## NIC_WOL
 
@@ -1383,6 +1401,6 @@ It is not mentioned in `re8686_rtl9607c` files at all. Wake on LAN Register?
 | Bit(s) | Field Name | Description |
 | :--- | :--- | :--- |
 | 31:3 | RESERVED ||
-| 2 | WOL_PME ||
-| 1 | WOL_STS ||
-| 0 | WOL_CMD ||
+| 2 | WOL_PME |0: No magic pkt receives. 1: HW had received one magic pkt and system should wake up|
+| 1 | WOL_STS |0: HW is not in wol idle state. 1: HW is in wol idle state.|
+| 0 | WOL_CMD |Issue wol command by SW|

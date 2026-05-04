@@ -23,5 +23,5 @@ tags:
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:2|RESERVED||
-|1|ORG_COL||
-|0|ORG_CRS||
+|1|ORG_COL|NOT NEED simulation|
+|0|ORG_CRS|NOT NEED simulation|

@@ -12,5 +12,7 @@
 
 **Last updates**
 
+- Added NIC DMA descriptions and descriptions to INTERFACE and RESET registers from what is available in APOLLO register file and fixed minor issues on 2026-05-04
+- Added CPU Tag descriptions on 2026-01-28
 - Added NIC DMA Registers on 2026-01-27
 - Added Tables and Tags for easier search on 2026-01-25

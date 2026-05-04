@@ -17,6 +17,8 @@ tags:
 
 ## Description
 
+eFuse indirect read data
+
 ## Fields
 
 
@@ -25,5 +27,5 @@ tags:
 |31:22|RESERVED||
 |21:20|RSLT||
 |19:17|RESERVED||
-|16|BUSY||
-|15:0|RD_DAT||
+|16|BUSY|1: busy, read/write command is not finish.|
+|15:0|RD_DAT|read data|

@@ -17,15 +17,17 @@ tags:
 
 ## Description
 
+Enable LED IO
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:24|RESERVED||
-|23|SERI_LED_EN||
+|23|SERI_LED_EN|Enable LED<br>0b0: Disable serial LED<br>0b1: Enable serial LED|
 |22:18|RESERVED||
-|17|LED17_EN||
+|17|LED17_EN|1: Enable LED17.<br> 0: Disable LED17.|
 |16|LED16_EN||
 |15|LED15_EN||
 |14|LED14_EN||

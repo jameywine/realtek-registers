@@ -21,9 +21,13 @@ tags:
 
 ## Description
 
+This is a One-Dimension Common Register Array. 
+
+I2C master indirect write data
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|WRITE_DATA||
+|31:0|WRITE_DATA|32-bit data for I2C master write command|

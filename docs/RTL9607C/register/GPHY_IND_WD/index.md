@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+GPHY indirect write data
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:16|RESERVED||
-|15:0|WR_DAT||
+|15:0|WR_DAT|16-bit data write to gphy’s register|

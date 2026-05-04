@@ -26,4 +26,4 @@ tags:
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|REG_ADDR||
+|31:0|REG_ADDR|read/write address|

@@ -22,5 +22,5 @@ tags:
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:16|CMD2_ADR||
-|15:0|CMD3_ADR||
+|31:16|CMD2_ADR|reg address for periodic cmd2|
+|15:0|CMD3_ADR|reg address for periodic cmd3|

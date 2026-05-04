@@ -17,11 +17,13 @@ tags:
 
 ## Description
 
+GPHY indirect read data
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:17|RESERVED||
-|16|BUSY||
-|15:0|RD_DAT||
+|16|BUSY|1: busy, read/write command is not finish.|
+|15:0|RD_DAT|16-bit data read from gphy|
