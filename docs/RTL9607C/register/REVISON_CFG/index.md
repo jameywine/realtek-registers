@@ -23,4 +23,4 @@ tags:
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:4|RESERVED||
-|3:0|REVISOIN_CFG||
+|3:0|REVISOIN_CFG|Revision Number|

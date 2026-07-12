@@ -23,4 +23,4 @@ tags:
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:2|RESERVED||
-|1:0|DIS_JTAG||
+|1:0|DIS_JTAG|Enable / Disable JTAG interface<br>0: Enable JTAG<br>1: Disable JTAG|

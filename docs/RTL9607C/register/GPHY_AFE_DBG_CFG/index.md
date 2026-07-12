@@ -24,5 +24,5 @@ tags:
 | :--- | :--- | :--- |
 |31:6|RESERVED||
 |5:2|RESERVED||
-|1|EN_RTT2||
-|0|EN_RTT1||
+|1|EN_RTT2|enable GPHY AFE debug pad RTT2|
+|0|EN_RTT1|enable GPHY AFE debug pad RTT1|

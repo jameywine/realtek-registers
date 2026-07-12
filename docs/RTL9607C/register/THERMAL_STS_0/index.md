@@ -24,4 +24,4 @@ tags:
 | :--- | :--- | :--- |
 |31:20|RESERVED||
 |19|TM_SAMPLE||
-|18:0|TM_SENSOR_OUT||
+|18:0|TM_SENSOR_OUT|Thermal Sensor output.<br>bit 18: sign<br>bits 17~10: integer<br>bits 9~0: float|

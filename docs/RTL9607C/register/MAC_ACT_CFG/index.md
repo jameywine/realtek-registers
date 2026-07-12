@@ -23,6 +23,6 @@ tags:
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:20|RESERVED||
-|19:9|CFG_MAC_ACTIVE||
-|8|CFG_LINK_DOWN_TIME_EN||
-|7:0|CFG_LINK_DOWN_TIME||
+|19:9|CFG_MAC_ACTIVE|Active MAC port mask|
+|8|CFG_LINK_DOWN_TIME_EN|MAC minimum link down time enable|
+|7:0|CFG_LINK_DOWN_TIME|MAC minimum link down time in ms|

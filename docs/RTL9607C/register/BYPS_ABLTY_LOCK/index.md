@@ -23,4 +23,4 @@ tags:
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:11|RESERVED||
-|10:0|BYPS_ABLTY_LOCK||
+|10:0|BYPS_ABLTY_LOCK|1: dont latch the ability from GPHY|

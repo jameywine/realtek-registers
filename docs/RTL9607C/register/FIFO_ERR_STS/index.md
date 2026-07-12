@@ -23,4 +23,4 @@ tags:
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:5|RESERVED||
-|4:0|STS_SYNC_FIFO_RX_ERR||
+|4:0|STS_SYNC_FIFO_RX_ERR|indicate that ext-port RX FIFO error detected.|

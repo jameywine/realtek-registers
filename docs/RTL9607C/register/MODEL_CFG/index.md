@@ -23,4 +23,4 @@ tags:
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:6|RESERVED||
-|5:0|MODEL_CFG||
+|5:0|MODEL_CFG|Model Number|

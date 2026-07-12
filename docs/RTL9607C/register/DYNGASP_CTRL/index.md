@@ -17,6 +17,8 @@ tags:
 
 ## Description
 
+Dying Gasp Control Register
+
 ## Fields
 
 
@@ -29,7 +31,7 @@ tags:
 |6|DYNGASP_OUT_2_EN||
 |5|DYNGASP_OUT_1_INV||
 |4|DYNGASP_OUT_1_EN||
-|3|DYNGASP_CMP_INV||
-|2|DYNGASP_OUT_INV||
-|1|DYNGASP_OUT_EN||
-|0|DYNGASP_OUT_PULL||
+|3|DYNGASP_CMP_INV|dyinggasp comparison result polarity inversion|
+|2|DYNGASP_OUT_INV|dyinggasp output pin polarity inversion|
+|1|DYNGASP_OUT_EN|dyinggasp output pin driving enable|
+|0|DYNGASP_OUT_PULL|dyinggasp output pin pull polarity|

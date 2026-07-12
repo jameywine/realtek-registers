@@ -21,6 +21,9 @@ tags:
 
 ## Description
 
+MAC Force Port Ability State.
+Set to 0xfff for CPU ports.
+
 ## Fields
 
 

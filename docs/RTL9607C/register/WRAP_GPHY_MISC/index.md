@@ -23,4 +23,4 @@ tags:
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:1|RESERVED||
-|0|PATCH_PHY_DONE||
+|0|PATCH_PHY_DONE|CPU has finished GPHY patch and ASIC would issue GPHY power resume command|

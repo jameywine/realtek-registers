@@ -24,4 +24,4 @@ tags:
 | :--- | :--- | :--- |
 |31:5|RESERVED||
 |4:1|MDX_SPD_REMAP_EN||
-|0|ADCCKI_EN||
+|0|ADCCKI_EN|enable adccki function|

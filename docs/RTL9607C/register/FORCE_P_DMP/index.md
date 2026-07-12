@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+force mode port mask
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|10:0|FORCE_PROT_MASK||
+|10:0|FORCE_PROT_MASK|force mode port mask|

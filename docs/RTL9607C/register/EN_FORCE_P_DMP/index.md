@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+forwarding force mode
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|FORCE_MODE||
+|0|FORCE_MODE|forwarding force mode, 1 - enable|

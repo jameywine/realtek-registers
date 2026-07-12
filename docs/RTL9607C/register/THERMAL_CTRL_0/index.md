@@ -24,7 +24,7 @@ tags:
 | :--- | :--- | :--- |
 |31|RESERVED||
 |30|REG_TD_WREP_SEL||
-|29|REG_PPOW||
+|29|REG_PPOW|enable thermal meter|
 |28|REG_RSTB||
 |27|REG_BIASCHOP||
 |26|REG_CHOPEN||

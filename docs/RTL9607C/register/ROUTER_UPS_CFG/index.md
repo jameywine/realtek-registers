@@ -23,4 +23,4 @@ tags:
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:1|RESERVED||
-|0|SOFTSTART||
+|0|SOFTSTART|0: System is cold start.<br>1: System is warm start<br>ASIC will set this bit to 1 after first times DIS_PWR remove.|
