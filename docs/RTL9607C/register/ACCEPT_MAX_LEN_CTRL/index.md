@@ -21,10 +21,12 @@ tags:
 
 ## Description
 
+Accepted max packet length control register
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:14|RESERVED||
-|13:0|ACCEPT_MAX_LENTH||
+|13:0|ACCEPT_MAX_LENTH|Per-Port max accepted frame length|

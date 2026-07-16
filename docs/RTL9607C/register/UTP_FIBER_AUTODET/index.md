@@ -21,20 +21,22 @@ tags:
 
 ## Description
 
+UTP and fiber auto detection
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:11|RESERVED||
-|10|SDS_PHY_MODE||
+|10|SDS_PHY_MODE|1 - PHY mode<br>0 - MAC mode|
 |9|SDS_LPI_GMII_SEL||
-|8|SDS_CMD_STOP_GLI_CLK||
+|8|SDS_CMD_STOP_GLI_CLK|set 1 to stop the clock, 0 to restore the clock|
 |7|SDS_FRC_REG4_EN||
 |6|SDS_FRC_REG4_FIB100||
 |5|SDS_LOAD_SYS_PAR||
 |4|SDS_UNIDIR_TX||
-|3|SDS_PWR_GATING||
-|2|SDS_RX_DISABLE||
-|1|SDS_TX_DISABLE||
-|0|SDS_FRC_LD||
+|3|SDS_PWR_GATING|serdes power gating|
+|2|SDS_RX_DISABLE|serdes RX disable|
+|1|SDS_TX_DISABLE|serdes TX disable|
+|0|SDS_FRC_LD|serdes forced link down|

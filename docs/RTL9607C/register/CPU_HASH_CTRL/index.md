@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+CPU Hash Control register
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:1|RESERVED||
-|0|EN||
+|0|EN|0 - Disable CPU trap hash<br>0 - Enable CPU trap hash|

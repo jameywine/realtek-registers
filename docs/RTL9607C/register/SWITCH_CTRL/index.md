@@ -29,5 +29,5 @@ tags:
 |5|LDNDRN_ORG||
 |4|PKTDRN_ORG||
 |3:2|CRCRECAL||
-|1|SHORT_IPG||
-|0|PAUSE_MAX128||
+|1|SHORT_IPG|cfg_ifgsel can be used|
+|0|PAUSE_MAX128|0:Maximum of 128 consecutive pause frames<br>1:Infinite pause frame count|

@@ -21,6 +21,10 @@ tags:
 
 ## Description
 
+Extra Tag Content Buffer
+Something related to L34.
+Used in rtk_rg_asic_extraTagContentBuffer_set()
+
 ## Fields
 
 

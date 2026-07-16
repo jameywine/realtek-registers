@@ -26,4 +26,4 @@ tags:
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|P_CURENT_RATE||
+|31:0|P_CURENT_RATE|the current rate for rx ingress bandwidth control|

@@ -21,9 +21,12 @@ tags:
 
 ## Description
 
+CPU Hash port control register
+Only relevant to ports on 9 and 10 i.e CPU ports.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|HASH||
+|0|HASH|0 - CPU port 9 hash<br>1 - CPU port 10 hash|

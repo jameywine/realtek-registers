@@ -27,4 +27,4 @@ tags:
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:8|RESERVED||
-|7:0|TX_ERR_CNT||
+|7:0|TX_ERR_CNT|TX error packet counter. Re-calculate the CRC and compare to the original CRC. If mismatched, this counter+1|

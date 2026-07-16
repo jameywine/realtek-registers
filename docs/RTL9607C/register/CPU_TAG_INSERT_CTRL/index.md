@@ -21,9 +21,15 @@ tags:
 
 ## Description
 
+CPU tag insert control register
+Port range is for CPU GMAC id
+GMAC id of 0 is CPU port 9
+GMAC id of 1 is CPU port 10
+GMAC id of 2 is CPU port 7
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|EN||
+|0|EN|insert CPU tag for trap port<br>0b0: disable<br>0b1: enable|

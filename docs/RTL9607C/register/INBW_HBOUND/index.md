@@ -23,4 +23,4 @@ tags:
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:24|RESERVED||
-|23:0|HBOUND||
+|23:0|HBOUND|Ingress Flow Control High Threshold Configuration.|

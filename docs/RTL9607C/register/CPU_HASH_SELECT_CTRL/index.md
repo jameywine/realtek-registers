@@ -21,9 +21,12 @@ tags:
 
 ## Description
 
+CPU Trap hash mask register
+Array corresponds to trap hash type from 0 - SPA to 6 - DPORT_INNER
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|SEL||
+|0|SEL|1 - Enable<br>0 - Disable|

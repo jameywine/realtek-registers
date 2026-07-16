@@ -21,6 +21,9 @@ tags:
 
 ## Description
 
+Extra Tag Action Type 0 Register
+Used in rtk_rg_asic_extraTagAction_add()
+
 ## Fields
 
 
