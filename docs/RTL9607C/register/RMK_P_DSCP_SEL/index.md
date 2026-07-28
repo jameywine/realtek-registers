@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+Configure DSCP remarking configuration
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|SEL||
+|0|SEL|DSCP remarking source selection for egress port<br>0b0:from internal priority<br>0b1:from original DSCP|

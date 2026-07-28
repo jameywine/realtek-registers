@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+Specify dscp remarking abilities register.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|EN||
+|0|EN|Enable/Disable DSCP remarking for a port.<br>0b0: disable<br>0b1: enable|

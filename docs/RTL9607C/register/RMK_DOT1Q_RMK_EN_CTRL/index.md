@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+Specify dot1q remarking abilities register.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|EN||
+|0|EN|Enable/Disable 1Q remarking for a port.<br>0b0: disable<br>0b1: enable|

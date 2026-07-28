@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+Configure inner-priority remarking table. Original inner-priority or internal priority can be selected to be table index controlled by IPRI_RMK_SRC.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|2:0|INTPRI_1Q||
+|2:0|INTPRI_1Q|New inner-priority for a inner-priority or a internal priority.|

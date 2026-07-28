@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+Configure DSCP remarking table
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|5:0|INTPRI_DSCP||
+|5:0|INTPRI_DSCP|New DSCP value for a DSCP value . If RMK_DSCP_CFG.SEL=1.|

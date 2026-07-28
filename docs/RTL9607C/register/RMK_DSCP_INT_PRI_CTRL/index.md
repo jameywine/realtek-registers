@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+Configure internal priority to DSCP remarking value table
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|5:0|INTPRI_DSCP||
+|5:0|INTPRI_DSCP|New DSCP value for a internal priority. If RMK_DSCP_CFG.SEL=0.|
