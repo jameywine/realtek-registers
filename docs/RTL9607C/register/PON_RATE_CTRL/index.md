@@ -17,11 +17,13 @@ tags:
 
 ## Description
 
+PON Port rate control
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:20|RESERVED||
-|19|EN_RATE_PON||
-|18:0|RATE||
+|19|EN_RATE_PON|Enable PON rate control|
+|18:0|RATE|PON rate control, unit: 8Kbps (K=1024)<br>N : BW=N*8Kbps|

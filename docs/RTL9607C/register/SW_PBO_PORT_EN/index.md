@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+Switch packet buffer overflow UTP port 11 state
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|EN||
+|0|EN|0: Disable<br>1: Enable|

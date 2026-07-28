@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+CPU trap inic hash state
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:1|RESERVED||
-|0|HASH_EN||
+|0|HASH_EN|0: Disable<br>1: Enable|

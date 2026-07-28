@@ -17,10 +17,14 @@ tags:
 
 ## Description
 
+PON Ingress Flow Control High Threshold Configuration
+Default value: 0xfe0000
+For DS PBO accumulation.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:24|RESERVED||
-|23:0|HBOUND||
+|23:0|HBOUND|Ingress Flow Control High Threshold Configuration|

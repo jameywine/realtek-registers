@@ -17,12 +17,14 @@ tags:
 
 ## Description
 
+SWPBO MAC port Low on/off threshold
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:26|RESERVED||
-|25:16|ON_TH||
+|25:16|ON_TH|port fc-on low on threshold|
 |15:10|RESERVED||
-|9:0|OFF_TH||
+|9:0|OFF_TH|port fc-on low off threshold|

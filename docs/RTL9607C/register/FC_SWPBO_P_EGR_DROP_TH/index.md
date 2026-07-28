@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+swpbo port flow control egress drop threshold
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:10|RESERVED||
-|9:0|TH||
+|9:0|TH|drop threshold|

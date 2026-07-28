@@ -17,12 +17,14 @@ tags:
 
 ## Description
 
+swpbo egress used page count
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:26|RESERVED||
-|25:16|PE_MAX_USED_PAGE_CNT||
+|25:16|PE_MAX_USED_PAGE_CNT|Maximum page count|
 |15:10|RESERVED||
-|9:0|PE_USED_PAGE_CNT||
+|9:0|PE_USED_PAGE_CNT|Current page count|

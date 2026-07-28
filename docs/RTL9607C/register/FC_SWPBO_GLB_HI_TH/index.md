@@ -17,12 +17,14 @@ tags:
 
 ## Description
 
+Switch PBO MAC global high on/off threshold flow control
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:26|RESERVED||
-|25:16|ON_TH||
+|25:16|ON_TH|global fc-on high on threshold|
 |15:10|RESERVED||
-|9:0|OFF_TH||
+|9:0|OFF_TH|global fc-on high off threshold|

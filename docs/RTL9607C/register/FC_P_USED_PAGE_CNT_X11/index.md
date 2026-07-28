@@ -17,12 +17,14 @@ tags:
 
 ## Description
 
+swpbo ingress port used page count
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:26|RESERVED||
-|25:16|P_MAX_USED_PAGE_CNT_X11||
+|25:16|P_MAX_USED_PAGE_CNT_X11|Maximum page count|
 |15:10|RESERVED||
-|9:0|P_USED_PAGE_CNT_X11||
+|9:0|P_USED_PAGE_CNT_X11|Current page count|

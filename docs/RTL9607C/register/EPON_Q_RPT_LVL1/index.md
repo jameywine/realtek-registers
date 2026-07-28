@@ -21,9 +21,12 @@ tags:
 
 ## Description
 
+epon per queue threshold report level 1
+Array range corresponds to queue id
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|15:0|CFG_LLID_RPT_LVL1||
+|15:0|CFG_LLID_RPT_LVL1|threshold report level 1 setting|

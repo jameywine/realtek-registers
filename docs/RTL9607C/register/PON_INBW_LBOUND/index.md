@@ -17,10 +17,13 @@ tags:
 
 ## Description
 
+PON Ingress Flow Control Low Threshold Configuration.
+For DS PBO accumulation
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:24|RESERVED||
-|23:0|LBOUND||
+|23:0|LBOUND|Ingress Flow Control Low Threshold Configuration.|

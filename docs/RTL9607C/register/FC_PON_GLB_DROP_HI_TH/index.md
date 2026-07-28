@@ -17,12 +17,14 @@ tags:
 
 ## Description
 
+PON MAC global drop high on/off threshold when downstream pbo drop
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:26|RESERVED||
-|25:16|ON_TH||
+|25:16|ON_TH|global drop high on threshold|
 |15:10|RESERVED||
-|9:0|OFF_TH||
+|9:0|OFF_TH|global drop high off threshold|

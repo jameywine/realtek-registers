@@ -21,9 +21,12 @@ tags:
 
 ## Description
 
+LUT SA (status?) traffic bits from lutOffset to lutOffset+31
+Array range represents starts index (lutOffset) of lut
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|IND||
+|31:0|IND|LUT traffic status|
