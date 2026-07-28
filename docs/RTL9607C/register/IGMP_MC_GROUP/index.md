@@ -21,15 +21,17 @@ tags:
 
 ## Description
 
+Specify IP multicast group IP
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |63:54|RESERVED||
-|53|VALID||
-|52:48|EXTMBRIDX||
+|53|VALID|Validity?|
+|52:48|EXTMBRIDX|Forwarding extension portmask|
 |47:43|RESERVED||
-|42:32|PMSK||
+|42:32|PMSK|Forwarding portmask|
 |31:28|RESERVED||
-|27:0|GIP||
+|27:0|GIP|GIP for IGMP snooping entry|

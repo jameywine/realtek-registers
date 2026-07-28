@@ -17,14 +17,16 @@ tags:
 
 ## Description
 
+IGMP snooping global control
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:8|RESERVED||
-|7:5|TRAP_PRIORITY||
-|4|PISO_LEAKY||
-|3|VLAN_LEAKY||
-|2|DISC_STORM_FILTER||
+|7:5|TRAP_PRIORITY|Specify the priority of trapped IGMP/MLD packets|
+|4|PISO_LEAKY|Port isolation leaky for IGMP/MLD packets<br>1: Enable Leaky<br>0: Disable Leaky|
+|3|VLAN_LEAKY|VLAN leaky for IGMP/MLD packets<br>1: Enable Leaky<br>0: Disable Leaky|
+|2|DISC_STORM_FILTER|Discard packet flow counting in storm filtering control for IGMP/MLD packets<br>1: Discard strom counting<br>0: Enable Strom counting|
 |1:0|RESERVED||
