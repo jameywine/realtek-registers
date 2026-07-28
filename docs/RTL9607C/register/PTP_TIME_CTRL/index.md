@@ -17,13 +17,15 @@ tags:
 
 ## Description
 
+The register can be used to operate the time of reference time clock.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:4|RESERVED||
-|3|PPS_EN||
-|2|TOD_EN||
-|1|PTP_TIME_LATCH||
-|0|CMD||
+|3|PPS_EN|PTP PPS Enable|
+|2|TOD_EN|PON ToD Enable|
+|1|PTP_TIME_LATCH|Latch current time to PTP_TIME_SEC and PTP_TIME_NSEC|
+|0|CMD|Enable system time tuning with system offset timer, write to clear|

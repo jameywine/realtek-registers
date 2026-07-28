@@ -17,12 +17,14 @@ tags:
 
 ## Description
 
+current nanosecond of PTP reference time clock.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:30|RESERVED||
-|29:3|NSEC_UNIT||
+|29:3|NSEC_UNIT|Nanosecond in the reference time clock.<br>(Unit: 8 nanoseconds)|
 |2:1|RESERVED||
 |0|SEC_TRANS||

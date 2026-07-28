@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+The register can be used to control transparent port.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|TRANSPARENT_PORT||
+|0|TRANSPARENT_PORT|Transparent active port for PTP messages|

@@ -21,10 +21,12 @@ tags:
 
 ## Description
 
+PTP TX Indicator of the specified port
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:1|RESERVED||
-|0|STATE||
+|0|STATE|Enable or disable|

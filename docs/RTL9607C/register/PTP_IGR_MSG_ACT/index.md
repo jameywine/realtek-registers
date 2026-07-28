@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+Ingress action config for PTP message class
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|1:0|ACT||
+|1:0|ACT|Action for ingress PTP message class x(0-7)<br>0b00: none<br>0b01: trap to CPU with PTP timestamp CPU-tag<br>0b10: Forward to transparent active port mask<br>0b11: Forward to transparent active port mask and Rx mirror to CPU with PTP timestamp CPU-tag|

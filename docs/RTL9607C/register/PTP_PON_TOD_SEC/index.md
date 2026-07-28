@@ -19,11 +19,13 @@ tags:
 
 ## Description
 
+current second of PON TOD time clock.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |63:48|RESERVED||
-|47:32|SEC_47_32||
-|31:0|SEC_31_0||
+|47:32|SEC_47_32|Second bits 47 32 in the reference time clock|
+|31:0|SEC_31_0|Second bits 31 0 in the reference time clock|

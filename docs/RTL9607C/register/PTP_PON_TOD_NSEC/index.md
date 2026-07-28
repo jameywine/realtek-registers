@@ -17,11 +17,13 @@ tags:
 
 ## Description
 
+current nanosecond of PON TOD time clock.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:30|RESERVED||
-|29:3|NSEC_UNIT||
+|29:3|NSEC_UNIT|Nanosecond in the reference time clock.<br>(Unit: 8 nanoseconds)|
 |2:0|RESERVED||

@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+Configure frequency of PTP system time
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:28|RESERVED||
-|27:0|FREQ||
+|27:0|FREQ|Frequency of PTP system time|

@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+Calculated PTP mean path delay time
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31|RESERVED||
-|30:0|DELAY||
+|30:0|DELAY|mean path delay bits 46 16 for correcting|

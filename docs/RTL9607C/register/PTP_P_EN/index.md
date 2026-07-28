@@ -21,10 +21,12 @@ tags:
 
 ## Description
 
+PTP per port state
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:1|RESERVED||
-|0|PTP_EN||
+|0|PTP_EN|enable or disable PTP state|
