@@ -23,6 +23,6 @@ tags:
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:26|RESERVED||
-|25:16|GAP_EP_OVER||
+|25:16|GAP_EP_OVER|Set egress port gap page count/threshold|
 |15:10|RESERVED||
-|9:0|GAP_OQ_OVER||
+|9:0|GAP_OQ_OVER|Set egress queue gap page count/threshold|

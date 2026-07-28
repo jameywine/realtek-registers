@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+Output drop enable configuration
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|EN||
+|0|EN|Enable Port output mode<br>1: Enabled<br>0 Disabled|

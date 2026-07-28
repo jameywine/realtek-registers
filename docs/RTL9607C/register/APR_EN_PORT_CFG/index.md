@@ -23,9 +23,11 @@ tags:
 
 ## Description
 
+APR enable configuration
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|EN||
+|0|EN|APR leaky bucket function enable setting<br>0b0:disable<br>0b1:enable|

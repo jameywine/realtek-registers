@@ -23,9 +23,11 @@ tags:
 
 ## Description
 
+APR meter index configuration
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|2:0|IDX||
+|2:0|IDX|APR meter index|

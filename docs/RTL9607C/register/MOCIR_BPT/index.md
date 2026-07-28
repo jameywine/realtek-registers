@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+bytes per tkn for mocir meter
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:8|RESERVED||
-|7:0|MOCIR_BPT||
+|7:0|MOCIR_BPT|bytes per tkn for mocir meter|

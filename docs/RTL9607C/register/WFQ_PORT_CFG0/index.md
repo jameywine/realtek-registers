@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+WFQ per-port related configuration 0
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|15:0|WEIGHT0||
+|15:0|WEIGHT0|Weight of WFQ0|

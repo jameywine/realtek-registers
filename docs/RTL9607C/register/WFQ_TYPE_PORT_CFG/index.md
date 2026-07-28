@@ -23,9 +23,11 @@ tags:
 
 ## Description
 
+Queue scheduling type
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|QUEUE_TYPE||
+|0|QUEUE_TYPE|WFQ or strict queue type setting<br>0b0:strict queue type<br>0b1:WFQ queue type|

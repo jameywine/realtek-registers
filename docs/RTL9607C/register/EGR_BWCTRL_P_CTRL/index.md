@@ -21,11 +21,13 @@ tags:
 
 ## Description
 
+egress bandwidth control per-port control register.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:20|RESERVED||
-|19:1|RATE||
-|0|IFG||
+|19:1|RATE|Egress Bandwidth Control, unit: 8Kbps (K=1024)<br>17’h1ffff : BW= full rate (line rate)<br>N : BW=N*8Kbps|
+|0|IFG|Bandwidth Control Include/Exclude Preamble & IFG (20 bytes)<br>0: exclude<br>1: Include|

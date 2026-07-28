@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+per-port queue FIFO empty status
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:12|RESERVED||
-|11:0|EMPTY||
+|11:0|EMPTY|Egress port mask which output ports’ queue FIFO is empty.|

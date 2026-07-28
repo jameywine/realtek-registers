@@ -17,11 +17,13 @@ tags:
 
 ## Description
 
+Line rate for 2.5Gbps Serdes 0
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:20|RESERVED||
-|19|EN_RATE_2500M||
-|18:0|RATE||
+|19|EN_RATE_2500M|Enable Line rate for 2.5G? |
+|18:0|RATE|2.5G line rate control, unit: 8Kbps (K=1024)<br>N : BW=N*8Kbps|

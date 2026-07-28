@@ -23,4 +23,4 @@ tags:
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:8|RESERVED||
-|7:0|BYTES_PERTKN_BWMTR||
+|7:0|BYTES_PERTKN_BWMTR|bytes per token for ONU bandwidth meter|
