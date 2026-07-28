@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+Per port low queue mask
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|7:0|LOW_QUEUE_MSK||
+|7:0|LOW_QUEUE_MSK|Per port low queue mask|

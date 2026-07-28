@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+Minimum Inter Frame Gap Control register?
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:16|EEE_TX_LPI_MINIPG_2P5G||
-|15:0|EEE_TX_LPI_MINIPG_GE||
+|31:16|EEE_TX_LPI_MINIPG_2P5G|Set minimum inter frame gap in EEE function for 2.5G Ethernet ?|
+|15:0|EEE_TX_LPI_MINIPG_GE|Set minimum inter frame gap in EEE function for Gigabit Ethernet ?|

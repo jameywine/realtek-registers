@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+Low Queue threshold
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:10|RESERVED||
-|9:0|LOW_QUEUE_TH||
+|9:0|LOW_QUEUE_TH|Low queue over threshold for EEE usage|

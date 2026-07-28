@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+Per port high queue mask
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|7:0|HIGH_QUEUE_MSK||
+|7:0|HIGH_QUEUE_MSK|Per port high queue mask|

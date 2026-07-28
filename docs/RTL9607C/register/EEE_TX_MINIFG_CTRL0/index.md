@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+Minimum Inter Frame Gap Control register?
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:16|EEE_TX_LPI_MINIPG_GELITE||
-|15:0|EEE_TX_LPI_MINIPG_FE||
+|31:16|EEE_TX_LPI_MINIPG_GELITE|Set minimum inter frame gap in EEE function for 500M ?|
+|15:0|EEE_TX_LPI_MINIPG_FE|Set minimum inter frame gap in EEE function for 100M ? |
