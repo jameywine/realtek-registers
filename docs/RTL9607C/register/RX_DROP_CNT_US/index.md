@@ -17,9 +17,11 @@ tags:
 
 ## Description
 
+PBO RX drop packet counters for PBO upstream
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|DROP_CNT||
+|31:0|DROP_CNT|PBO drop packet counters for PBO upstream|

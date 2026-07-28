@@ -17,10 +17,13 @@ tags:
 
 ## Description
 
+PON MAC trap configuration register
+The OMCI_MPCP_PRIORITY is set to 7 during dal_rtl9607c_ponmac_init()
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:3|RESERVED||
-|2:0|OMCI_MPCP_PRIORITY||
+|2:0|OMCI_MPCP_PRIORITY|OMCI MPCP priority|

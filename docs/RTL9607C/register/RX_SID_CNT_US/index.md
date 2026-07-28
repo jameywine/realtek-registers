@@ -21,9 +21,12 @@ tags:
 
 ## Description
 
+PBO RX packet counters for PBO upstream
+Array range corresponds to a group counter set
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|SID_CNT||
+|31:0|SID_CNT|PBO packet counters for PBO upstream|

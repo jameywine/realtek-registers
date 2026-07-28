@@ -23,6 +23,10 @@ tags:
 
 ## Description
 
+counter group mask for PBO upstream
+Array Range corresponds to SID number
+Port Range corresponds to group id
+
 ## Fields
 
 

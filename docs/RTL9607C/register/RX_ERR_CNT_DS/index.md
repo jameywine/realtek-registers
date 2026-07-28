@@ -17,9 +17,11 @@ tags:
 
 ## Description
 
+PBO RX error packet counters for PBO downstream
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|SID_CNT||
+|31:0|SID_CNT|PBO packet counters for PBO downstream|
