@@ -23,9 +23,12 @@ tags:
 
 ## Description
 
+Per Extension port per-protocol specifies the Protocol-and-Port-based VLAN. A packet is given to the
+specified VID if its protocol value hit the PPB configuration.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|11:0|VID||
+|11:0|VID|Protocol-and-Port-based VLAN|

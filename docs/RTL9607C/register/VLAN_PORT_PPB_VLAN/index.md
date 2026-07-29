@@ -23,12 +23,14 @@ tags:
 
 ## Description
 
+Per-port per-protocol specifies the Protocol-and-Port-based VLAN. A packet is given to the specified VID if its protocol value hit the PPB configuration.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:16|RESERVED||
-|15:13|PPB_PRI||
-|12:1|PPB_VID||
-|0|VALID||
+|15:13|PPB_PRI|VLAN 1Q priority assignmnet for PPB VLAN|
+|12:1|PPB_VID|Protocol-and-Port-based VLAN|
+|0|VALID|Valid bit.|
