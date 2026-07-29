@@ -12,6 +12,8 @@
 
 **Last updates**
 
+- Added descriptions to TABLE_ACCESS, IEEE802_1Q_VLAN, IEEE802_1V_PROTOCOL_BASED_VLAN, IEEE802_1AD_PROVIDER_BRIDGES_Q_IN_Q, PIE_TEMPLATE, INGRESS_ACL, RANGE_CHECK_PORT_VLAN_IP_L4PORT, FLOW_CLASSIFICATION_FLOW_TABLE registers and descriptions to tables under TBL_ACCESS_CTRL control on 2026-07-29
+- Added descriptions to POWER_SAVING, REMARKING, SCHEDULING, PARSER_HSB, IGMP_SNOOPING, L3_MISC, PTP_PRECISION_TIME_PROTOCOL_, OTHER, PON_MAC_SCHEDULING_CONFIG on 2026-07-28
 - Added descriptions to MAC_CONTROL registers on 2026-07-16
 - Added descriptions to CHP_INFORMATION and HW_MISC_ registers on 2026-07-12
 - Added NIC DMA descriptions and descriptions to INTERFACE and RESET registers from what is available in APOLLO register file and fixed minor issues on 2026-05-04
