@@ -23,9 +23,11 @@ tags:
 
 ## Description
 
+ACL template configuration
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|6:0|FIELD||
+|6:0|FIELD|Type of field|
