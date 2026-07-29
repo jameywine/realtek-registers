@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+default egress SVLAN configuration
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|11:0|SVID||
+|11:0|SVID|SVLAN configuration index|

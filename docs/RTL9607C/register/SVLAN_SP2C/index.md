@@ -21,13 +21,15 @@ tags:
 
 ## Description
 
+Downstream SVLAN + Egress port to CVID configuration
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:29|PRIORITY||
-|28:17|EGRVID||
-|16:13|DST_PORT||
-|12:1|IGRVID||
-|0|VALID||
+|28:17|EGRVID|Egressing CVID|
+|16:13|DST_PORT|Egressing customer port number of s-tag packet from uplink ports in SP2C configuration|
+|12:1|IGRVID|Ingress CVID|
+|0|VALID|Valid setting|

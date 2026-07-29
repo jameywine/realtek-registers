@@ -19,12 +19,14 @@ tags:
 
 ## Description
 
+SVLAN TPID configuration control register
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |63:33|RESERVED||
-|32|VS_TPID2_EN||
-|31:16|VS_TPID2||
-|15:0|VS_TPID||
+|32|VS_TPID2_EN|VLAN Stacking Protocol Type 2 Enable?|
+|31:16|VS_TPID2|VLAN Stacking Protocol Type 2?|
+|15:0|VS_TPID|VLAN Stacking Protocol Type|

@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+SVLAN uplink port mask
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|EN||
+|0|EN|SVLAN uplink port enable configuration|
