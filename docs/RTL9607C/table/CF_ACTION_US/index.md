@@ -25,20 +25,22 @@ tags:
 
 ## Description
 
+Classification upstrean action control table
+
 ## Fields
 
 |Name|LSB|Bits|Description|
 | :--- | :--- | :--- | :--- |
-|CPRI_ACT|57|3||
-|CVID_ACT|54|3||
-|C_PRI|51|3||
-|C_VID|39|12||
-|CACT|37|2||
-|DROP_TRAP_ACT|35|2||
-|ASSIGN_IDX|28|7||
-|SID_ACT|23|1||
-|CSVID_ACT|21|2||
-|CSPRI_ACT|18|3||
-|CS_PRI|15|3||
-|CS_VID|3|12||
-|CSACT|0|3||
+|CPRI_ACT|57|3|Assigned classification priority action|
+|CVID_ACT|54|3|Assigned C tag VID action|
+|C_PRI|51|3|Assigned C tag P-bits|
+|C_VID|39|12|Assigned C tag VID|
+|CACT|37|2|0b00:nop<br>0b01:un-tagging<br>0b10:Translation with C2S table<br>0b11:Transparent(ingnore VLAN egress filtering and keep egress C-tag format)|
+|DROP_TRAP_ACT|35|2|Drop Trap Action?|
+|ASSIGN_IDX|28|7|Assigned PON MAC stream ID or QID|
+|SID_ACT|23|1|0b0:Assign to SID<br>0b1:Assign to QID|
+|CSVID_ACT|21|2|0b00:Assigned to VID<br>0b01:Copy from 1st tag VID (if 1st tag is not existed, then using CS_VID)<br>0b10:Copy from 2nd tag VID (if 2nd tag is not existed, then using CS_VID)<br>Other:reserved|
+|CSPRI_ACT|18|3|Assigned Stag P-bits Action|
+|CS_PRI|15|3|Assigned Stag P-bits|
+|CS_VID|3|12|Assigned Stag VID|
+|CSACT|0|3|0b000:nop (follow switch-core)<br>0b001:add classification tag which TPID as VS_TPID (reference to CSVID_ACT/CSPRI_ACT)<br>0b010:add classification tag which TPID as 0x8100 (reference to CSVID_ACT/CSPRI_ACT)<br>0b011:delete Stag<br>0b100: transparent<br>Other: reserved|

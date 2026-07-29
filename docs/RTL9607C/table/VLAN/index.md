@@ -25,13 +25,15 @@ tags:
 
 ## Description
 
+VLAN Table
+
 ## Fields
 
 |Name|LSB|Bits|Description|
 | :--- | :--- | :--- | :--- |
-|EXT_MASKIDX|26|5||
-|IVL_SVL|25|1||
+|EXT_MASKIDX|26|5|extension mask index?|
+|IVL_SVL|25|1|IVL=1 or SVL=0|
 |SVLAN_CHK_IVL_SVL|24|1||
-|FID_MSTI|22|2||
-|UNTAG|11|11||
-|MBR|0|11||
+|FID_MSTI|22|2|FID or MSTI|
+|UNTAG|11|11|untag set|
+|MBR|0|11|VLAN member|

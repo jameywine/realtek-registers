@@ -25,15 +25,17 @@ tags:
 
 ## Description
 
+L3 Table (Multicast)
+
 ## Fields
 
 |Name|LSB|Bits|Description|
 | :--- | :--- | :--- | :--- |
-|VALID|79|1||
-|EXT_MBRIDX|74|5||
-|MBR|63|11||
+|VALID|79|1|valid bit|
+|EXT_MBRIDX|74|5|extension port member index|
+|MBR|63|11|port member|
 |IVL_SVL|62|1||
-|NOT_SALEARN|61|1||
-|L3LOOKUP|60|1||
-|FID|30|2||
-|GIP|0|28||
+|NOT_SALEARN|61|1|ASIC auto SA learning indicator<br>0:ASIC auto learning|
+|L3LOOKUP|60|1|IP Multicast<br>0b0: Non IP multicast entry<br>0b1: IP multicast entry|
+|FID|30|2|FID|
+|GIP|0|28|Group IP address|

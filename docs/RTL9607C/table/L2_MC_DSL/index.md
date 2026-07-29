@@ -25,15 +25,17 @@ tags:
 
 ## Description
 
+L2 Table (Multicast)
+
 ## Fields
 
 |Name|LSB|Bits|Description|
 | :--- | :--- | :--- | :--- |
-|VALID|79|1||
-|EXT_MBRIDX|74|5||
-|MBR|63|11||
-|IVL_SVL|62|1||
-|NOT_SALEARN|61|1||
-|L3LOOKUP|60|1||
-|VID_FID|48|12||
-|MAC|0|48||
+|VALID|79|1|CAM valid bit|
+|EXT_MBRIDX|74|5|extension port member index|
+|MBR|63|11|port member|
+|IVL_SVL|62|1|IVL=1 or SVL=0|
+|NOT_SALEARN|61|1|ASIC auto SA learning indicator<br>0:ASIC auto learning|
+|L3LOOKUP|60|1|IP Multicast<br>0b0: Non IP multicast entry<br>0b1: IP multicast entry|
+|VID_FID|48|12|12-bits VID for IVL<br>4-bits FID for SVL|
+|MAC|0|48|MAC address|
