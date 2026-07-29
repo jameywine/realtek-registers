@@ -21,9 +21,13 @@ tags:
 
 ## Description
 
+classification template index
+
+array range corresponds to entry index.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|1:0|SEL||
+|1:0|SEL|Index of the classification template.<br>0: Table CF_RULE_T0/CF_MASK_T0<br>1: Table CF_RULE_T1/CF_MASK_T1<br>2: Table CF_RULE_T2/CF_MASK_T2|

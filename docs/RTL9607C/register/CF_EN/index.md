@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+CF port selection, only pon port and RGMII port can be enabled
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|EN||
+|0|EN|0: Disable Classification<br>1: Enable Classification|

@@ -17,11 +17,13 @@ tags:
 
 ## Description
 
+Classification function configuration
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:4|RESERVED||
-|3:1|CF_TRAP_PRI||
-|0|CF_US_PERMIT||
+|3:1|CF_TRAP_PRI|CF trap priority|
+|0|CF_US_PERMIT|Permit packet which unmatch upstream classification rules<br>0b0: permit as normal forward<br>0b1: permit without PON port forwarding|
