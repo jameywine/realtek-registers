@@ -21,16 +21,18 @@ tags:
 
 ## Description
 
+ACL action configuration
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:7|RESERVED||
-|6|NOT||
-|5|INT_CF||
-|4|FWD||
-|3|POLICING||
-|2|PRI||
-|1|SVLAN||
-|0|CVLAN||
+|6|NOT|NOT operation of ACL|
+|5|INT_CF|Interrupt and classifcation control|
+|4|FWD|Forwading action control|
+|3|POLICING|Policing action control|
+|2|PRI|Priority action control|
+|1|SVLAN|SVLAN action control|
+|0|CVLAN|CVLAN action control|

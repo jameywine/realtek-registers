@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+ACL function configuration
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:8|RESERVED||
-|7:0|CFHITLATCH||
+|7:0|CFHITLATCH|Latch hit ACL index for classification check pattern|

@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+ACL permit configuration.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|PERMIT||
+|0|PERMIT|Per port permit ACL unmatched packet setting<br>0b0:drop<br>0b1:permit|
