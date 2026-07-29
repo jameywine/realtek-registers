@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+Table Access Write Data register
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|DATA||
+|31:0|DATA|Data content bits of the entry for the specified table.|

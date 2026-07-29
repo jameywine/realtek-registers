@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+NAT Table Access Write Data register
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|WRDATA||
+|31:0|WRDATA|Write data content bits of the entry for the specified table.|

@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+NAT Table Access Read Data register
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|RDDATA||
+|31:0|RDDATA|Read data content bits of the entry for the specified table.|
