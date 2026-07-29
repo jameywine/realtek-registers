@@ -21,12 +21,14 @@ tags:
 
 ## Description
 
+L4 port range check configuration.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |63:34|RESERVED||
-|33:32|TYPE||
-|31:16|L4PORT_UPPER||
-|15:0|L4PORT_LOWER||
+|33:32|TYPE|Range checking data type<br>0x0:non-valid<br>0x1:soruce port range check<br>0x2:destination range check<br>0x3:reserved|
+|31:16|L4PORT_UPPER|TCP/UDP port upper bound.|
+|15:0|L4PORT_LOWER|TCP/UDP port lower bound.|

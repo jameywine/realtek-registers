@@ -21,12 +21,14 @@ tags:
 
 ## Description
 
+L4 packet length range check configuration.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:29|RESERVED||
-|28|TYPE||
-|27:14|PKTLEN_UPPER||
-|13:0|PKTLEN_LOWER||
+|28|TYPE|Range checking data type<br>0x0:don’t revise the compare result<br>0x1:revise the compare result|
+|27:14|PKTLEN_UPPER|Packet length upper bound.|
+|13:0|PKTLEN_LOWER|Packet length lower bound.|
