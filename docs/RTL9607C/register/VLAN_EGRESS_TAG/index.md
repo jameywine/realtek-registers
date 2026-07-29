@@ -21,10 +21,12 @@ tags:
 
 ## Description
 
+VLAN tag egress format
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:2|RESERVED||
-|1:0|EGRESS_MODE||
+|1:0|EGRESS_MODE|Per-port VLAN tag egress format<br>0b00: Original mode. Output frame will follow VLAN untag setting.<br>0b01: Keep format mode. Output frame will keep VLAN original format.<br>0b10: Priority tag mode. Output frame will be priority tag.<br>0b11: Keep format mode. Output frame will keep VLAN original format.(the same as 0b01)|

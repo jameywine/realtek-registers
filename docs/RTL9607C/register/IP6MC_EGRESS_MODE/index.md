@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+VLAN IPv6 multicast egress mode?
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|1:0|VLAN_IP6MC_EGRESS_MODE||
+|1:0|VLAN_IP6MC_EGRESS_MODE|Per-port VLAN IPv6 multicast egress mode?|

@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+VLAN IPv4 multicast egress mode?
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|1:0|VLAN_IP4MC_EGRESS_MODE||
+|1:0|VLAN_IP4MC_EGRESS_MODE|Per-port VLAN IPv4 multicast egress mode?|

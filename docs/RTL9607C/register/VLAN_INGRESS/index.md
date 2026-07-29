@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+VLAN ingress function setting
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|INGRESS||
+|0|INGRESS|VLAN per-Port enable VLAN ingress function setting<br>0b0:disable port vlan ingress filtering<br>0b1:enable|

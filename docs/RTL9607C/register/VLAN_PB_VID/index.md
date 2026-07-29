@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+Port-based VID configuration.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|11:0|VID||
+|11:0|VID|Port Based VID|

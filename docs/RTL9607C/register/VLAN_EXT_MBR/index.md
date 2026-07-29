@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+VLAN Extension memebr configuation
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|17:0|MBR||
+|17:0|MBR|Extension VLAN member|
