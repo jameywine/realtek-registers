@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+Storm control meter index formulticast
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|5:0|IDX||
+|5:0|IDX|multicast storm meter index|

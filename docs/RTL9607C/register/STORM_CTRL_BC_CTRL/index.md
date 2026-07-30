@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+Storm control global configuration for broadcast.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|EN||
+|0|EN|Per port broadcasting storm filtering setting<br>0b0:disable broadcasting storm filtering<br>0b1:enable broadcasting storm filtering|

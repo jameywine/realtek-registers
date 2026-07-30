@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+Storm control global configuration for IGMP/MLD.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|EN||
+|0|EN|Per port IGMP/MLD storm filtering setting.<br>0: disable.<br>1: enable.|

@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+Storm control global configuration for unknown multicast
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|EN||
+|0|EN|Per port unkown multicasting storm filtering setting<br>0b0:disable unkown multicasting storm filtering<br>0b1:enable unkown multicasting storm filtering|

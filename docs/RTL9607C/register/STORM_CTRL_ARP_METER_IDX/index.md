@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+Storm control meter index for ARP
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|5:0|IDX||
+|5:0|IDX|ARP storm meter index|

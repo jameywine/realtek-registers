@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+Storm control meter index for unknown multicast
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|5:0|IDX||
+|5:0|IDX|unknown multicast storm meter index|

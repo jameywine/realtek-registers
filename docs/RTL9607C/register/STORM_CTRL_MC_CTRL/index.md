@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+Storm control global configuration for multicast
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|EN||
+|0|EN|Per port multicasting storm filtering setting<br>0b0:disable multicasting storm filtering<br>0b1:enable multicasting storm filtering|

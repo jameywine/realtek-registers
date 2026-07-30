@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+Storm control global configuration for unknown unicast
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|EN||
+|0|EN|Per port unkown unicasting storm filtering setting<br>0b0:disable unkown unicasting storm filtering<br>0b1:enable unkown unicasting storm filtering|
