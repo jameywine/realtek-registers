@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+unknow IPv4 multicast register
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|1:0|ACT||
+|1:0|ACT|unknow IPv4 multicast frame behavior<br>0b00: normal flooding<br>0b01: drop packet, exclude IP 224.0.0.x and IGMP packets<br>0b10: trap to CPU, exclude IP 224.0.0.x and IGMP packets<br>0b11: reserved|

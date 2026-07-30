@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+unknown unicast DA control register
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|1:0|ACT||
+|1:0|ACT|Drop/Trap packet if unicast DA is unknown<br>0b00: normal flooding<br>0b01: drop packet, exclude IGMP/MLD packets<br>0b10: trap to CPU, exclude IGMP/MLD packets<br>0b11: reserved|

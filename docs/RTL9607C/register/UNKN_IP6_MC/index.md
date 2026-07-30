@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+unknow IPv6 multicast register
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|1:0|ACT||
+|1:0|ACT|unknow IPv6 multicast frame behavior<br>0b00: normal flooding<br>0b01: drop packet, exclude IP [FFXX::/8] and MLD packets<br>0b10: trap to CPU, exclude IP [FFXX::/8] and MLD packets<br>0b11: reserved|

@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+system learning limit count register
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|EN||
+|0|EN|the port mask that indicate which port(s) are counted into system learning count.|

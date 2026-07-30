@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+LUT system learning over control register
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:2|RESERVED||
-|1:0|ACT||
+|1:0|ACT|Auto leaning number exceed behavior<br>0b00: normal flooding<br>0b01: drop packet<br>0b10: trap to CPU<br>0b11: Copy to cPU|

@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+LUT Broadcast Behave register
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|1:0|ACTION||
+|1:0|ACTION|0: Forward.<br>1: Trap to CPU.<br>2: Follow FB.|

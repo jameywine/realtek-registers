@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+LUT broadcast flooding control register
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|EN||
+|0|EN|Egress port mask for broadcast(ff-ff-ff-ff-ff-ff) flooding packets<br>0b0: drop<br>0b1: normal flooding|

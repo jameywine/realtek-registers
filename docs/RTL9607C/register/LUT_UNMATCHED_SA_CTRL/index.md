@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+unmatched SA control register
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|1:0|ACT||
+|1:0|ACT|Drop/Trap packet if SA is not from the same source port as L2 SPA<br>0b00: normal<br>0b01: drop packet & disable learning<br>0b10: trap to CPU<br>0b11: copy to CPU|

@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+L2 learning system-wised limitation entry number register
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:12|RESERVED||
-|11:0|SYS_LRN_LIMITNO||
+|11:0|SYS_LRN_LIMITNO|system learning limit number|

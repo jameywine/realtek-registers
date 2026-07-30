@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+L2 per-port learning over event register
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|LRN_OVER_IND||
+|0|LRN_OVER_IND|L2 learning over ever occurs|

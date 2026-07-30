@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+LUT aging control register
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|AGEOUT_OUT||
+|0|AGEOUT_OUT|per port aging out enable/disable setting<br>0b0:disable aging out<br>0b1:enable aging out|

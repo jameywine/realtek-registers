@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+unknow L2 multicast register
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|1:0|ACT||
+|1:0|ACT|unknow L2 multicast frame behavior<br>0b00: normal flooding<br>0b01: drop packet<br>0b10: trap to CPU<br>0b11: drop packet exclude RMA|

@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+unknown SA control register
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|1:0|ACT||
+|1:0|ACT|Drop/Trap packet if SA is unknown 0b00: normal 0b01: drop packet & disable learning 0b10: trap to CPU 0b11: copy to CPU|

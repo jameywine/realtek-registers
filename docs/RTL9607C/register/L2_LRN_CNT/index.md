@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+Number of SA learned register
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|11:0|L2_LRN_CNT||
+|11:0|L2_LRN_CNT|Number of SA learned on Port index 0-10:per-port counter|

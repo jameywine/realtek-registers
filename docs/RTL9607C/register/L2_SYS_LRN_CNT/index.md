@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+System Number of SA learned register
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:12|RESERVED||
-|11:0|SYS_L2_LRN_CNT||
+|11:0|SYS_L2_LRN_CNT|Whole system number of SA learned counter|

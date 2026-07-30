@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+LUT extension port member register
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|17:0|MBR||
+|17:0|MBR|extension port member mask|

@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+LUT unknown unicast flooding control register
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|EN||
+|0|EN|Egress port mask for unknown unicast flooding packets<br>0b0: drop<br>0b1: normal flooding|

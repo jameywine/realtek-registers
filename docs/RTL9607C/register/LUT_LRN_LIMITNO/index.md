@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+L2 learning limitation entry number register
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|11:0|NUM||
+|11:0|NUM|L2 learning limitation entry number. ASIC supports 2K LUT entries and L2 learning limitation is for auto-learning L2 entry number. Set register to value 0xFFF for non-limitation|

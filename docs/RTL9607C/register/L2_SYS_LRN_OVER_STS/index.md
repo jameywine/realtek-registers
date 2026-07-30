@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+L2 system learning over event register
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:1|RESERVED||
-|0|LRN_OVER_IND||
+|0|LRN_OVER_IND|L2 system learning over ever occurs|

@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+LUT unicast WAN enable register
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|EN||
+|0|EN|port mask for unicast WAN|

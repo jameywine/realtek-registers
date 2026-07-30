@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+unmatched VLAN control register
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|ACT||
+|0|ACT|forwarding action when vid learning unmatch happen on specified port.<br>0: Forward.<br>1: Trap to CPU.|
