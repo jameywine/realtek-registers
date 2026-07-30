@@ -17,6 +17,8 @@ tags:
 
 ## Description
 
+L2 configurations
+
 ## Fields
 
 
@@ -24,4 +26,4 @@ tags:
 | :--- | :--- | :--- |
 |31:6|RESERVED||
 |5:3|PTP_TRAP_PRI||
-|2:0|L2_TRAP_PRI||
+|2:0|L2_TRAP_PRI|L2 Trap Priority|

@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+per EXT port block packet forwarding
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|EN||
+|0|EN|per EXT port block packet forwarding which receiving from the same port<br>0b0:enable block<br>0b1:forward|
