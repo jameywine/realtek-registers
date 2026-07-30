@@ -17,9 +17,11 @@ tags:
 
 ## Description
 
+OMCI TX packet counter
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|OMCITXPKTCNT||
+|31:0|OMCITXPKTCNT|OMCI TX packet counter|

@@ -17,9 +17,11 @@ tags:
 
 ## Description
 
+dot3LLIDRxBroadcastFramesDrop
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|DOT3LLIDRXBROADCASTFRAMESDROP||
+|31:0|DOT3LLIDRXBROADCASTFRAMESDROP|A count of the number of times a frame drop occurs by egress for all SBC frames.|

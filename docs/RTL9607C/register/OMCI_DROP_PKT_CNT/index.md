@@ -17,9 +17,11 @@ tags:
 
 ## Description
 
+OMCI drop packet counter
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|OMCIDROPPKTCNT||
+|31:0|OMCIDROPPKTCNT|OMCI Drop packet counter|

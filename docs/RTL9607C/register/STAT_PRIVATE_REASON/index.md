@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+Specify per-port packet debug information
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|10:0|PKT_INFO||
+|10:0|PKT_INFO|port index 0 10:per-port the newest packet trap/drop reason|

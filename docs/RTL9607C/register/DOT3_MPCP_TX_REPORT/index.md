@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+dot3MpcpTxReport counter
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|DOT3MPCPTXREPORT||
+|31:0|DOT3MPCPTXREPORT|A count of the number of times a REPORT MPCP frame transmission occurs.|

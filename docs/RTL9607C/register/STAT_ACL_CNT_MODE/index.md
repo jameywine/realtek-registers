@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+ACL logging counter mode
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|MODE||
+|0|MODE|ACL logging counter m(0,2,4,..30) mode<br>0b0:32bits mode<br>0b1:64bits mode|

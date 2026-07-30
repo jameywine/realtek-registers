@@ -17,9 +17,11 @@ tags:
 
 ## Description
 
+dot3EponFecCorrectedBlocks
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|DOT3EPONFECCORRECTEDBLOCKS||
+|31:0|DOT3EPONFECCORRECTEDBLOCKS|it is a count of correctable FEC blocks.|

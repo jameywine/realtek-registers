@@ -17,9 +17,11 @@ tags:
 
 ## Description
 
+dot3MpcpTxRegRequest
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|DOT3MPCPTXREGREQUEST||
+|31:0|DOT3MPCPTXREGREQUEST|A count of the number of times a REGISTER_REQ MPCP frame transmission occurs.|

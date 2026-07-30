@@ -17,9 +17,11 @@ tags:
 
 ## Description
 
+dot3OmpEmulationBroadcastBitNotOnuLlid
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|BROADCASTBITNOTONULLID||
+|31:0|BROADCASTBITNOTONULLID|A count of frames received that contain a valid SLD field, pass the CRC-8 check, contain the broadcast bit in the LLID and not the ONUs LLID|

@@ -17,9 +17,11 @@ tags:
 
 ## Description
 
+dot3EponFecUncorrectableBlocks
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|DOT3EPONFECUNCORRECTABLEBLOCKS||
+|31:0|DOT3EPONFECUNCORRECTABLEBLOCKS|For 10PASS-TS, 2BASE-TL, and 1000BASE-PX PHYs, it is a count of uncorrectable FEC blocks. This counter will not increment for other PHY Types. Increment the counter by one for each FEC block that is determined to be uncorrectable by the FEC function in the PHY.|

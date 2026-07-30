@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+Specify Classification hit reason
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:9|RESERVED||
-|8:0|CF_HIT_INFO||
+|8:0|CF_HIT_INFO|Classification hit reason|

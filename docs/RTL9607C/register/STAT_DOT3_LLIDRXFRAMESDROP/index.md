@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+dot3LLIDRxFramesDrop
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|DOT3LLIDRXFRAMESDROP||
+|31:0|DOT3LLIDRXFRAMESDROP|A count of the number of times a frame drop occurs by ALE egress for this LLID.|

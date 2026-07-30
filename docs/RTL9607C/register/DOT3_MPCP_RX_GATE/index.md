@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+dot3MpcpRxGate counter
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|DOT3MPCPRXGATE||
+|31:0|DOT3MPCPRXGATE|A count of the number of times a GATE MPCP frame reception occurs. (exclude discovery gate)|

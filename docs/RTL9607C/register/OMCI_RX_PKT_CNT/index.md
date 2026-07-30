@@ -17,9 +17,11 @@ tags:
 
 ## Description
 
+OMCI RX packet counter
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|OMCIRXPKTCNT||
+|31:0|OMCIRXPKTCNT|OMCI RX packet counter|

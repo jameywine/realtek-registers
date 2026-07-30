@@ -17,14 +17,16 @@ tags:
 
 ## Description
 
+MIB reset configurations
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:7|RESERVED||
-|6|BUSY_STAT||
-|5|RST_CMD||
-|4:2|RST_LLID_IDX||
-|1|RST_LLID||
-|0|RST_EPON_MIB||
+|6|BUSY_STAT|Busy status for reset operation|
+|5|RST_CMD|Reset MIB and counter (clear by ASIC)|
+|4:2|RST_LLID_IDX|LLID table index|
+|1|RST_LLID|Reset the specified LLID index counters|
+|0|RST_EPON_MIB|Reset EPON global counters|

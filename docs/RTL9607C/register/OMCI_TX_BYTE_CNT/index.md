@@ -17,9 +17,11 @@ tags:
 
 ## Description
 
+OMCI TX byte counter
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|OMCITXBYTECNT||
+|31:0|OMCITXBYTECNT|OMCI TX byte counter|

@@ -21,10 +21,12 @@ tags:
 
 ## Description
 
+Per port stanadard OAM MIB counters.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |63:32|OUTOAMPDUPKTS||
-|31:0|INOAMPDUPKTS||
+|31:0|INOAMPDUPKTS|Number of received OAMPDUs.|

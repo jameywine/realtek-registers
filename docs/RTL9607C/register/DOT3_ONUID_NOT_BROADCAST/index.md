@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+dot3OmpEmulationOnuLLIDNotBroadcast
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|ONULLIDNOTBROADCAST||
+|31:0|ONULLIDNOTBROADCAST|A count of frames received that contain a valid SLD field, pass the CRC-8 check, and contain the ONU’s LLID.|

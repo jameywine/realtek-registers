@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+ACL logging counter type
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|TYPE||
+|0|TYPE|ACL logging counter byte/packet count<br>0b0:Packet count<br>0b1:Byte count|

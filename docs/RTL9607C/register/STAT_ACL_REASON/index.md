@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+Specify ACL hit reason
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|7:0|ACL_HIT_INFO||
+|7:0|ACL_HIT_INFO|ACL hit rule reason|

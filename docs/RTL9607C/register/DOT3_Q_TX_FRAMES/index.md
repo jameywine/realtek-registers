@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+dot3ExtPkgStatTxFramesQueue
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|DOT3EXTPKGSTATTXFRAMESQUEUE||
+|31:0|DOT3EXTPKGSTATTXFRAMESQUEUE|A count of the number of times a frame transmisRO sion occurs from the corresponding ’Queue’. Increment the counter by one for each frame transmitted, which is an output of the ’Queue’.|

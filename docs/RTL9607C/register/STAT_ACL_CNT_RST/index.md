@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+ACL logging counter reset
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|EN||
+|0|EN|Reset ACL logging counter<br>0b0:disable<br>0b1:enable resetting|

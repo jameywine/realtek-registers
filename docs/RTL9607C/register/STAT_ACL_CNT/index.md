@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+ACL logging counter
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|LOGGINGCOUNTER||
+|31:0|LOGGINGCOUNTER|Logging counter for ACL action|

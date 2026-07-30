@@ -17,9 +17,11 @@ tags:
 
 ## Description
 
+dot3MpcpRxDiscoveryGate
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|DOT3MPCPRXDISCOVERYGATE||
+|31:0|DOT3MPCPRXDISCOVERYGATE|rx dicovery gate number.|

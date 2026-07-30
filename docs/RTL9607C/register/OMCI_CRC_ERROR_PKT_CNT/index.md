@@ -17,9 +17,11 @@ tags:
 
 ## Description
 
+OMCI CRC Error counter
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|OMCICRCERRORPKTCNT||
+|31:0|OMCICRCERRORPKTCNT|OMCI CRC Error packet counter|
