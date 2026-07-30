@@ -23,9 +23,11 @@ tags:
 
 ## Description
 
+MSTP Port State register
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|1:0|STATE||
+|1:0|STATE|Port status of multiple spanning tree<br>0b00: Disabled State<br>0b01: Blocking/Listening State<br>0b10: Learning State<br>0b11: Forwarding State|
