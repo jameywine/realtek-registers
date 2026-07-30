@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+L2 table per-port flush enable register.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|EN||
+|0|EN|Per-port L2 entries flush portmask|
