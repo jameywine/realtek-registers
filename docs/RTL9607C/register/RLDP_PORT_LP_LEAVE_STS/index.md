@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+RLDP leave looped state of port 0-4
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|STS||
+|0|STS|Port status leave looped, write 1 to clear|

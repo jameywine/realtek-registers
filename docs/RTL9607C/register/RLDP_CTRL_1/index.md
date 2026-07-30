@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+RLDP protocol control 1
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:1|RESERVED||
-|0|EN||
+|0|EN|Enable/Disable RLDP<br>0b0: Disable<br>0b1: Enable|

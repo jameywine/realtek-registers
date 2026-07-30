@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+RLDP protocol control 0
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:1|RESERVED||
-|0|ACT_RUNOUTDSC||
+|0|ACT_RUNOUTDSC|RLDP action while descriptors run-out state<br>1: Not drop RLDP packet besides DSC run out.<br>0: Drop RLDP packet when DSC run out.|

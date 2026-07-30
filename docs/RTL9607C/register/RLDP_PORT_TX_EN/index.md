@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+RLDP packet transmit control of port 0-4
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|EN||
+|0|EN|per-port enable/disable TX RLDP packets<br>0b0: Disable<br>0b1: Enable|

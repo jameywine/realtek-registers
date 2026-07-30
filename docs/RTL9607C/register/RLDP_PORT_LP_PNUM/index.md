@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+RLDP looped port number of port 0-4
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|3:0|P_NUM||
+|3:0|P_NUM|per-port looped port number|
