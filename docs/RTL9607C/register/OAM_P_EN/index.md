@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+OAM per-port enable register
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|EN||
+|0|EN|forwarding action of trapped oam PDU on specified port<br>0b0: disable (i.e forward)<br>0b1: enable OAM function and will trap OAM packet to CPU|

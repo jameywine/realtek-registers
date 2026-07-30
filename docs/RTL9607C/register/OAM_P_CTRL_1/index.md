@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+OAM per-port control register 1
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|OAM_MULTIPLEXER||
+|0|OAM_MULTIPLEXER|OAM MULTIPLEXER(transmitting multiplexing function) action.<br>0b00 FWD(default)<br>-Normal process<br>-Forwarding non-OAMPDUs<br>0b01-DISCARD<br>-Discarding non-OAMPDUs<br>0b10-CPUONLY<br>- Transmitting PDUs from CPU only.<br>0b11-reserved(as FWD)|

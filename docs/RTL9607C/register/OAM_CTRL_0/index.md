@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+OAM system control register
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:3|RESERVED||
-|2:0|OAM_PRIORITY||
+|2:0|OAM_PRIORITY|Trap priority for OAM trapping packets|

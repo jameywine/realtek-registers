@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+OAM per-port control register 0
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|1:0|OAM_PARSER||
+|1:0|OAM_PARSER|OAM layer PARSER(receiving parsing function) action.<br>0b00-FWD(default)<br>-Normal process<br>-Forwarding non-OAMPDUs<br>0b01-LB(loopback)<br>-Looping back non-OAMPDUs,<br>-drop CRC and receiving FAILED packets<br>-trap OAMPDUs to CPU<br>0b10-DISCARD|
