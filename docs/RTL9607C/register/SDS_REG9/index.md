@@ -23,4 +23,4 @@ tags:
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:16|RESERVED||
-|15:0|SP_CFG_EEE_PROGRAM_0||
+|15:0|SP_CFG_EEE_PROGRAM_0|force mode of lpi control signal|

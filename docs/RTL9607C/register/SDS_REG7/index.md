@@ -28,8 +28,8 @@ tags:
 |13|SP_CFG_MIIXF_TS1K||
 |12|SP_CFG_DLY_PRE8||
 |11|SP_CFG_GRXD_SEL||
-|10|SP_CFG_LPI_CMD_MII||
-|9|SP_CFG_MARK_RXSCR_ERR||
-|8|SP_CFG_MARK_TXSCR_ERR||
-|7:4|SP_BYP_START||
-|3:0|SP_BYP_END||
+|10|SP_CFG_LPI_CMD_MII|lpi command surpport mii interface|
+|9|SP_CFG_MARK_RXSCR_ERR|mark the carrier error when enable scrambler<br>0: disable "mark the carrier error"<br>1: enable "mark the carrier error"|
+|8|SP_CFG_MARK_TXSCR_ERR|mark the carrier error when enable scrambler<br>0: disable "mark the carrier error"<br>1: enable "mark the carrier error"|
+|7:4|SP_BYP_START|Scrambler bypass start, which is to generate the scrambler mask, (this function is done for being compatible with old serdes architecture)<br>0 9: to mask the bit position 0 9|
+|3:0|SP_BYP_END|Scrambler bypass end, which is to generate the scrambler mask, (this function is done for being compatible with old serdes architecture)<br>0 9: to mask the bit position 0 9|

@@ -29,4 +29,4 @@ tags:
 |12|SP_CFG_QSGMII_PARITY_CHK||
 |11|SP_CFG_DBG_S0||
 |10|SP_CFG_SDS_DBG_EN||
-|9:0|SP_CFG_SDS_DBG_SEL||
+|9:0|SP_CFG_SDS_DBG_SEL|select signal for debug mux|

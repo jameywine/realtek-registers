@@ -23,7 +23,7 @@ tags:
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:16|RESERVED||
-|15|SP_LPI_TRANSMIT_STYLE||
+|15|SP_LPI_TRANSMIT_STYLE|EEE lpi command transmit when changed|
 |14:12|SP_PWRSV_INB_PERIOD||
 |11|SP_PWRSV_WAKEUP_C2||
 |10|SP_PWRSV_WAKEUP_C1||

@@ -21,6 +21,10 @@ tags:
 
 ## Description
 
+Responsible for mdi Amp voltage of internal PHYs?
+
+Used in _dal_rtl9607c_switch_mdiAmpVoltage() for RTL9607C-VA chips
+
 ## Fields
 
 
