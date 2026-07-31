@@ -21,9 +21,13 @@ tags:
 
 ## Description
 
+CPU Force LED Register
+
+LED also can force by CPU by setting LED source to CPU force mode. The force value can be controlled by this register.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|1:0|SEL_LED_FORCE_VALUE||
+|1:0|SEL_LED_FORCE_VALUE|00: force 0<br>01: force 1<br>10: force blinking<br>11: reserved|

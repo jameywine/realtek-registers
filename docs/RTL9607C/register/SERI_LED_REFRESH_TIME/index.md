@@ -17,10 +17,14 @@ tags:
 
 ## Description
 
+Serial LED Refresh Register.
+
+The refresh time of serial mode LED would be controlled by following register.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:2|RESERVED||
-|1:0|CFG_SERI_LED_REGRESH_TIME||
+|1:0|CFG_SERI_LED_REGRESH_TIME|select serial LED refresh time<br>00 = 16 ms<br>01 = 32 ms<br>10 = 64 ms (default)<br>11 = 128 ms|
