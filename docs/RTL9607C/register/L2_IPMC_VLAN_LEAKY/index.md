@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+L3 Multicast VLAN leaky function
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|EN||
+|0|EN|VLAN leaky for IPv4/IPv6 multicast packets<br>0b0:diable<br>0b1:enable|
