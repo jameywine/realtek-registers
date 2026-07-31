@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+Specify a 3-bit internal priority for 1Q priority.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|2:0|INTPRI_1Q||
+|2:0|INTPRI_1Q|802.1Q priority remapping|

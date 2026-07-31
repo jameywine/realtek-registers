@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+Specify a 3-bit internal priority for a port.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|2:0|INTPRI_PB||
+|2:0|INTPRI_PB|Port-based internal priority.|

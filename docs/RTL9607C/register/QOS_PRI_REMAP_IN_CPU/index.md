@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+Specify internal-priority to packets that normal forwarded to CPU port.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|2:0|PRI||
+|2:0|PRI|Internal priority mapping to the packets that normal forworded to CPU.|

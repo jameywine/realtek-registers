@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+Specify a 3-bit internal priority for a DSCP value.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|2:0|INTPRI_DSCP||
+|2:0|INTPRI_DSCP|Remap DSCP to internal priority.|

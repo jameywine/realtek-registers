@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+priority selection group table configuration
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|1:0|SEL||
+|1:0|SEL|priority selection group for specified port|
