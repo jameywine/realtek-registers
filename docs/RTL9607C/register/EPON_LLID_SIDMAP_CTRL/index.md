@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+Specify priority-to-sid map to EPON LLID index.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|1:0|IDX||
+|1:0|IDX|The index of QID mapping table|

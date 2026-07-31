@@ -17,11 +17,13 @@ tags:
 
 ## Description
 
+QoS uni trap priority control
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:4|RESERVED||
-|3:1|UNI_TRAP_PRIORITY||
-|0|ASSIGN_UNI_TRAPRI||
+|3:1|UNI_TRAP_PRIORITY|priority of uni trap priority|
+|0|ASSIGN_UNI_TRAPRI|uni-trap-priority state for all kinds of trap to cpu|

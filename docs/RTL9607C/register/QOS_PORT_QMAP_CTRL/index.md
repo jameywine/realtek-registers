@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+Specify output queue number 1 8 to a port.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|1:0|IDX||
+|1:0|IDX|The index of QID mapping table|

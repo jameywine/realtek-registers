@@ -23,9 +23,11 @@ tags:
 
 ## Description
 
+Specify valid queue ID to each internal-priority in different QID mapping table of output queue.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|2:0|PRI_TO_QID||
+|2:0|PRI_TO_QID|Internal priority mapping to queue ID<br>0x0 0x7: queue ID 0 7|
