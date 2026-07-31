@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+Reserved Multicast Address control configuration
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:3|RESERVED||
-|2:0|RMA_TRAP_PRIORITY||
+|2:0|RMA_TRAP_PRIORITY|RMA trap priority assignment for frames be trapped to CPU port|
