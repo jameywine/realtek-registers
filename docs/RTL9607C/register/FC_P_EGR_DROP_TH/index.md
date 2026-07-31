@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+Specify per port egress drop threshold
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|9:0|TH||
+|9:0|TH|The threshold of per port egress drop.|

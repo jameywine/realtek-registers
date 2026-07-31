@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+Per pon stream id flow control enable.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|EN||
+|0|EN|0b0: disable 0b1: enable|

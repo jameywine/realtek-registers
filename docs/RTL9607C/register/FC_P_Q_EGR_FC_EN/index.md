@@ -23,9 +23,11 @@ tags:
 
 ## Description
 
+Specify per port per queue egress drop enable.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|EN||
+|0|EN|Per queue egress drop enable of port.<br>0b0: enable<br>0b1: disable|

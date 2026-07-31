@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+Specify flow control drop all threshold register.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:10|RESERVED||
-|9:0|TH||
+|9:0|TH|Flow control force drop(run-out) threshold. ASIC will force drop incoming packet while total page used counter is over this setting unit page|

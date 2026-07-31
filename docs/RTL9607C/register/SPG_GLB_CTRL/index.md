@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+Global smart packet generator control.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:16|RESERVED||
-|15:0|PAUSE_TIME||
+|15:0|PAUSE_TIME|To set the pause timer which will affect the pause frame|

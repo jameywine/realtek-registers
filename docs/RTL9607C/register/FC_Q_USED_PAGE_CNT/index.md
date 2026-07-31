@@ -23,12 +23,14 @@ tags:
 
 ## Description
 
+Specify the output queue used page count include maximum and dynamic used page count.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:26|RESERVED||
-|25:16|Q_MAX_USED_PAGE_CNT||
+|25:16|Q_MAX_USED_PAGE_CNT|maximum used page counts for output queue on each port.|
 |15:10|RESERVED||
-|9:0|Q_USED_PAGE_CNT||
+|9:0|Q_USED_PAGE_CNT|Dynamic used page counts for output queue on each port.|

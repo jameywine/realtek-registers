@@ -17,12 +17,14 @@ tags:
 
 ## Description
 
+Specify per port low on/off threshold when flow control on.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:26|RESERVED||
-|25:16|ON_TH||
+|25:16|ON_TH|Port based reserved threshold for turn on flow control|
 |15:10|RESERVED||
-|9:0|OFF_TH||
+|9:0|OFF_TH|Port based reserved threshold for turn off flow control|

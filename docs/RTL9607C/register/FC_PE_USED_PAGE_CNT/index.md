@@ -21,12 +21,14 @@ tags:
 
 ## Description
 
+Specify per egress port used page count include maximum and dynamic used page count.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:26|RESERVED||
-|25:16|PE_MAX_USED_PAGE_CNT||
+|25:16|PE_MAX_USED_PAGE_CNT|This register can latch the maximum used page RO count of egress port.|
 |15:10|RESERVED||
-|9:0|PE_USED_PAGE_CNT||
+|9:0|PE_USED_PAGE_CNT|This register can indicate dynamic used page count of egress port.|

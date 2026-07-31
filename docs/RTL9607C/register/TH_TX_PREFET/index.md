@@ -23,4 +23,4 @@ tags:
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:8|RESERVED||
-|7:0|CFG_TH_TX_PREFET||
+|7:0|CFG_TH_TX_PREFET|MAC TX prefect page threshold|

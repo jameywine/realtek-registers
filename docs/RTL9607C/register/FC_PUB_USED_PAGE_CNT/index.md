@@ -17,12 +17,14 @@ tags:
 
 ## Description
 
+Specify public used page count include maximum and dynamic used page count.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:26|RESERVED||
-|25:16|PUB_MAX_USED_PAGE_CNT||
+|25:16|PUB_MAX_USED_PAGE_CNT|This register can latch the maximum public used page count.|
 |15:10|RESERVED||
-|9:0|PUB_USED_PAGE_CNT||
+|9:0|PUB_USED_PAGE_CNT|This register can indicate the public used page count dynamic.|

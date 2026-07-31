@@ -23,4 +23,4 @@ tags:
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:1|RESERVED||
-|0|CLR_MAX_USED_PAGE_CNT||
+|0|CLR_MAX_USED_PAGE_CNT|Clear maximum latch page value|

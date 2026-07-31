@@ -23,9 +23,11 @@ tags:
 
 ## Description
 
+Specify per queue egress drop for packet from PON port enable.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|FC_EN||
+|0|FC_EN|Per queue egress drop enable of port.<br>0b0: enable<br>0b1: disable|

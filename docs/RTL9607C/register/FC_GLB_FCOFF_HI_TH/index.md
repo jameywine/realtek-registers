@@ -17,12 +17,14 @@ tags:
 
 ## Description
 
+Specify global high on/off threshold when flow contrl off.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:26|RESERVED||
-|25:16|ON_TH||
+|25:16|ON_TH|System based threshold for starting to drop packet|
 |15:10|RESERVED||
-|9:0|OFF_TH||
+|9:0|OFF_TH|System based threshold for stopping to drop packet|

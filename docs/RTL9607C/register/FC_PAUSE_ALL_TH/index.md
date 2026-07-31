@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+Specify flow control pause all threshold register.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:10|RESERVED||
-|9:0|TH||
+|9:0|TH|Threshold of system page usage number is over this one and egress flow control is enabled, ASIC will force sending pause ON frame to all ports untill page usaging number is under this threshold, unit page|
