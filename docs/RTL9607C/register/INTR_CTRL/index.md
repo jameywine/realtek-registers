@@ -17,6 +17,8 @@ tags:
 
 ## Description
 
+Global switch interrupt control register
+
 ## Fields
 
 
@@ -24,4 +26,4 @@ tags:
 | :--- | :--- | :--- |
 |31:2|RESERVED||
 |1|CFG_INT_TM_NEG||
-|0|INTR_POLARITY||
+|0|INTR_POLARITY|Interrupt active polarity while trigged<br>0:pull high<br>1:pull low|
