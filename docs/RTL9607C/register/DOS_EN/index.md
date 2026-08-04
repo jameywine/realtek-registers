@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+per-Port DOS function enable register
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|EN||
+|0|EN|Enable per-port DOS function|

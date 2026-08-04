@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+system-based FIN flood threshold register
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:8|RESERVED||
-|7:0|TH||
+|7:0|TH|System-based FIN flood threshold, time unit 1ms|
