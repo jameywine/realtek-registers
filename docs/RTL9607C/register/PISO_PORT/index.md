@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+Port isolation configuration that each port can specify a port list to communicate with.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|28:0|PORTMASK||
+|28:0|PORTMASK|The destination portmask of ingress port|
