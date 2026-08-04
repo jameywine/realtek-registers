@@ -23,4 +23,4 @@ tags:
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:14|SHMTR_PKT_RATE_DMY||
-|13:0|SHMTR_PKT_RATE||
+|13:0|SHMTR_PKT_RATE|Share meter mode for calcuating packet rate|
