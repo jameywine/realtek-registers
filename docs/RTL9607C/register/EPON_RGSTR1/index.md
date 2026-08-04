@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+register request configuration register
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:3|RESERVED||
-|2:0|REG_LLID_IDX||
+|2:0|REG_LLID_IDX|EPON registeration LLID index|

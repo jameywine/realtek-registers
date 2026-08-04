@@ -17,9 +17,11 @@ tags:
 
 ## Description
 
+min grant start time
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|GRANT_STRAT_MIN||
+|31:0|GRANT_STRAT_MIN|grant start accept min value|

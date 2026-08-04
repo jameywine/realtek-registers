@@ -26,4 +26,4 @@ tags:
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|2:0|CFG_LLID_QSET_NUM||
+|2:0|CFG_LLID_QSET_NUM|epon mpcp report queue set number|

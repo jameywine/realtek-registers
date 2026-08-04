@@ -17,9 +17,11 @@ tags:
 
 ## Description
 
+EPON Scheduling timing register?
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|CFG_EPON_SCH_LATENCY||
+|31:0|CFG_EPON_SCH_LATENCY|EPON Scheduling latency configuration. Set to 500 by SDK during epon init.|

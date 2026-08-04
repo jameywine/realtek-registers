@@ -23,4 +23,4 @@ tags:
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:16|RESERVED||
-|15:0|EPON_RDM_SEED||
+|15:0|EPON_RDM_SEED|Set to 0 by SDK for "init discovery random seed". During EPON registeration request, SDK sets it to the contetns of Coprocessor 0 Count as a pseudo‑random number|

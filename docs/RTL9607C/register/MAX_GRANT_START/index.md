@@ -17,9 +17,11 @@ tags:
 
 ## Description
 
+max grant start time
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|GRANT_STRAT_MAX||
+|31:0|GRANT_STRAT_MAX|grant start accept MAX value|

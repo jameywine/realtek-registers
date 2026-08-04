@@ -17,6 +17,8 @@ tags:
 
 ## Description
 
+EPON interrupt register
+
 ## Fields
 
 
@@ -31,13 +33,13 @@ tags:
 |19|EPON_1PPS_IMS||
 |18|RCOV_RXFEC_IMR||
 |17|RCOV_RXFEC_IMS||
-|16:9|MPCP_TIMEOUT_LLIDIDX||
+|16:9|MPCP_TIMEOUT_LLIDIDX|llid mpcp timeout mask|
 |8|REG_RESULT||
-|7|LOS_IMR||
-|6|REG_COMPLETE_IMR||
-|5|TIME_DRIFT_IMR||
-|4|MPCP_TIMEOUT_IMR||
-|3|LOS_IMS||
-|2|REG_COMPLETE_IMS||
-|1|TIME_DRIFT_IMS||
-|0|MPCP_TIMEOUT_IMS||
+|7|LOS_IMR|interrupt mask for LOS|
+|6|REG_COMPLETE_IMR|IMR register LLID tx|
+|5|TIME_DRIFT_IMR|IMR time drift|
+|4|MPCP_TIMEOUT_IMR|IMR mpcp timeout|
+|3|LOS_IMS|interrupt status for LOS.|
+|2|REG_COMPLETE_IMS|interrupt staus for register LLID tx<br>write 1 clear|
+|1|TIME_DRIFT_IMS|interrupt staus for time drift<br>write 1 clear|
+|0|MPCP_TIMEOUT_IMS|interrupt staus for mpcp timeout<br>write 1 clear|

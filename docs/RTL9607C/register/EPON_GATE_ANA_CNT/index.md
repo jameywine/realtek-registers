@@ -17,11 +17,13 @@ tags:
 
 ## Description
 
+EPON Gate Analog Counter? Contains debug counters.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:16|NOT_FORCE_RPT||
-|15:8|HIDDEN_GNT_CNT||
-|7:0|BTB_GNT_CNT||
+|31:16|NOT_FORCE_RPT|Gate No Force Report counter|
+|15:8|HIDDEN_GNT_CNT|hidden gate counter|
+|7:0|BTB_GNT_CNT|back to back gate counter|

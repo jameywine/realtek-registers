@@ -17,14 +17,16 @@ tags:
 
 ## Description
 
+FEC configuration register
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:22|RESERVED||
-|21:16|FEC_OVER_TX||
-|15|BYPASS_FEC||
+|21:16|FEC_OVER_TX|FEC Overhead|
+|15|BYPASS_FEC|1’b1: bypass FEC operation and reduce pkt latency|
 |14|DVSE_TPAR||
 |13:11|DVS_TPAR||
 |10|DVSE_DAT||
@@ -32,5 +34,5 @@ tags:
 |6|DVSE_RPAR||
 |5:3|DVS_RPAR||
 |2|RESERVED||
-|1|FEC_US_EN||
-|0|FEC_DS_EN||
+|1|FEC_US_EN|enable down stream FEC|
+|0|FEC_DS_EN|enable up stream FEC|

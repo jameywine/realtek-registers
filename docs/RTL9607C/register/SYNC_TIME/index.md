@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+sync time register
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:16|NORMAL_SYNC_TIME||
-|15:0|DISC_SYNC_TIME||
+|31:16|NORMAL_SYNC_TIME|normal sync time|
+|15:0|DISC_SYNC_TIME|discovery sync time|

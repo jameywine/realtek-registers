@@ -27,5 +27,5 @@ tags:
 |15:8|PREAMBLE_4TH||
 |7:3|RESERVED||
 |2|UNTAG_IFG_MODIFY||
-|1|GMII_RXER_EN||
+|1|GMII_RXER_EN|Set to 0 by SDK during EPON init|
 |0|PRB_LST_GN||

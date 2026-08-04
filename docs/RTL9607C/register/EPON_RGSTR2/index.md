@@ -17,11 +17,13 @@ tags:
 
 ## Description
 
+register request configuration register 2
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:9|RESERVED||
-|8:1|REG_PENDDING_GRANT||
-|0|REGISTER_REQUEST||
+|8:1|REG_PENDDING_GRANT|register pendding grant number, max vlaue is 32|
+|0|REGISTER_REQUEST|indicator ASIC must trigger register reguest|

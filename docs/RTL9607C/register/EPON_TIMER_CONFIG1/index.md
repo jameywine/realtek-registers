@@ -23,4 +23,4 @@ tags:
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:7|RESERVED||
-|6:0|MPCP_TIMEOUT_VALUE||
+|6:0|MPCP_TIMEOUT_VALUE|Record the mpcp age value.<br>This field is for REPORT_TIMER.<br>Write 0 to disable mpcp timer<br>Unit:10ms|

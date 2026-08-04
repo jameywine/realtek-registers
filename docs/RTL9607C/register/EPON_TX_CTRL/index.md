@@ -17,11 +17,13 @@ tags:
 
 ## Description
 
+EPON tx transmossion control register
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:4|RESERVED||
-|3|FORCE_LASER_ON||
-|2:0|LLID_IDX||
+|3|FORCE_LASER_ON|Force Laser status|
+|2:0|LLID_IDX|LLID index|

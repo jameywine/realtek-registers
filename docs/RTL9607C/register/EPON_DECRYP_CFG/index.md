@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+EPON Decryption configuration register
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:2|RESERVED||
-|1:0|EPON_DECRYP||
+|1:0|EPON_DECRYP|decryption mode.<br>1: churnning key mode.|
