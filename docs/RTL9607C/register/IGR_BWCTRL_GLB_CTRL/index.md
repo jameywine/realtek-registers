@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+Ingress bandwidth control global control register.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:1|RESERVED||
-|0|BYPASS_EN||
+|0|BYPASS_EN|Enable DMAC=01-80-C2-00-00-xx, IGMP/MLD control packet and ether type 8899 frames bypass ingress flow control|
