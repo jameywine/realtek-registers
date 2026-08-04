@@ -23,5 +23,5 @@ tags:
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:16|RESERVED||
-|15:8|SEP_MUX_SYMBOLERR_CNT_NEW_2316||
+|15:8|SEP_MUX_SYMBOLERR_CNT_NEW_2316|symbol error count of single channel high bits 23:16|
 |7:0|SEP_SDS_AFE_RG03_0700||

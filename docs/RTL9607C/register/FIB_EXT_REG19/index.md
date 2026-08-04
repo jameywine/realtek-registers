@@ -23,7 +23,7 @@ tags:
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:16|RESERVED||
-|15:14|FEP_CFG_TX_MODE||
+|15:14|FEP_CFG_TX_MODE|silent start. Only in Fiber mode.<br>0: Disable<br>1: Enable.|
 |13|FEP_CFG_DET_IDLE32_DIS||
 |12|FEP_CFG_DET_CG_DIS||
 |11|FEP_FIB_EXT_REG_19_11||

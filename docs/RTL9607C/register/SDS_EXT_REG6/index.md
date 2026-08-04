@@ -23,4 +23,4 @@ tags:
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:16|RESERVED||
-|15:0|SEP_CFG_FEC_MK_OPT||
+|15:0|SEP_CFG_FEC_MK_OPT|EPON ds fec. Set to 0x43 by SDK|

@@ -23,4 +23,4 @@ tags:
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:16|RESERVED||
-|15:0|SEP_ALL_SYMBOLERR_CNT_NEW_1500||
+|15:0|SEP_ALL_SYMBOLERR_CNT_NEW_1500|total symbol error count (sum of each channel’s error) bits 15:0|

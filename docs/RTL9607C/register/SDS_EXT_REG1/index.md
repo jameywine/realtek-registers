@@ -23,7 +23,7 @@ tags:
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:16|RESERVED||
-|15:8|SEP_ALL_SYMBOLERR_CNT_NEW_2316||
+|15:8|SEP_ALL_SYMBOLERR_CNT_NEW_2316|total symbol error count (sum of each channel’s error) high bits 23:16|
 |7|SEP_CFG_GLI_TXC_TOG_CH3||
 |6|SEP_CFG_GLI_TXC_TOG_CH2||
 |5|SEP_CFG_GLI_TXC_TOG_CH1||

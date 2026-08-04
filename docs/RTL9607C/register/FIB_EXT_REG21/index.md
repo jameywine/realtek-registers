@@ -25,7 +25,7 @@ tags:
 |31:16|RESERVED||
 |15|FEP_TX_EN_FIB1G||
 |14|FEP_TX_DATA_EN||
-|13|FEP_V2ANALOG||
+|13|FEP_V2ANALOG|Polling bit for 125M clock turn off. What triggers the polling is unknown. <br>0: Still polling.<br>1: Done.|
 |12:4|FEP_FIB_EXT_REG_21_1204||
 |3|FEP_DET_EPON||
 |2|FEP_DET_IDLE32||

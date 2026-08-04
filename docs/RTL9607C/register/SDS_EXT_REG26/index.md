@@ -23,7 +23,7 @@ tags:
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:16|RESERVED||
-|15:12|SEP_P3LNKDOWNCNT||
-|11:8|SEP_P2LNKDOWNCNT||
-|7:4|SEP_P1LNKDOWNCNT||
-|3:0|SEP_P0LNKDOWNCNT||
+|15:12|SEP_P3LNKDOWNCNT|link down counter of channel 3|
+|11:8|SEP_P2LNKDOWNCNT|link down counter of channel 2|
+|7:4|SEP_P1LNKDOWNCNT|link down counter of channel 1|
+|3:0|SEP_P0LNKDOWNCNT|link down counter of channel 0|

@@ -31,4 +31,4 @@ tags:
 |7|SEP_CFG_ENTX||
 |6|SEP_CFG_CMALI_SIG||
 |5:3|SEP_CFG_TMR_ALI||
-|2:0|SEP_CFG_SYMBOLERR_CNT||
+|2:0|SEP_CFG_SYMBOLERR_CNT|select symbol error count of different channel<br>3’d0: channel0<br>3’d1: channel1<br>3’d2: channel2<br>3’d2: channel2|

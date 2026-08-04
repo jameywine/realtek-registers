@@ -23,4 +23,4 @@ tags:
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:16|RESERVED||
-|15:0|SEP_PRBS_ERR_CNT_3116||
+|15:0|SEP_PRBS_ERR_CNT_3116|PRBS RX Error Count high bits|

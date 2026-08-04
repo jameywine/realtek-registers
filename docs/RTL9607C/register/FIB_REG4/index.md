@@ -23,4 +23,4 @@ tags:
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:16|RESERVED||
-|15:0|FP_CFG_FIB_TX_CFG_REG||
+|15:0|FP_CFG_FIB_TX_CFG_REG|Pause field config. Only for non PON modes.|

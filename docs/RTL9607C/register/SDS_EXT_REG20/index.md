@@ -38,4 +38,4 @@ tags:
 |3|SEP_CFG_DIS_CMA_CHGPOS||
 |2|SEP_CFG_SDS_MODE_3B||
 |1|SEP_CFG_STMALI_SEL||
-|0|SEP_CFG_PRBS_SEL_2||
+|0|SEP_CFG_PRBS_SEL_2|force PRBS status select high bit.|
