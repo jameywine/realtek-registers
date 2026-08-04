@@ -21,6 +21,8 @@ tags:
 
 ## Description
 
+tx clk toggle once when PORT_VM_TX is read (virtual MAC function)
+
 ## Fields
 
 

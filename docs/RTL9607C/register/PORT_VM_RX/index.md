@@ -21,6 +21,8 @@ tags:
 
 ## Description
 
+rx clk toggle once when PORT_VM_RX is write (virtual MAC function)
+
 ## Fields
 
 

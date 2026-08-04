@@ -21,10 +21,12 @@ tags:
 
 ## Description
 
+enable port gmii like function (virtual MAC function)
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:1|RESERVED||
-|0|PORT_VM_EN||
+|0|PORT_VM_EN|enable port gmii like function|
