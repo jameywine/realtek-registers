@@ -21,10 +21,12 @@ tags:
 
 ## Description
 
+BWMAP data register
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:16|RESERVED||
-|15:0|CAP_DATA||
+|15:0|CAP_DATA|BWMAP data captured|

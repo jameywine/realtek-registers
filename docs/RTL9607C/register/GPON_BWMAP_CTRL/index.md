@@ -17,13 +17,15 @@ tags:
 
 ## Description
 
+BWMAP control register
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:16|RESERVED||
-|15|CAP_EN||
-|14|CAP_CLR||
+|15|CAP_EN|Write 0x0 then 0x1 to start BWMAP capture.|
+|14|CAP_CLR|Write 0x0 then 0x1 to clear BWMAP capture buffer.|
 |13:8|RESERVED||
-|7:0|CAP_FRAME_NUM||
+|7:0|CAP_FRAME_NUM|Capture BWMAP in N GPON frames.|

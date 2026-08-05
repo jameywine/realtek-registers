@@ -17,11 +17,13 @@ tags:
 
 ## Description
 
+BWMAP status register
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:9|RESERVED||
-|8|CAP_OVERFL||
+|8|CAP_OVERFL|Indicate BWMAP capture buffer overflow.|
 |7:0|RESERVED||
