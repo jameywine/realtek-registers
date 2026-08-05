@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+AES key word data
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:16|RESERVED||
-|15:0|KEY_DATA||
+|15:0|KEY_DATA|AES key write/read data.|

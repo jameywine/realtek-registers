@@ -17,11 +17,13 @@ tags:
 
 ## Description
 
+AES intrrupt status
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:2|RESERVED||
-|1|INFO_FIFO_OVERFL||
-|0|DATA_FIFO_OVERFL||
+|1|INFO_FIFO_OVERFL|Status of Information Context FIFO|
+|0|DATA_FIFO_OVERFL|Status of Data FIFO|

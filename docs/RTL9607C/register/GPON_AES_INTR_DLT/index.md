@@ -17,13 +17,15 @@ tags:
 
 ## Description
 
+AES intrrupt indicator
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:16|RESERVED||
-|15|AES_DECRYPT_INTR||
+|15|AES_DECRYPT_INTR|Interrupt status of the AES module.<br>AES_DECRYPT_PAGE = (INFO_FIFO_OVERF_DLT and INFO_FIFO_OVERF_M) or (DATA_FIFO_OVERF_DLT and DATA_FIFO_OVERF_M);|
 |14:2|RESERVED||
-|1|INFO_FIFO_OVERFL_DLT||
-|0|DATA_FIFO_OVERFL_DLT||
+|1|INFO_FIFO_OVERFL_DLT|INFO_FIFO_OVERFL has changed since last time of reading.|
+|0|DATA_FIFO_OVERFL_DLT|DATA_FIFO_OVERFL has changed since last time of reading.|

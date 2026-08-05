@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+AES key switch timing
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:30|RESERVED||
-|29:0|SWITCH_SUPERFRAME||
+|29:0|SWITCH_SUPERFRAME|The super-frame counter from which the key being configured should be used.|
