@@ -17,9 +17,11 @@ tags:
 
 ## Description
 
+Downstream GEM port rx statistics counter
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|ETH_PKT_RX||
+|31:0|ETH_PKT_RX|Number of received Ethernet packets|

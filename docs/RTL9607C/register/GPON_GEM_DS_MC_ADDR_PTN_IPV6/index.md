@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+Multicast MAC address pattern for IPv6
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:16|RESERVED||
-|15:0|IPV6_MC_MAC_PREFIX||
+|15:0|IPV6_MC_MAC_PREFIX|IPv4 multicast MAC DA prefix (16-bit).|

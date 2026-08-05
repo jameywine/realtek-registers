@@ -17,9 +17,11 @@ tags:
 
 ## Description
 
+Downstream GEM block multicast read data
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|MC_ITEM_OP_RDATA||
+|31:0|MC_ITEM_OP_RDATA|Read Data.|

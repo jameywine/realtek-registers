@@ -17,9 +17,11 @@ tags:
 
 ## Description
 
+Downstream GEM block multicast write data
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|MC_ITEM_OP_WDATA||
+|31:0|MC_ITEM_OP_WDATA|Write Data.|

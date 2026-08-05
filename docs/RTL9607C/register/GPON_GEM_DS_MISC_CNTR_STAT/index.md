@@ -17,9 +17,11 @@ tags:
 
 ## Description
 
+Downstream GEM port miscellaneous statistics counter
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|MISC_CNTR||
+|31:0|MISC_CNTR|Miscellaneous counter in GEM_DS block.|

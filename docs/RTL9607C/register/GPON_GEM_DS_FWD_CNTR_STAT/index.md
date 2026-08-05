@@ -17,9 +17,11 @@ tags:
 
 ## Description
 
+Downstream GEM port fwd statistics counter
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|ETH_PKT_FWD||
+|31:0|ETH_PKT_FWD|Number of forwarded Ethernet packets.|

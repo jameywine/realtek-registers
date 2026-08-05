@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+Downstream GEM port miscellaneous counter indictor
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:3|RESERVED||
-|2:0|MISC_CNTR_IDX||
+|2:0|MISC_CNTR_IDX|Index of GPON_GEM_DS_MISC_CNTR_STAT.|

@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+Multicast MAC address pattern for IPv4
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:24|RESERVED||
-|23:0|IPV4_MC_MAC_PREFIX||
+|23:0|IPV4_MC_MAC_PREFIX|IPv4 multicast MAC DA prefix (24-bit).|
