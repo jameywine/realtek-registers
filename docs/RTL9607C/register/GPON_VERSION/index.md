@@ -17,9 +17,11 @@ tags:
 
 ## Description
 
+It contains design id and version id of GPON MAC TOP.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|VER_ID||
+|31:0|VER_ID|Design version number of GPON MAC TOP. The value will be changed with design version, check from release note|

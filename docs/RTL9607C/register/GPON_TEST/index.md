@@ -17,9 +17,11 @@ tags:
 
 ## Description
 
+Register for read/write testing.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|TEST_REG||
+|31:0|TEST_REG|Register for read/write testing.|

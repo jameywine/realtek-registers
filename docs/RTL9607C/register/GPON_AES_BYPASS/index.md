@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+Bypass AES_DECRYPT module
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:1|RESERVED||
-|0|M_BYPASS_AES_MOD||
+|0|M_BYPASS_AES_MOD|0x0: normal operation<br>0x1: bypass AES_DECRYPT module, only for debug|
