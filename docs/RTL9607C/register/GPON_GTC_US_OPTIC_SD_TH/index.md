@@ -17,12 +17,14 @@ tags:
 
 ## Description
 
+Optical SD threshold
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31|RESERVED||
-|30:16|OPTIC_SD_MISM_THREH||
+|30:16|OPTIC_SD_MISM_THREH|The threshold of time for upstream optic SD signal mismatching with the output Burst Enable|
 |15|RESERVED||
-|14:0|OPTIC_SD_TOOLONG_THRESH||
+|14:0|OPTIC_SD_TOOLONG_THRESH|The threshold of time for upstream optic SD signal assertion time. In unit of upstream byte.|

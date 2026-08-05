@@ -21,10 +21,12 @@ tags:
 
 ## Description
 
+PLOAMu data
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:16|RESERVED||
-|15:0|PLM_DATA||
+|15:0|PLM_DATA|PLOAMu Data. [7:0] will be sent first.|

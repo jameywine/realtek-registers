@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+ONU RDI detected
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:1|RESERVED||
-|0|ONU_RDI||
+|0|ONU_RDI|0x1: ONU RDI is detected.<br>Written by software, reported to OLT in PLOu field.|

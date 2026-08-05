@@ -17,12 +17,14 @@ tags:
 
 ## Description
 
+ONU dying gasp
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:9|RESERVED||
-|8|DG_STATUS||
-|7:4|DG_MSG_TX_CNT||
-|3:0|DG_MSG_TX_CNT_THRESHOLD||
+|8|DG_STATUS|0x1: currently in Dying Gasp status|
+|7:4|DG_MSG_TX_CNT|Counter of transmitted Dying Gasp messages|
+|3:0|DG_MSG_TX_CNT_THRESHOLD|Threshold of counter of transmitted Dying Gasp message, once the count reaching this threshold, an interrupt may be generated.|

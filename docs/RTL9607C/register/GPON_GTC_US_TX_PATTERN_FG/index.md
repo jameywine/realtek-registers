@@ -17,6 +17,8 @@ tags:
 
 ## Description
 
+Tx pattern FG. The register is protected.
+
 ## Fields
 
 

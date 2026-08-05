@@ -17,6 +17,8 @@ tags:
 
 ## Description
 
+GTC upstream intrrupt status
+
 ## Fields
 
 
@@ -27,5 +29,5 @@ tags:
 |6|RESERVED||
 |5|PLM_URG_EMPTY||
 |4:3|RESERVED||
-|2|US_FEC_STS||
+|2|US_FEC_STS|Present U/S FEC Status, updated by latest received BWMap allocation.|
 |1:0|RESERVED||

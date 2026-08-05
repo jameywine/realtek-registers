@@ -17,9 +17,11 @@ tags:
 
 ## Description
 
+GTC upstream miscellaneous statistics counter
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|MISC_CNTR||
+|31:0|MISC_CNTR|Miscellaneous counters in GTC_US block.|

@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+GTC upstream Power Saving mode
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:1|DMY_XX_04||
-|0|PWR_SAV_MODE||
+|0|PWR_SAV_MODE|1: GEM mode.|

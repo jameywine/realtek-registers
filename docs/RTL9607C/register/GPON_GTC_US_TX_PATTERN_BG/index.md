@@ -17,6 +17,8 @@ tags:
 
 ## Description
 
+Tx pattern BG. The register is protected.
+
 ## Fields
 
 

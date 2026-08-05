@@ -17,11 +17,13 @@ tags:
 
 ## Description
 
+ONU Identifier
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:16|RESERVED||
-|15:8|ONU_ID||
+|15:8|ONU_ID|ONU Identifier, use to compose PLOAMu messages.|
 |7:0|RESERVED||
