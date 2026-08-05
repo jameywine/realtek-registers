@@ -21,9 +21,15 @@ tags:
 
 ## Description
 
+Flow Traffic Table register.
+
+Used in rtk_rg_asic_flowTrfIndicator_get(), rtk_rg_asic_flowTraffic_get(), rtk_rg_asic_flowValidBit_get() functions.
+
+Array range is for position of flow entry index?
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|TRF||
+|31:0|TRF|flow traffic bits|
