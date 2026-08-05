@@ -17,9 +17,11 @@ tags:
 
 ## Description
 
+GEM upstream received ether or gem statistics counter
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|ETH_GEM_RX_CNTR||
+|31:0|ETH_GEM_RX_CNTR|Number of received Ethernet packets or GEM fragment.|

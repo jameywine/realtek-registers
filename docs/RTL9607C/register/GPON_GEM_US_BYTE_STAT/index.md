@@ -21,10 +21,12 @@ tags:
 
 ## Description
 
+GEM upstream byte statistics counter
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|63:32|CNTR_LOW32||
-|31:0|CNTR_HIGH32||
+|63:32|CNTR_LOW32|The low 32 bits of data bytes counter by the local Port Index.<br>The array index map to the local Port Index.|
+|31:0|CNTR_HIGH32|The high 32 bits of data bytes counter by the local Port Index.<br>The array index map to the local Port Index.|

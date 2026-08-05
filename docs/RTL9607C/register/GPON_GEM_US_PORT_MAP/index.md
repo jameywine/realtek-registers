@@ -21,10 +21,12 @@ tags:
 
 ## Description
 
+Upstream GEM port configuration
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:12|RESERVED||
-|11:0|PORT_CFG_DATA||
+|11:0|PORT_CFG_DATA|Translate the local Port index to global GEM PortID.<br>The array index map to the local port Index.|
