@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+Superframe Counter
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:30|RESERVED||
-|29:0|SF_CNTR||
+|29:0|SF_CNTR|Superframe Counter.|

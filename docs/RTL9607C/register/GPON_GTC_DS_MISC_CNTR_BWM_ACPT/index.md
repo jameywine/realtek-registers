@@ -17,9 +17,11 @@ tags:
 
 ## Description
 
+Dowmstream statistics.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|CNTR_BWMAP_ACCPTED||
+|31:0|CNTR_BWMAP_ACCPTED|Number of accepted BWMap items.|

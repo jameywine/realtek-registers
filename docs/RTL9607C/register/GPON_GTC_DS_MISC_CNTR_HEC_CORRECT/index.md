@@ -17,9 +17,11 @@ tags:
 
 ## Description
 
+Dowmstream statistics.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|CNTR_HEC_CORRECTED||
+|31:0|CNTR_HEC_CORRECTED|Number of GEM headers corrected by HEC decoding.|

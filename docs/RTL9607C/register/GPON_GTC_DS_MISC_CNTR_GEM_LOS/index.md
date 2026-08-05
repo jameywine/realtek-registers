@@ -17,9 +17,11 @@ tags:
 
 ## Description
 
+Dowmstream statistics.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|CNTR_GEM_LOS||
+|31:0|CNTR_GEM_LOS|Times of D/S GEM loss of delimitation due to HEC errors.|

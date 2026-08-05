@@ -17,9 +17,11 @@ tags:
 
 ## Description
 
+Dowmstream statistics.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|CNTR_FEC_UNCORRETABLE_CW||
+|31:0|CNTR_FEC_UNCORRETABLE_CW|Number of uncorrectable FEC blocks.|

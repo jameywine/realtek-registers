@@ -17,9 +17,11 @@ tags:
 
 ## Description
 
+Dowmstream statistics.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|CNTR_DS_BIP_ERR_BITS||
+|31:0|CNTR_DS_BIP_ERR_BITS|Number of erroneous bits in D/S BIP.|

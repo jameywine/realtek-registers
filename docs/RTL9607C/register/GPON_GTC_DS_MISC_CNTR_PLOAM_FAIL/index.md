@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+Dowmstream statistics.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:16|CNTR_PLOAMD_OVERFLOW||
-|15:0|CNTR_PLOAMD_CRC_ERR||
+|31:16|CNTR_PLOAMD_OVERFLOW|Number of received PLOAMd messages dropped due to buffer overflow.|
+|15:0|CNTR_PLOAMD_CRC_ERR|Number of PLOAMd messages with CRC error.|

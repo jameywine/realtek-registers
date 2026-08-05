@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+Dowmstream statistics.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:16|CNTR_PLEND_FAIL||
-|15:0|CNTR_SUPERFRAME_LOS||
+|15:0|CNTR_SUPERFRAME_LOS|Times of Superframe Loss of Synchronization.|

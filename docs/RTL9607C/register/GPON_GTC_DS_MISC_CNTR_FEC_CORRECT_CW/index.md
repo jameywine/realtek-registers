@@ -17,9 +17,11 @@ tags:
 
 ## Description
 
+Dowmstream statistics.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|CNTR_FEC_CORRETED_CW||
+|31:0|CNTR_FEC_CORRETED_CW|Number of code words corrected by D/S FEC decoding.|

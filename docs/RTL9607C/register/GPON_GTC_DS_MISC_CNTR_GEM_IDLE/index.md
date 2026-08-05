@@ -17,9 +17,11 @@ tags:
 
 ## Description
 
+Dowmstream statistics.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|CNTR_GEM_IDLE||
+|31:0|CNTR_GEM_IDLE|Number of Idle GEM packets received from OLT.|

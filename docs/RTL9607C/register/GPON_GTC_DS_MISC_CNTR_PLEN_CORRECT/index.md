@@ -17,6 +17,8 @@ tags:
 
 ## Description
 
+Dowmstream statistics.
+
 ## Fields
 
 
@@ -24,4 +26,4 @@ tags:
 | :--- | :--- | :--- |
 |31:24|CNTR_BLEN_TOOLONG||
 |23:16|CNTR_PLEND_UNCORRECTABLE||
-|15:0|CNTR_PLEND_CORRECTIONS||
+|15:0|CNTR_PLEND_CORRECTIONS|Corrected PLENd structures.|

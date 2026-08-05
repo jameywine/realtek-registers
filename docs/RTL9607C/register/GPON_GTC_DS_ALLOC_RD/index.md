@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+AllocID read operation
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:12|RESERVED||
-|11:0|ALLOCID_OP_RDATA||
+|11:0|ALLOCID_OP_RDATA|Read Data of AllocID configuration.|

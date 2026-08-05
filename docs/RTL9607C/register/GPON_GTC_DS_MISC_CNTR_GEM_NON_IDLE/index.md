@@ -17,9 +17,11 @@ tags:
 
 ## Description
 
+Dowmstream statistics.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|CNTR_RX_GEM_NON_IDLE||
+|31:0|CNTR_RX_GEM_NON_IDLE|Total number of non-dile GEM fragments received in downstream.|

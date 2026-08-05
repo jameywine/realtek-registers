@@ -17,9 +17,11 @@ tags:
 
 ## Description
 
+Dowmstream statistics.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|CNTR_DS_BIP_ERR_BLOCK||
+|31:0|CNTR_DS_BIP_ERR_BLOCK|Number of D/S BIP blocks with error, based on block. That is, each erroneous BIP is counted as 1, not matter how many bits in the BIP are incorrect.|

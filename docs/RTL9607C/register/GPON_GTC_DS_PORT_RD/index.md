@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+PortID read operation
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:12|RESERVED||
-|11:0|PORTID_OP_RDATA||
+|11:0|PORTID_OP_RDATA|Read Data of PortID configuration.|

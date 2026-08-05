@@ -21,10 +21,12 @@ tags:
 
 ## Description
 
+Downstream PLOAM message indication
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:16|RESERVED||
-|15:0|PLOAM_RDATA||
+|15:0|PLOAM_RDATA|Received PLOAM data.|

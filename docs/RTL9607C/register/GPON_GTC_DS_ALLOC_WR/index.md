@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+AllocID write operation
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:12|RESERVED||
-|11:0|ALLOCID_OP_WDATA||
+|11:0|ALLOCID_OP_WDATA|Write Data of AllocID configuration.|
