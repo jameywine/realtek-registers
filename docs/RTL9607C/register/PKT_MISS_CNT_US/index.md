@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+PONNIC packet counters for PBO upstream
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:16|MISS_CNT||
-|15:0|RESERVED||
+|15:0|RESERVED|counter of missed packets resulting from Rx FIFO full.|

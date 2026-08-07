@@ -17,6 +17,8 @@ tags:
 
 ## Description
 
+PONNIC Upstream CONFIGURATION Register
+
 ## Fields
 
 
@@ -25,9 +27,9 @@ tags:
 |31:30|RESERVED||
 |29:28|RFF_SIZE_SEL||
 |27|RESERVED||
-|26|E_EN_RFF_AFULL||
+|26|E_EN_RFF_AFULL|Set by SDK during PBO init.|
 |25:18|RESERVED||
-|17|EN_TX_STOP||
-|16|EN_TXE_EXTRA||
+|17|EN_TX_STOP|Set by SDK during PBO init.|
+|16|EN_TXE_EXTRA|Set by SDK during PBO init.|
 |15:7|RESERVED||
 |6:0|RX_SID||
