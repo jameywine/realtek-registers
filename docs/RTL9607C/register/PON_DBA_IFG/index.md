@@ -23,4 +23,4 @@ tags:
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:1|RESERVED||
-|0|DBA_IFG||
+|0|DBA_IFG|Set to 1 by SDK during epon init for "report include ifg"|

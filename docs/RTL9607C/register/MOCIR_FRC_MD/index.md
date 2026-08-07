@@ -17,9 +17,11 @@ tags:
 
 ## Description
 
+force mode for determining cir satisfied
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|MOCIR_FRC_MD||
+|31:0|MOCIR_FRC_MD|Set to 0xffffffff by SDK during QoS init for "disable auto-detection when CIR exceed"|

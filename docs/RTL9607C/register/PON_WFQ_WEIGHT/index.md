@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+PON WFQ weigth related configuration
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|9:0|WEIGHT_PON||
+|9:0|WEIGHT_PON|Weight of PON WFQ|

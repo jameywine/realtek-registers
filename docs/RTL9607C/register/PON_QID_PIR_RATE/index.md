@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+PIR rate control register
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|17:0|RATE||
+|17:0|RATE|Fiber MAC per-queue PIR/APR rate, unit 64Kpbs|

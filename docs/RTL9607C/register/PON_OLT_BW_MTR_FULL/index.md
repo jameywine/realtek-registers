@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+OLT Bandwidth Meter full
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:18|RESERVED||
-|17:0|OLT_BW_MTR_FULL||
+|17:0|OLT_BW_MTR_FULL|upbond of meter for OLT allocated bandwidth|

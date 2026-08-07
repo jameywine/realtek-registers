@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+PON PBO SID over latched Status
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|OVER_STS||
+|0|OVER_STS|flowcontrol latched status.<br>0: Disabled.<br>1: Enabled.|

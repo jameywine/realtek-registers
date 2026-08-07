@@ -21,10 +21,12 @@ tags:
 
 ## Description
 
+PON Scheduling rate register
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:18|RESERVED||
-|17:0|RATE||
+|17:0|RATE|Scheduling rate of PON|

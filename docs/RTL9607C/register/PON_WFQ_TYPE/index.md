@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+PON queue scheuling type configuration
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|QUEUE_TYPE||
+|0|QUEUE_TYPE|WFQ or strict queue type setting for PON<br>0b0:strict queue type<br>0b1:WFQ queue type|

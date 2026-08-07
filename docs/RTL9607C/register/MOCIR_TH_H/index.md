@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+high threshold for determining total cir satisfied
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:17|RESERVED||
-|16:0|MOCIR_TH_H||
+|16:0|MOCIR_TH_H|high threshold for determining total cir satisfied|

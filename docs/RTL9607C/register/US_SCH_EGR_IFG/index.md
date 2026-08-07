@@ -24,4 +24,4 @@ tags:
 | :--- | :--- | :--- |
 |31:2|RESERVED||
 |1|LVL_ADD_STORE_LEN||
-|0|PON_EGR_IFG||
+|0|PON_EGR_IFG|pon port egress bandwidth control IFG state|

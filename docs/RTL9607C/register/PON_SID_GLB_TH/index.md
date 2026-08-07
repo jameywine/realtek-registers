@@ -17,12 +17,14 @@ tags:
 
 ## Description
 
+global on/off threshold of pon pbo
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:29|RESERVED||
-|28:16|ON_TH||
+|28:16|ON_TH|global on threshold|
 |15:13|RESERVED||
-|12:0|OFF_TH||
+|12:0|OFF_TH|global off threshold|

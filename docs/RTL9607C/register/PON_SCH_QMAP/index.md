@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+scheduling queue usage mapping register
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|MAPPING_TBL||
+|31:0|MAPPING_TBL|32 queues usage mapping control|

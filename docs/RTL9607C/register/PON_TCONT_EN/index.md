@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+Specify pon port per queue egress drop enable.
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|TCONT_EN||
+|0|TCONT_EN|Per T-CONT enable/disable.<br>0b0: disable<br>0b1: enable|

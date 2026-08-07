@@ -17,11 +17,13 @@ tags:
 
 ## Description
 
+EPON Report mode register
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:16|REPORT_CNT_ADJ||
+|31:16|REPORT_CNT_ADJ|adjust report value in TQ.|
 |15:3|RESERVED||
-|2:0|REPORT_MODE||
+|2:0|REPORT_MODE|Report mode.<br>0: Normal.<br>2: Force 0.<br>3: Force F.<br>4: 0 F|

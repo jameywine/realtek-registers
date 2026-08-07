@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+PON Egress rate register
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:18|RESERVED||
-|17:0|RATE||
+|17:0|RATE|Egress rate of PON|

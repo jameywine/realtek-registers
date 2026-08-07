@@ -17,9 +17,11 @@ tags:
 
 ## Description
 
+force value for determining cir satisfied
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|MOCIR_FRC_VAL||
+|31:0|MOCIR_FRC_VAL|force value for determining cir satisfied|

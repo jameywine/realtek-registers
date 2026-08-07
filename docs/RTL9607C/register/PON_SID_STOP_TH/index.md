@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+PON PBO SID stop threshold
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:13|RESERVED||
-|12:0|TH||
+|12:0|TH|PON PBO SID stop threshold|
