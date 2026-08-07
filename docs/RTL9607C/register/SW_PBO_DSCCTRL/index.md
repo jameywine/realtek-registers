@@ -24,4 +24,4 @@ tags:
 | :--- | :--- | :--- |
 |31:3|RESERVED||
 |2|CFG_PON_EXRXSPC||
-|1:0|CFG_PAGE_SIZE||
+|1:0|CFG_PAGE_SIZE|switch PBO page size.<br>0: 128B.<br>1: 256B.<br>2: 512B.|

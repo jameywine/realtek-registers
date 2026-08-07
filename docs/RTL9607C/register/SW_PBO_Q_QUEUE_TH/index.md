@@ -23,9 +23,11 @@ tags:
 
 ## Description
 
+switch PBO UTP queue page use threshold
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|9:0|TH||
+|9:0|TH|page use threshold of queue|

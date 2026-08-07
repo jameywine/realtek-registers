@@ -21,12 +21,14 @@ tags:
 
 ## Description
 
+switch PBO UTP port used page current and maximum counters
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:26|RESERVED||
-|25:16|MAX||
+|25:16|MAX|maximum used page counter|
 |15:10|RESERVED||
-|9:0|CURRENT||
+|9:0|CURRENT|current used page counter|

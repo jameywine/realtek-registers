@@ -21,12 +21,14 @@ tags:
 
 ## Description
 
+switch PBO descriptor usage current
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:26|RESERVED||
-|25:16|DRAM_USED||
+|25:16|DRAM_USED|current DRAM used descriptor|
 |15:10|RESERVED||
-|9:0|SRAM_USED||
+|9:0|SRAM_USED|current SRAM used descriptor|

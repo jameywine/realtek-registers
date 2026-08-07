@@ -21,13 +21,15 @@ tags:
 
 ## Description
 
+switch PBO descriptor usage maximum
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31|CLR_MAX_DSC_CNT||
+|31|CLR_MAX_DSC_CNT|Clear switch PBO descriptor usage maximum counter|
 |30:26|RESERVED||
-|25:16|DRAM_MAX||
+|25:16|DRAM_MAX|maximum DRAM used descriptor|
 |15:10|RESERVED||
-|9:0|SRAM_MAX||
+|9:0|SRAM_MAX|maximum SRAM used descriptor|

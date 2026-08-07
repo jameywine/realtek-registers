@@ -24,7 +24,7 @@ tags:
 | :--- | :--- | :--- |
 |31:10|RESERVED||
 |9|SWPBOQ_EN||
-|8|PONIP_SID_MAX_PG_CLR||
-|7|PONIP_SID_BUSY||
-|6|PONIP_SID_READ||
-|5:0|PONIP_SID_SEL||
+|8|PONIP_SID_MAX_PG_CLR|Set to clear SID max page counter|
+|7|PONIP_SID_BUSY|Busy bit?|
+|6|PONIP_SID_READ|Set to perform a read operation to get counter stats.|
+|5:0|PONIP_SID_SEL|PON SID select to read the counters from. Calculated by the equation "port_num * 8 + queue_num"|

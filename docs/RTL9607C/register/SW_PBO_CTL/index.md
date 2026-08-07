@@ -25,4 +25,4 @@ tags:
 |31:3|RESERVED||
 |2|CFG_STOP_RXC_EN||
 |1|RST_PBO||
-|0|CFG_SW_PBUF_EN||
+|0|CFG_SW_PBUF_EN|current switch PBO state.<br>0: Disable.<br>1: Enable.|

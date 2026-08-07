@@ -23,9 +23,13 @@ tags:
 
 ## Description
 
+Switch PBO Counter group & sid mask?
+
+Port range corresponds to group and Array range corresponds to qid
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|DBG_CNT_SID_MASK||
+|0|DBG_CNT_SID_MASK|Set to add member to counter group for Switch PBO|

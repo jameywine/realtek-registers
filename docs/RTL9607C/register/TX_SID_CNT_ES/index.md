@@ -21,6 +21,8 @@ tags:
 
 ## Description
 
+PBO group packet counters for Switch PBO
+
 ## Fields
 
 

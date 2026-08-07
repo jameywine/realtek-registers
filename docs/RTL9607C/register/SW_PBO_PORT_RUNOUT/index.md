@@ -21,12 +21,14 @@ tags:
 
 ## Description
 
+switch PBO descriptor runout threshold
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
 |31:26|RESERVED||
-|25:16|DRAM_RUNOUT||
+|25:16|DRAM_RUNOUT|DRAM runout threshold|
 |15:10|RESERVED||
-|9:0|SRAM_RUNOUT||
+|9:0|SRAM_RUNOUT|SRAM runout threshold|

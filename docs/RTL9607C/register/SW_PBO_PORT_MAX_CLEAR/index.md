@@ -21,9 +21,11 @@ tags:
 
 ## Description
 
+Clear switch PBO UTP port used page maximum counter
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|0|CLEAR||
+|0|CLEAR|Set 1 to perform a clear of switch PBO UTP port used page maximum counter|

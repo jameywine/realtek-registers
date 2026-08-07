@@ -17,9 +17,11 @@ tags:
 
 ## Description
 
+switch PBO memory base
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:0|CFG_PON_MSTBASE||
+|31:0|CFG_PON_MSTBASE|Kernel allocated switch pbo memory base in a physical address form. Calculated by multiplying pbo page size (128, 258, 512), max switch page count (0x400) and 5, then adding (1 << 7) for "alignment" and putting it into kmalloc. After that convert it to physical address and write that final value to this bit field.|
