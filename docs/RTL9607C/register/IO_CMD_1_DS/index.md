@@ -17,6 +17,8 @@ tags:
 
 ## Description
 
+PONNIC downstream IO Command 1 register
+
 ## Fields
 
 
@@ -39,6 +41,6 @@ tags:
 |9|R_SET_RX_P1QFLAG||
 |8|R_SET_RX_P0QFLAG||
 |7:6|RESERVED||
-|5:4|R_RPAGE_SIZE||
+|5:4|R_RPAGE_SIZE|PONNIC upstream Rx page size.<br>0: 128B<br>1: 256B<br>2: 512B|
 |3:2|RESERVED||
-|1:0|R_TPAGE_SIZE||
+|1:0|R_TPAGE_SIZE|PONNIC upstream Tx page size.<br>0: 128B<br>1: 256B<br>2: 512B|
