@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+PONNIC packet counters for Switch PBO
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:16|MISS_CNT||
+|31:16|MISS_CNT|counter of missed packets resulting from Rx FIFO full.|
 |15:0|RESERVED||

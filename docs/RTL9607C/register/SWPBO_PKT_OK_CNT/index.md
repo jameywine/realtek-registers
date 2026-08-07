@@ -17,10 +17,12 @@ tags:
 
 ## Description
 
+PONNIC packet counters for Switch PBO
+
 ## Fields
 
 
 |Bit(s)|Field Name|Description|
 | :--- | :--- | :--- |
-|31:16|TX_OK_CNT||
-|15:0|RX_OK_CNT||
+|31:16|TX_OK_CNT|counter of Tx DMA Ok packets|
+|15:0|RX_OK_CNT|counter of Rx Ok packets|
